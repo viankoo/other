@@ -1,0 +1,939 @@
+Message-ID: <700218660.10589.1546418069453.JavaMail.root@shjhkftoolssrv.ciicsh.local>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_10588_211636099.1546418069452"
+
+------=_Part_10588_211636099.1546418069452
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E5=9C=A8Spring Boot=E4=B8=AD=E6=95=B4=E5=90=88Spring Security=
+=E5=B9=B6=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E4=BB=A3=E7=A0=81</t=
+itle>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E5=9C=A8Spring Boot=E4=B8=AD=E6=95=B4=E5=90=88Spring Security=E5=
+=B9=B6=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E4=BB=A3=E7=A0=81</h1>
+    <div class=3D"Section1">
+        <p><br></p>
+<h1 id=3D"id-=E5=9C=A8SpringBoot=E4=B8=AD=E6=95=B4=E5=90=88SpringSecurity=
+=E5=B9=B6=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E4=BB=A3=E7=A0=81-=
+=E6=9C=80=E7=BB=88=E6=95=88=E6=9E=9C">=E6=9C=80=E7=BB=88=E6=95=88=E6=9E=9C<=
+/h1>
+<blockquote style=3D"margin-left: 0.0px;">
+<p>1=E3=80=81=E5=AE=9E=E7=8E=B0=E9=A1=B5=E9=9D=A2=E8=AE=BF=E9=97=AE=E6=9D=
+=83=E9=99=90=E9=99=90=E5=88=B6&nbsp;<br>2=E3=80=81=E7=94=A8=E6=88=B7=E8=A7=
+=92=E8=89=B2=E5=8C=BA=E5=88=86=EF=BC=8C=E5=B9=B6=E6=8C=89=E7=85=A7=E8=A7=92=
+=E8=89=B2=E5=8C=BA=E5=88=86=E9=A1=B5=E9=9D=A2=E6=9D=83=E9=99=90&nbsp;<br>3=
+=E3=80=81=E5=AE=9E=E7=8E=B0=E5=9C=A8<a class=3D"external-link" href=3D"http=
+://lib.csdn.net/base/mysql" title=3D"MySQL=E7=9F=A5=E8=AF=86=E5=BA=93" rel=
+=3D"nofollow">=E6=95=B0=E6=8D=AE=E5=BA=93</a>=E4=B8=AD=E5=AD=98=E5=82=A8=E7=
+=94=A8=E6=88=B7=E4=BF=A1=E6=81=AF=E4=BB=A5=E5=8F=8A=E8=A7=92=E8=89=B2=E4=BF=
+=A1=E6=81=AF&nbsp;<br>4=E3=80=81=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=
+=81=E4=BB=A3=E7=A0=81</p>
+</blockquote>
+<p>=E6=95=88=E6=9E=9C=E5=A6=82=E4=B8=8B=EF=BC=9A&nbsp;<br>1=E3=80=81=E5=85=
+=8D=E9=AA=8C=E8=AF=81=E9=A1=B5=E9=9D=A2&nbsp;<br><span class=3D"confluence-=
+embedded-file-wrapper"><img class=3D"confluence-embedded-image confluence-e=
+xternal-resource" alt=3D"=E8=BF=99=E9=87=8C=E5=86=99=E5=9B=BE=E7=89=87=E6=
+=8F=8F=E8=BF=B0" src=3D"http://img.blog.csdn.net/20160225152606584" data-im=
+age-src=3D"http://img.blog.csdn.net/20160225152606584"></span>&nbsp;<br>2=
+=E3=80=81=E7=99=BB=E9=99=86=E9=A1=B5=E9=9D=A2&nbsp;<br>=E5=9C=A8=E7=94=A8=
+=E6=88=B7=E6=9C=AA=E7=99=BB=E5=BD=95=E6=97=B6=EF=BC=8C=E8=AE=BF=E9=97=AE=E4=
+=BB=BB=E6=84=8F=E6=9C=89=E6=9D=83=E9=99=90=E8=A6=81=E6=B1=82=E7=9A=84=E9=A1=
+=B5=E9=9D=A2=E9=83=BD=E4=BC=9A=E8=87=AA=E5=8A=A8=E8=B7=B3=E8=BD=AC=E5=88=B0=
+=E7=99=BB=E9=99=86=E9=A1=B5=E9=9D=A2=E3=80=82&nbsp;<br><span class=3D"confl=
+uence-embedded-file-wrapper"><img class=3D"confluence-embedded-image conflu=
+ence-external-resource" alt=3D"=E8=BF=99=E9=87=8C=E5=86=99=E5=9B=BE=E7=89=
+=87=E6=8F=8F=E8=BF=B0" src=3D"http://img.blog.csdn.net/20160225152712631" d=
+ata-image-src=3D"http://img.blog.csdn.net/20160225152712631"></span>&nbsp;<=
+br>3=E3=80=81=E9=9C=80=E7=99=BB=E9=99=86=E6=89=8D=E8=83=BD=E6=9F=A5=E7=9C=
+=8B=E7=9A=84=E9=A1=B5=E9=9D=A2&nbsp;<br>=E7=94=A8=E6=88=B7=E7=99=BB=E9=99=
+=86=E5=90=8E=EF=BC=8C=E5=8F=AF=E4=BB=A5=E6=AD=A3=E5=B8=B8=E8=AE=BF=E9=97=AE=
+=E9=A1=B5=E9=9D=A2=E8=B5=84=E6=BA=90=EF=BC=8C=E5=90=8C=E6=97=B6=E5=8F=AF=E4=
+=BB=A5=E6=AD=A3=E7=A1=AE=E6=98=BE=E7=A4=BA=E7=94=A8=E6=88=B7=E7=99=BB=E5=BD=
+=95=E5=90=8D=EF=BC=9A&nbsp;<br><span class=3D"confluence-embedded-file-wrap=
+per"><img class=3D"confluence-embedded-image confluence-external-resource" =
+alt=3D"=E8=BF=99=E9=87=8C=E5=86=99=E5=9B=BE=E7=89=87=E6=8F=8F=E8=BF=B0" src=
+=3D"http://img.blog.csdn.net/20160225152814949" data-image-src=3D"http://im=
+g.blog.csdn.net/20160225152814949"></span>&nbsp;<br>4=E3=80=81=E7=94=A8=E6=
+=88=B7=E6=9C=89=E8=A7=92=E8=89=B2=E5=8C=BA=E5=88=86=EF=BC=8C=E5=8F=AF=E4=BB=
+=A5=E6=8C=87=E5=AE=9A=E9=83=A8=E5=88=86=E9=A1=B5=E9=9D=A2=E5=8F=AA=E5=85=81=
+=E8=AE=B8=E6=9C=89=E7=9B=B8=E5=BA=94=E7=94=A8=E6=88=B7=E8=A7=92=E8=89=B2=E7=
+=9A=84=E4=BA=BA=E4=BD=BF=E7=94=A8&nbsp;<br>4.1=E3=80=81=E5=8F=AA=E6=9C=89AD=
+MIN=E8=A7=89=E5=BE=97=E7=94=A8=E6=88=B7=E6=89=8D=E8=83=BD=E6=9F=A5=E7=9C=8B=
+=E7=9A=84=E9=A1=B5=E9=9D=A2=EF=BC=88=E6=9D=83=E9=99=90=E4=B8=8D=E8=B6=B3=EF=
+=BC=89&nbsp;<br><span class=3D"confluence-embedded-file-wrapper"><img class=
+=3D"confluence-embedded-image confluence-external-resource" alt=3D"=E8=BF=
+=99=E9=87=8C=E5=86=99=E5=9B=BE=E7=89=87=E6=8F=8F=E8=BF=B0" src=3D"http://im=
+g.blog.csdn.net/20160225152920466" data-image-src=3D"http://img.blog.csdn.n=
+et/20160225152920466"></span>&nbsp;<br>4.2=E3=80=81=E5=8F=AA=E6=9C=89ADMIN=
+=E8=A7=89=E5=BE=97=E7=94=A8=E6=88=B7=E6=89=8D=E8=83=BD=E6=9F=A5=E7=9C=8B=E7=
+=9A=84=E9=A1=B5=E9=9D=A2=EF=BC=88=E6=9D=83=E9=99=90=E6=BB=A1=E8=B6=B3=EF=BC=
+=89&nbsp;<br><span class=3D"confluence-embedded-file-wrapper"><img class=3D=
+"confluence-embedded-image confluence-external-resource" alt=3D"=E8=BF=99=
+=E9=87=8C=E5=86=99=E5=9B=BE=E7=89=87=E6=8F=8F=E8=BF=B0" src=3D"http://img.b=
+log.csdn.net/20160225153001374" data-image-src=3D"http://img.blog.csdn.net/=
+20160225153001374"></span></p>
+<p>=E4=BB=A5=E4=B8=8B=E5=85=B7=E4=BD=93=E8=AF=B4=E6=98=8E=E5=AE=9E=E7=8E=B0=
+=E6=AD=A5=E9=AA=A4=E3=80=82</p>
+<h1 id=3D"id-=E5=9C=A8SpringBoot=E4=B8=AD=E6=95=B4=E5=90=88SpringSecurity=
+=E5=B9=B6=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E4=BB=A3=E7=A0=81-=
+=E4=BB=A3=E7=A0=81=E5=AE=9E=E7=8E=B0">=E4=BB=A3=E7=A0=81=E5=AE=9E=E7=8E=B0<=
+/h1>
+<h2 id=3D"id-=E5=9C=A8SpringBoot=E4=B8=AD=E6=95=B4=E5=90=88SpringSecurity=
+=E5=B9=B6=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E4=BB=A3=E7=A0=81-MA=
+VEN=E5=BC=95=E5=85=A5=E4=BE=9D=E8=B5=96">MAVEN=E5=BC=95=E5=85=A5=E4=BE=9D=
+=E8=B5=96</h2>
+<p>=E5=9C=A8pom.xml=E4=B8=AD=E5=BC=95=E5=85=A5<a title=3D"Java EE=E7=9F=A5=
+=E8=AF=86=E5=BA=93" class=3D"external-link" href=3D"http://lib.csdn.net/bas=
+e/javaee" rel=3D"nofollow">spring</a>&nbsp;security=E4=BE=9D=E8=B5=96</p>
+<pre class=3D"prettyprint"><code class=3D"language-xml hljs  has-numbering"=
+>    <span class=3D"hljs-tag" style=3D"color: rgb(0,102,102);">&lt;<span cl=
+ass=3D"hljs-title" style=3D"color: rgb(0,0,136);">dependency</span>&gt;</sp=
+an>
+        <span class=3D"hljs-tag" style=3D"color: rgb(0,102,102);">&lt;<span=
+ class=3D"hljs-title" style=3D"color: rgb(0,0,136);">groupId</span>&gt;</sp=
+an>org.springframework.boot<span class=3D"hljs-tag" style=3D"color: rgb(0,1=
+02,102);">&lt;/<span class=3D"hljs-title" style=3D"color: rgb(0,0,136);">gr=
+oupId</span>&gt;</span>
+        <span class=3D"hljs-tag" style=3D"color: rgb(0,102,102);">&lt;<span=
+ class=3D"hljs-title" style=3D"color: rgb(0,0,136);">artifactId</span>&gt;<=
+/span>spring-boot-starter-security<span class=3D"hljs-tag" style=3D"color: =
+rgb(0,102,102);">&lt;/<span class=3D"hljs-title" style=3D"color: rgb(0,0,13=
+6);">artifactId</span>&gt;</span>
+    <span class=3D"hljs-tag" style=3D"color: rgb(0,102,102);">&lt;/<span cl=
+ass=3D"hljs-title" style=3D"color: rgb(0,0,136);">dependency</span>&gt;</sp=
+an></code></pre>
+<p><br></p>
+<h2 id=3D"id-=E5=9C=A8SpringBoot=E4=B8=AD=E6=95=B4=E5=90=88SpringSecurity=
+=E5=B9=B6=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E4=BB=A3=E7=A0=81-=
+=E9=85=8D=E7=BD=AESpringSecurity">=E9=85=8D=E7=BD=AESpring Security</h2>
+<p>=E5=9C=A8Spring=E4=B8=AD=EF=BC=8C=E9=85=8D=E7=BD=AE=E5=92=8C=E4=BD=BF=E7=
+=94=A8Spring Security=EF=BC=8C=E5=9C=A8=E4=B8=8D=E9=9C=80=E8=A6=81=E4=BF=AE=
+=E6=94=B9=E5=A4=AA=E5=A4=9A=E6=B5=81=E7=A8=8B=E7=BB=86=E8=8A=82=E7=9A=84=E6=
+=83=85=E5=86=B5=E4=B8=8B=E4=BB=85=E9=9C=80=E5=A3=B0=E6=98=8E=E5=A5=BD=E6=8B=
+=A6=E6=88=AA=E8=A7=84=E5=88=99=EF=BC=8C=E5=90=8C=E6=97=B6=E8=87=AA=E5=AE=9A=
+=E4=B9=89=E9=AA=8C=E8=AF=81=E8=BF=87=E7=A8=8B=E4=B8=AD=E7=9A=84=E4=B8=BB=E8=
+=A6=81=E5=AE=9E=E7=8E=B0=E6=8E=A5=E5=8F=A3=EF=BC=88=E7=94=A8=E6=88=B7=E4=BF=
+=A1=E6=81=AFUserDetails=EF=BC=8C=E7=94=A8=E6=88=B7=E4=BF=A1=E6=81=AF=E8=8E=
+=B7=E5=8F=96=E6=9C=8D=E5=8A=A1UserDetailsService=EF=BC=8C=E9=AA=8C=E8=AF=81=
+=E5=B7=A5=E5=85=B7AuthenticationProvider=EF=BC=89=E5=8D=B3=E5=8F=AF=E3=80=
+=82=E5=85=B6=E4=BD=99=E7=9A=84=E6=B5=81=E7=A8=8B=E5=B0=86=E7=94=B1Spring=E8=
+=87=AA=E5=8A=A8=E6=8E=A5=E7=AE=A1=EF=BC=8C=E9=9D=9E=E5=B8=B8=E6=96=B9=E4=BE=
+=BF=E3=80=82</p>
+<h3 id=3D"id-=E5=9C=A8SpringBoot=E4=B8=AD=E6=95=B4=E5=90=88SpringSecurity=
+=E5=B9=B6=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E4=BB=A3=E7=A0=81-=
+=E5=90=AF=E5=8A=A8=E9=85=8D=E7=BD=AE">=E5=90=AF=E5=8A=A8=E9=85=8D=E7=BD=AE<=
+/h3>
+<p>=E5=9C=A8=E9=A1=B9=E7=9B=AE=E5=8C=85=E4=B8=8B=E6=B7=BB=E5=8A=A0<code>Web=
+SecurityConfigurerAdapter</code>&nbsp;=E7=9A=84=E5=85=B7=E4=BD=93=E5=AE=9E=
+=E7=8E=B0=E7=B1=BB=EF=BC=8C=E5=AE=9E=E7=8E=B0Spring Security=E7=9A=84=E5=90=
+=AF=E5=8A=A8=E9=85=8D=E7=BD=AE&nbsp;<br>=E4=BB=A3=E7=A0=81=E5=A6=82=E4=B8=
+=8B=EF=BC=9A</p>
+<pre class=3D"prettyprint"><code class=3D"language-java hljs  has-numbering=
+"><span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Confi=
+gurable</span>
+<span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@EnableW=
+ebSecurity</span>
+<span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@EnableG=
+lobalMethodSecurity</span>(prePostEnabled =3D <span class=3D"hljs-keyword" =
+style=3D"color: rgb(0,0,136);">true</span>)<span class=3D"hljs-comment" sty=
+le=3D"color: rgb(136,0,0);">//=E5=85=81=E8=AE=B8=E8=BF=9B=E5=85=A5=E9=A1=B5=
+=E9=9D=A2=E6=96=B9=E6=B3=95=E5=89=8D=E6=A3=80=E9=AA=8C</span>
+<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</span> <=
+span class=3D"hljs-class"><span class=3D"hljs-keyword" style=3D"color: rgb(=
+0,0,136);">class</span> <span class=3D"hljs-title" style=3D"color: rgb(102,=
+0,102);">WebSecurityConfig</span> <span class=3D"hljs-keyword" style=3D"col=
+or: rgb(0,0,136);">extends</span> <span class=3D"hljs-title" style=3D"color=
+: rgb(102,0,102);">WebSecurityConfigurerAdapter</span> {</span>
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Aut=
+owired</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">private</sp=
+an> MyAuthenticationProvider provider;<span class=3D"hljs-comment" style=3D=
+"color: rgb(136,0,0);">//=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81</spa=
+n>
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Aut=
+owired</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">private</sp=
+an> UserDetailsService userDetailsService;<span class=3D"hljs-comment" styl=
+e=3D"color: rgb(136,0,0);">//=E8=87=AA=E5=AE=9A=E4=B9=89=E7=94=A8=E6=88=B7=
+=E6=9C=8D=E5=8A=A1</span>
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Aut=
+owired</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">void</span> =
+<span class=3D"hljs-title">configAuthentication</span>(AuthenticationManage=
+rBuilder auth) <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">=
+throws</span> Exception{
+    }
+
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Ove=
+rride</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">protected</=
+span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">void</spa=
+n> <span class=3D"hljs-title">configure</span>(HttpSecurity http) <span cla=
+ss=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">throws</span> Exception =
+{
+        http.authorizeRequests()
+
+        .antMatchers(StaticParams.PATHREGX.NOAUTH,=20
+                StaticParams.PATHREGX.CSS,StaticParams.PATHREGX.JS,StaticPa=
+rams.PATHREGX.IMG).permitAll()<span class=3D"hljs-comment" style=3D"color: =
+rgb(136,0,0);">//=E6=97=A0=E9=9C=80=E8=AE=BF=E9=97=AE=E6=9D=83=E9=99=90</sp=
+an>
+
+        .antMatchers(StaticParams.PATHREGX.AUTHADMIN).hasAuthority(StaticPa=
+rams.USERROLE.ROLE_ADMIN)<span class=3D"hljs-comment" style=3D"color: rgb(1=
+36,0,0);">//admin=E8=A7=92=E8=89=B2=E8=AE=BF=E9=97=AE=E6=9D=83=E9=99=90</sp=
+an>
+
+        .antMatchers(StaticParams.PATHREGX.AUTHUSER).hasAuthority(StaticPar=
+ams.USERROLE.ROLE_USER)<span class=3D"hljs-comment" style=3D"color: rgb(136=
+,0,0);">//user=E8=A7=92=E8=89=B2=E8=AE=BF=E9=97=AE=E6=9D=83=E9=99=90</span>
+
+        .anyRequest()<span class=3D"hljs-comment" style=3D"color: rgb(136,0=
+,0);">//all others request authentication</span>
+        .authenticated()
+        .and()
+        .formLogin().loginPage(<span class=3D"hljs-string" style=3D"color: =
+rgb(0,136,0);">"/login"</span>).permitAll()
+        .and()
+        .logout().permitAll();
+    }
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Aut=
+owired</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">void</span> =
+<span class=3D"hljs-title">configureGlobal</span>(AuthenticationManagerBuil=
+der auth) <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">throw=
+s</span> Exception {
+        <span class=3D"hljs-comment" style=3D"color: rgb(136,0,0);">//=E5=
+=B0=86=E9=AA=8C=E8=AF=81=E8=BF=87=E7=A8=8B=E4=BA=A4=E7=BB=99=E8=87=AA=E5=AE=
+=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E5=B7=A5=E5=85=B7</span>
+        auth.authenticationProvider(provider);
+    }</code></pre>
+<p><br></p>
+<h3 id=3D"id-=E5=9C=A8SpringBoot=E4=B8=AD=E6=95=B4=E5=90=88SpringSecurity=
+=E5=B9=B6=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E4=BB=A3=E7=A0=81-UR=
+L=E6=8B=A6=E6=88=AA=E9=85=8D=E7=BD=AE">URL=E6=8B=A6=E6=88=AA=E9=85=8D=E7=BD=
+=AE</h3>
+<p>URL=E6=8B=A6=E6=88=AA=E9=85=8D=E7=BD=AE=E5=8F=AF=E4=BB=A5=E5=9C=A8=E4=B8=
+=8A=E4=B8=80=E5=B0=8F=E8=8A=82=E7=9A=84<code>WebSecurityConfig</code>&nbsp;=
+=E4=B8=AD=E9=85=8D=E7=BD=AE=EF=BC=8C=E4=BD=86=E6=98=AF=E6=AD=A4=E6=96=B9=E6=
+=B3=95=E9=80=82=E7=94=A8=E4=BA=8E=E5=A4=A7=E6=96=B9=E5=90=91=E4=B8=8A=E7=9A=
+=84=E9=85=8D=E7=BD=AE=EF=BC=8C=E5=85=B7=E4=BD=93=E7=9A=84=E7=89=B9=E6=AE=8A=
+=E8=B7=AF=E5=BE=84=E4=B9=9F=E5=8F=AF=E4=BB=A5=E5=9C=A8@Controller=E7=9A=84=
+=E6=B3=A8=E8=A7=A3=E4=B8=AD=E5=85=B7=E4=BD=93=E9=85=8D=E7=BD=AE=E3=80=82=E8=
+=AF=A6=E7=BB=86=E8=AF=B4=E6=98=8E=E5=8F=AF=E4=BB=A5=E5=8F=82=E8=80=83=EF=BC=
+=9A<a href=3D"http://kielczewski.eu/2014/12/spring-boot-security-applicatio=
+n/" class=3D"external-link" rel=3D"nofollow">Spring Boot Security Applicati=
+on</a></p>
+<p>=E5=A6=82=E4=B8=8B=EF=BC=9A</p>
+<pre class=3D"prettyprint"><code class=3D"language-java hljs  has-numbering=
+">    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@R=
+esponseBody</span>
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Pre=
+Authorize</span>(<span class=3D"hljs-string" style=3D"color: rgb(0,136,0);"=
+>"hasAuthority('"</span>+StaticParams.USERROLE.ROLE_ADMIN+<span class=3D"hl=
+js-string" style=3D"color: rgb(0,136,0);">"')"</span>)<span class=3D"hljs-c=
+omment" style=3D"color: rgb(136,0,0);">//=E8=BF=99=E9=87=8C=E5=8F=AF=E4=BB=
+=A5=E6=8C=87=E5=AE=9A=E7=89=B9=E5=AE=9A=E8=A7=92=E8=89=B2=E7=9A=84=E7=94=A8=
+=E6=88=B7=E8=AE=BF=E9=97=AE=E6=9D=83=E9=99=90</span>
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Req=
+uestMapping</span>(value =3D <span class=3D"hljs-string" style=3D"color: rg=
+b(0,136,0);">"adminrequire"</span>, method =3D RequestMethod.GET)
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> String <span class=3D"hljs-title">adminrequire</span>(){
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> <span class=3D"hljs-string" style=3D"color: rgb(0,136,0);">"HELLO fr=
+om web but you should be admin"</span>;
+    }</code></pre>
+<h3 id=3D"id-=E5=9C=A8SpringBoot=E4=B8=AD=E6=95=B4=E5=90=88SpringSecurity=
+=E5=B9=B6=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E4=BB=A3=E7=A0=81-=
+=E7=94=A8=E6=88=B7=E3=80=81=E8=A7=92=E8=89=B2=E8=A1=A8">=E7=94=A8=E6=88=B7=
+=E3=80=81=E8=A7=92=E8=89=B2=E8=A1=A8</h3>
+<p>=E5=9C=A8=E6=9C=AC=E6=96=87=E4=BE=8B=E5=AD=90=E4=B8=AD=E7=94=A8=E6=88=B7=
+=E5=92=8C=E8=A7=92=E8=89=B2=E5=8F=AF=E4=BB=A5=E6=9C=89=E4=B8=80=E5=AF=B9=E5=
+=A4=9A=E7=9A=84=E5=85=B3=E7=B3=BB=E5=9B=A0=E6=AD=A4=E5=8F=AF=E4=BB=A5=E5=B0=
+=86=E7=94=A8=E6=88=B7=E5=92=8C=E8=A7=92=E8=89=B2=E5=88=86=E6=88=90=E4=B8=A4=
+=E5=BC=A0=E8=A1=A8=E3=80=82=E6=9C=89=E4=BA=9B=E4=BE=8B=E5=AD=90=E5=B0=86=E7=
+=94=A8=E6=88=B7=E5=92=8C=E6=9D=83=E9=99=90=E5=86=99=E5=9C=A8=E5=90=8C=E4=B8=
+=80=E5=BC=A0=E8=A1=A8=E4=B8=8A=E4=B9=9F=E6=98=AF=E5=8F=AF=E4=BB=A5=E7=9A=84=
+=E3=80=82</p>
+<pre class=3D"prettyprint"><code class=3D"language-java hljs  has-numbering=
+"><span class=3D"hljs-comment" style=3D"color: rgb(136,0,0);">/*=E7=94=A8=
+=E6=88=B7=E8=A1=A8*/</span>
+<span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Entity<=
+/span>
+<span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Table</=
+span>(name =3D <span class=3D"hljs-string" style=3D"color: rgb(0,136,0);">"=
+user"</span>)
+<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</span> <=
+span class=3D"hljs-class"><span class=3D"hljs-keyword" style=3D"color: rgb(=
+0,0,136);">class</span> <span class=3D"hljs-title" style=3D"color: rgb(102,=
+0,102);">SystemUser</span> {</span>
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Id<=
+/span>
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Col=
+umn</span>(name =3D <span class=3D"hljs-string" style=3D"color: rgb(0,136,0=
+);">"id"</span>)
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Gen=
+eratedValue</span>(strategy =3D GenerationType.AUTO)
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">private</sp=
+an> Long id;
+
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">private</sp=
+an> String userName;
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">private</sp=
+an> String password;
+
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-title">SystemUser</span>(){}
+
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-title">SystemUser</span>(SystemUser user){
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">this</s=
+pan>.userName =3D user.getUserName();
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">this</s=
+pan>.password =3D user.getPassword();
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">this</s=
+pan>.id =3D user.getId();
+    }
+
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> Long <span class=3D"hljs-title">getId</span>() {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> id;
+    }
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">void</span> =
+<span class=3D"hljs-title">setId</span>(Long id) {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">this</s=
+pan>.id =3D id;
+    }
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> String <span class=3D"hljs-title">getUserName</span>() {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> userName;
+    }
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">void</span> =
+<span class=3D"hljs-title">setUserName</span>(String userName) {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">this</s=
+pan>.userName =3D userName;
+    }
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> String <span class=3D"hljs-title">getPassword</span>() {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> password;
+    }
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">void</span> =
+<span class=3D"hljs-title">setPassword</span>(String password) {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">this</s=
+pan>.password =3D password;
+    }
+}
+<span class=3D"hljs-comment" style=3D"color: rgb(136,0,0);">/*=E8=A7=92=E8=
+=89=B2=E8=A1=A8*/</span>
+<span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Entity<=
+/span>
+<span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Table</=
+span>(name =3D <span class=3D"hljs-string" style=3D"color: rgb(0,136,0);">"=
+user_role"</span>)
+<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</span> <=
+span class=3D"hljs-class"><span class=3D"hljs-keyword" style=3D"color: rgb(=
+0,0,136);">class</span> <span class=3D"hljs-title" style=3D"color: rgb(102,=
+0,102);">UserRole</span> {</span>
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Id<=
+/span>
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Col=
+umn</span>(name =3D <span class=3D"hljs-string" style=3D"color: rgb(0,136,0=
+);">"id"</span>)
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Gen=
+eratedValue</span>(strategy =3D GenerationType.AUTO)
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">private</sp=
+an> Long id;
+
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">private</sp=
+an> String role;
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">private</sp=
+an> Long userId;
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> Long <span class=3D"hljs-title">getId</span>() {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> id;
+    }
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">void</span> =
+<span class=3D"hljs-title">setId</span>(Long id) {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">this</s=
+pan>.id =3D id;
+    }
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> String <span class=3D"hljs-title">getRole</span>() {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> role;
+    }
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">void</span> =
+<span class=3D"hljs-title">setRole</span>(String role) {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">this</s=
+pan>.role =3D role;
+    }
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> Long <span class=3D"hljs-title">getUserId</span>() {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> userId;
+    }
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">void</span> =
+<span class=3D"hljs-title">setUserId</span>(Long userId) {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">this</s=
+pan>.userId =3D userId;
+    }
+}</code></pre>
+<p><br></p>
+<h3 id=3D"id-=E5=9C=A8SpringBoot=E4=B8=AD=E6=95=B4=E5=90=88SpringSecurity=
+=E5=B9=B6=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E4=BB=A3=E7=A0=81-=
+=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81">=E8=87=AA=E5=AE=9A=E4=B9=89=
+=E9=AA=8C=E8=AF=81</h3>
+<p>=E5=9C=A8Spring Boot=E7=9A=84<a href=3D"http://spring.io/guides/gs/secur=
+ing-web/" class=3D"external-link" rel=3D"nofollow">Spring Security=E7=9A=84=
+=E6=95=99=E7=A8=8B</a>=E4=B8=AD=E9=BB=98=E8=AE=A4=E7=9A=84=E7=94=A8=E6=88=
+=B7=E5=90=8D=E3=80=81=E5=AF=86=E7=A0=81=E3=80=81=E6=9D=83=E9=99=90=E6=98=AF=
+=E5=9C=A8=E4=BB=A3=E7=A0=81=E4=B8=AD=E6=8C=87=E5=AE=9A=E7=9A=84</p>
+<pre class=3D"prettyprint"><code class=3D"language-java hljs  has-numbering=
+"><span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Autow=
+ired</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">void</span> =
+<span class=3D"hljs-title">configureGlobal</span>(AuthenticationManagerBuil=
+der auth) <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">throw=
+s</span> Exception {
+        auth
+            .inMemoryAuthentication()
+                .withUser(<span class=3D"hljs-string" style=3D"color: rgb(0=
+,136,0);">"user"</span>).password(<span class=3D"hljs-string" style=3D"colo=
+r: rgb(0,136,0);">"password"</span>).roles(<span class=3D"hljs-string" styl=
+e=3D"color: rgb(0,136,0);">"USER"</span>);
+    }</code></pre>
+<p><br></p>
+<p>=E8=BF=99=E6=98=BE=E7=84=B6=E6=98=AF=E4=B8=8D=E7=AC=A6=E5=90=88=E5=BA=94=
+=E7=94=A8=E9=9C=80=E6=B1=82=E7=9A=84=EF=BC=8C=E6=89=80=E4=BB=A5=E6=88=91=E4=
+=BB=AC=E9=9C=80=E8=A6=81=E6=8F=90=E4=BE=9B=E8=87=AA=E5=AE=9A=E4=B9=89=E7=9A=
+=84AuthenticationProvider=EF=BC=8C=E5=B9=B6=E5=9C=A8=E4=B8=8A=E8=BE=B9=E4=
+=BB=A3=E7=A0=81=E4=B8=AD=E6=9B=BF=E6=8D=A2=E5=8D=B3=E5=8F=AF=E3=80=82=E5=9C=
+=A8=E6=AD=A4=E4=B9=8B=E5=89=8D=EF=BC=8C=E6=88=91=E4=BB=AC=E5=BA=94=E8=AF=A5=
+=E9=87=8D=E5=86=99=E8=8E=B7=E5=8F=96=E7=94=A8=E6=88=B7User=E5=92=8C=E6=9D=
+=83=E9=99=90=E7=9A=84=E6=96=B9=E6=B3=95=E3=80=82=E9=80=9A=E8=BF=87=E6=9F=A5=
+=E8=AF=A2=E7=9B=B8=E5=85=B3=E8=B5=84=E6=96=99=E5=92=8CAPI=EF=BC=8C=E6=96=B9=
+=E6=B3=95=E6=8F=90=E4=BE=9B=E5=A6=82=E4=B8=8B=EF=BC=9A</p>
+<h3 id=3D"id-=E5=9C=A8SpringBoot=E4=B8=AD=E6=95=B4=E5=90=88SpringSecurity=
+=E5=B9=B6=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E4=BB=A3=E7=A0=81-=
+=E8=87=AA=E5=AE=9A=E4=B9=89UserDetails">=E8=87=AA=E5=AE=9A=E4=B9=89UserDeta=
+ils</h3>
+<p>UserDetails=E4=BB=A3=E8=A1=A8=E4=BA=86Spring Security=E7=9A=84=E7=94=A8=
+=E6=88=B7=E8=AE=A4=E8=AF=81=E5=AE=9E=E4=BD=93=EF=BC=8C=E5=B8=A6=E6=9C=89=E7=
+=94=A8=E6=88=B7=E5=90=8D=E3=80=81=E5=AF=86=E7=A0=81=E3=80=81=E6=9D=83=E9=99=
+=90=E5=88=97=E8=A1=A8=E3=80=81=E8=BF=87=E6=9C=9F=E7=89=B9=E6=80=A7=E7=AD=89=
+=E6=80=A7=E8=B4=A8=EF=BC=8C=E5=8F=AF=E4=BB=A5=E8=87=AA=E5=B7=B1=E5=A3=B0=E6=
+=98=8E=E7=B1=BB=E5=AE=9E=E7=8E=B0UserDetails=E6=8E=A5=E5=8F=A3=EF=BC=8C=E5=
+=A6=82=E6=9E=9C=E4=B8=8D=E6=83=B3=E8=87=AA=E5=B7=B1=E5=A3=B0=E6=98=8E=EF=BC=
+=8C=E4=B9=9F=E5=8F=AF=E4=BB=A5=E7=94=A8SpringSecurity=E7=9A=84=E9=BB=98=E8=
+=AE=A4=E5=AE=9E=E7=8E=B0<code>org.springframework.security.core.userdetails=
+.User</code>&nbsp;=E6=9C=AC=E6=96=87=E4=BE=8B=E5=AD=90=E4=B8=AD=E9=87=87=E7=
+=94=A8=E8=87=AA=E5=AE=9A=E4=B9=89=E7=B1=BB=EF=BC=9A</p>
+<pre class=3D"prettyprint"><code class=3D"language-java hljs  has-numbering=
+"><span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</span>=
+ <span class=3D"hljs-class"><span class=3D"hljs-keyword" style=3D"color: rg=
+b(0,0,136);">class</span> <span class=3D"hljs-title" style=3D"color: rgb(10=
+2,0,102);">MyUserDetails</span> <span class=3D"hljs-keyword" style=3D"color=
+: rgb(0,0,136);">extends</span> <span class=3D"hljs-title" style=3D"color: =
+rgb(102,0,102);">SystemUser</span> <span class=3D"hljs-keyword" style=3D"co=
+lor: rgb(0,0,136);">implements</span> <span class=3D"hljs-title" style=3D"c=
+olor: rgb(102,0,102);">UserDetails</span>{</span>
+
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">private</sp=
+an> List&lt;UserRole&gt; roles;
+
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-title">MyUserDetails</span>(SystemUser user, List&lt=
+;UserRole&gt; roles){
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">super</=
+span>(user);
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">this</s=
+pan>.roles =3D roles;
+    }
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Ove=
+rride</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> Collection&lt;? extends GrantedAuthority&gt; <span class=3D"hljs-title">=
+getAuthorities</span>() {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">if</spa=
+n>(roles =3D=3D <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);"=
+>null</span> || roles.size() &lt;<span class=3D"hljs-number" style=3D"color=
+: rgb(0,102,102);">1</span>){
+            <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">ret=
+urn</span> AuthorityUtils.commaSeparatedStringToAuthorityList(<span class=
+=3D"hljs-string" style=3D"color: rgb(0,136,0);">""</span>);
+        }
+        StringBuilder commaBuilder =3D <span class=3D"hljs-keyword" style=
+=3D"color: rgb(0,0,136);">new</span> StringBuilder();
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">for</sp=
+an>(UserRole role : roles){
+            commaBuilder.append(role.getRole()).append(<span class=3D"hljs-=
+string" style=3D"color: rgb(0,136,0);">","</span>);
+        }
+        String authorities =3D commaBuilder.substring(<span class=3D"hljs-n=
+umber" style=3D"color: rgb(0,102,102);">0</span>,commaBuilder.length()-<spa=
+n class=3D"hljs-number" style=3D"color: rgb(0,102,102);">1</span>);
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> AuthorityUtils.commaSeparatedStringToAuthorityList(authorities);
+    }
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Ove=
+rride</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> String <span class=3D"hljs-title">getPassword</span>() {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">super</s=
+pan>.getPassword();
+    }
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Ove=
+rride</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> String <span class=3D"hljs-title">getUsername</span>() {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">super</s=
+pan>.getUserName();
+    }
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Ove=
+rride</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">boolean</spa=
+n> <span class=3D"hljs-title">isAccountNonExpired</span>() {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">true</sp=
+an>;
+    }
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Ove=
+rride</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">boolean</spa=
+n> <span class=3D"hljs-title">isAccountNonLocked</span>() {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">true</sp=
+an>;
+    }
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Ove=
+rride</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">boolean</spa=
+n> <span class=3D"hljs-title">isCredentialsNonExpired</span>() {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">true</sp=
+an>;
+    }
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Ove=
+rride</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">boolean</spa=
+n> <span class=3D"hljs-title">isEnabled</span>() {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">true</sp=
+an>;
+    }
+
+}</code></pre>
+<p style=3D"text-align: left;"><br><strong>=E8=87=AA=E5=AE=9A=E4=B9=89UserD=
+etailsService</strong></p>
+<p>UserDetailsService=E6=8F=90=E4=BE=9B=E4=BA=86=E8=8E=B7=E5=8F=96UserDetai=
+ls=E7=9A=84=E6=96=B9=E5=BC=8F=EF=BC=8C=E5=8F=AA=E8=A6=81=E5=AE=9E=E7=8E=B0U=
+serDetailsService=E6=8E=A5=E5=8F=A3=E5=8D=B3=E5=8F=AF=EF=BC=8C=E6=9C=80=E7=
+=BB=88=E7=94=9F=E6=88=90=E7=94=A8=E6=88=B7=E5=92=8C=E6=9D=83=E9=99=90=E5=85=
+=B1=E5=90=8C=E7=BB=84=E6=88=90=E7=9A=84UserDetails=EF=BC=8C=E5=9C=A8=E8=BF=
+=99=E9=87=8C=E5=B0=B1=E5=8F=AF=E4=BB=A5=E5=AE=9E=E7=8E=B0=E4=BB=8E=E8=87=AA=
+=E5=AE=9A=E4=B9=89=E7=9A=84=E6=95=B0=E6=8D=AE=E6=BA=90=E4=B8=AD=E8=8E=B7=E5=
+=8F=96=E7=94=A8=E6=88=B7=E4=BF=A1=E6=81=AF=E4=BA=86=EF=BC=9A</p>
+<pre class=3D"prettyprint"><code class=3D"language-java hljs  has-numbering=
+"><span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Servi=
+ce</span>(<span class=3D"hljs-string" style=3D"color: rgb(0,136,0);">"MyUse=
+rDetailsImpl"</span>)
+<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</span> <=
+span class=3D"hljs-class"><span class=3D"hljs-keyword" style=3D"color: rgb(=
+0,0,136);">class</span> <span class=3D"hljs-title" style=3D"color: rgb(102,=
+0,102);">MyUserDetailsService</span> <span class=3D"hljs-keyword" style=3D"=
+color: rgb(0,0,136);">implements</span> <span class=3D"hljs-title" style=3D=
+"color: rgb(102,0,102);">UserDetailsService</span> {</span>
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Res=
+ource</span>(name =3D <span class=3D"hljs-string" style=3D"color: rgb(0,136=
+,0);">"SystemUserServiceImpl"</span>)
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">private</sp=
+an> SystemUserService systemUserService;
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Res=
+ource</span>(name =3D <span class=3D"hljs-string" style=3D"color: rgb(0,136=
+,0);">"UserRoleServiceImpl"</span>)
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">private</sp=
+an> UserRoleService userRoleService;
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Ove=
+rride</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> UserDetails <span class=3D"hljs-title">loadUserByUsername</span>(String =
+userName) <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">throw=
+s</span> UsernameNotFoundException {
+        SystemUser user;
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">try</sp=
+an> {
+            user =3D systemUserService.findByName(userName);
+        } <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">catch=
+</span> (Exception e) {
+            <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">thr=
+ow</span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">new</=
+span> UsernameNotFoundException(<span class=3D"hljs-string" style=3D"color:=
+ rgb(0,136,0);">"user select fail"</span>);
+        }
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">if</spa=
+n>(user =3D=3D <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">=
+null</span>){
+            <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">thr=
+ow</span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">new</=
+span> UsernameNotFoundException(<span class=3D"hljs-string" style=3D"color:=
+ rgb(0,136,0);">"no user found"</span>);
+        } <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">else<=
+/span> {
+            <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">try=
+</span> {
+                List&lt;UserRole&gt; roles =3D userRoleService.getRoleByUse=
+r(user);
+                <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);"=
+>return</span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">=
+new</span> MyUserDetails(user, roles);
+            } <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">c=
+atch</span> (Exception e) {
+                <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);"=
+>throw</span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">n=
+ew</span> UsernameNotFoundException(<span class=3D"hljs-string" style=3D"co=
+lor: rgb(0,136,0);">"user role select fail"</span>);
+            }
+        }
+    }
+}</code></pre>
+<p><br></p>
+<h3 style=3D"text-align: left;" id=3D"id-=E5=9C=A8SpringBoot=E4=B8=AD=E6=95=
+=B4=E5=90=88SpringSecurity=E5=B9=B6=E8=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=
+=AF=81=E4=BB=A3=E7=A0=81-=E8=87=AA=E5=AE=9A=E4=B9=89AuthenticationProvider"=
+>=E8=87=AA=E5=AE=9A=E4=B9=89AuthenticationProvider</h3>
+<p>AuthenticationProvider =E6=8F=90=E4=BE=9B=E7=94=A8=E6=88=B7UserDetails=
+=E7=9A=84=E5=85=B7=E4=BD=93=E9=AA=8C=E8=AF=81=E6=96=B9=E5=BC=8F=EF=BC=8C=E5=
+=9C=A8=E8=BF=99=E9=87=8C=E5=8F=AF=E4=BB=A5=E8=87=AA=E5=AE=9A=E4=B9=89=E7=94=
+=A8=E6=88=B7=E5=AF=86=E7=A0=81=E7=9A=84=E5=8A=A0=E5=AF=86=E3=80=81=E9=AA=8C=
+=E8=AF=81=E6=96=B9=E5=BC=8F=E7=AD=89=E7=AD=89=E3=80=82=E5=9B=A0=E4=B8=BA=E5=
+=8D=9A=E6=96=87=E4=B8=BB=E8=A6=81=E8=AE=B2=E7=9A=84=E6=98=AF=E5=A6=82=E4=BD=
+=95=E5=BC=95=E5=85=A5Spring Security=E5=92=8C=E5=A6=82=E4=BD=95=E8=87=AA=E5=
+=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E4=BB=A3=E7=A0=81=EF=BC=8C=E6=89=80=E4=BB=
+=A5=E8=BF=99=E9=87=8C=E4=B8=BA=E4=BA=86=E7=AE=80=E4=BE=BF=EF=BC=8C=E6=88=91=
+=E7=9B=B4=E6=8E=A5=E9=87=87=E7=94=A8=E6=98=8E=E6=96=87=E6=AF=94=E8=BE=83=E6=
+=96=B9=E5=BC=8F=EF=BC=9A</p>
+<pre class=3D"prettyprint"><code class=3D"language-java hljs  has-numbering=
+"><span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Compo=
+nent</span>
+<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</span> <=
+span class=3D"hljs-class"><span class=3D"hljs-keyword" style=3D"color: rgb(=
+0,0,136);">class</span> <span class=3D"hljs-title" style=3D"color: rgb(102,=
+0,102);">MyAuthenticationProvider</span> <span class=3D"hljs-keyword" style=
+=3D"color: rgb(0,0,136);">implements</span> <span class=3D"hljs-title" styl=
+e=3D"color: rgb(102,0,102);">AuthenticationProvider</span> {</span>
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Aut=
+owired</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">private</sp=
+an> MyUserDetailsService userService;
+
+    <span class=3D"hljs-javadoc" style=3D"color: rgb(136,0,0);">/** * =E8=
+=87=AA=E5=AE=9A=E4=B9=89=E9=AA=8C=E8=AF=81=E6=96=B9=E5=BC=8F */</span>
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Ove=
+rride</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> Authentication <span class=3D"hljs-title">authenticate</span>(Authentica=
+tion authentication) <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,1=
+36);">throws</span> AuthenticationException {
+        String username =3D authentication.getName();
+        String password =3D (String) authentication.getCredentials();
+        MyUserDetails user =3D (MyUserDetails) userService.loadUserByUserna=
+me(username);
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">if</spa=
+n>(user =3D=3D <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">=
+null</span>){
+            <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">thr=
+ow</span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">new</=
+span> BadCredentialsException(<span class=3D"hljs-string" style=3D"color: r=
+gb(0,136,0);">"Username not found."</span>);
+        }
+
+        <span class=3D"hljs-comment" style=3D"color: rgb(136,0,0);">//=E5=
+=8A=A0=E5=AF=86=E8=BF=87=E7=A8=8B=E5=9C=A8=E8=BF=99=E9=87=8C=E4=BD=93=E7=8E=
+=B0</span>
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">if</spa=
+n> (!password.equals(user.getPassword())) {
+            <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">thr=
+ow</span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">new</=
+span> BadCredentialsException(<span class=3D"hljs-string" style=3D"color: r=
+gb(0,136,0);">"Wrong password."</span>);
+        }
+
+        Collection&lt;? extends GrantedAuthority&gt; authorities =3D user.g=
+etAuthorities();
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">new</spa=
+n> UsernamePasswordAuthenticationToken(user, password, authorities);
+    }
+
+    <span class=3D"hljs-annotation" style=3D"color: rgb(155,133,157);">@Ove=
+rride</span>
+    <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">public</spa=
+n> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">boolean</spa=
+n> <span class=3D"hljs-title">supports</span>(Class&lt;?&gt; arg0) {
+        <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">return<=
+/span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">true</sp=
+an>;
+    }
+
+}</code></pre>
+    </div>
+</body>
+</html>
+------=_Part_10588_211636099.1546418069452--

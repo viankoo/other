@@ -1,0 +1,891 @@
+Message-ID: <810464245.10581.1546417918441.JavaMail.root@shjhkftoolssrv.ciicsh.local>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_10580_663675614.1546417918440"
+
+------=_Part_10580_663675614.1546417918440
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Stream=E8=AF=AD=E6=B3=95=E8=AF=A6=E8=A7=A3</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Stream=E8=AF=AD=E6=B3=95=E8=AF=A6=E8=A7=A3</h1>
+    <div class=3D"Section1">
+        <h1 id=3D"Stream=E8=AF=AD=E6=B3=95=E8=AF=A6=E8=A7=A3-1.Stream=E5=88=
+=9D=E4=BD=93=E9=AA=8C"><em><strong>1. Stream=E5=88=9D=E4=BD=93=E9=AA=8C</st=
+rong></em></h1>
+<p>=E6=88=91=E4=BB=AC=E5=85=88=E6=9D=A5=E7=9C=8B=E7=9C=8BJava=E9=87=8C=E9=
+=9D=A2=E6=98=AF=E6=80=8E=E4=B9=88=E5=AE=9A=E4=B9=89Stream=E7=9A=84=EF=BC=9A=
+</p>
+<blockquote style=3D"margin-left: 0.0px;">
+<p>A sequence of elements supporting sequential and parallel aggregate oper=
+ations.</p>
+</blockquote>
+<p>=E6=88=91=E4=BB=AC=E6=9D=A5=E8=A7=A3=E8=AF=BB=E4=B8=80=E4=B8=8B=E4=B8=8A=
+=E9=9D=A2=E7=9A=84=E9=82=A3=E5=8F=A5=E8=AF=9D=EF=BC=9A</p>
+<ol style=3D"margin-left: 19.0px;">
+<li>Stream=E6=98=AF=E5=85=83=E7=B4=A0=E7=9A=84=E9=9B=86=E5=90=88=EF=BC=8C=
+=E8=BF=99=E7=82=B9=E8=AE=A9Stream=E7=9C=8B=E8=B5=B7=E6=9D=A5=E7=94=A8=E4=BA=
+=9B=E7=B1=BB=E4=BC=BCIterator=EF=BC=9B</li>
+<li>=E5=8F=AF=E4=BB=A5=E6=94=AF=E6=8C=81=E9=A1=BA=E5=BA=8F=E5=92=8C=E5=B9=
+=B6=E8=A1=8C=E7=9A=84=E5=AF=B9=E5=8E=9FStream=E8=BF=9B=E8=A1=8C=E6=B1=87=E8=
+=81=9A=E7=9A=84=E6=93=8D=E4=BD=9C=EF=BC=9B</li>
+</ol>
+<p><strong>=E5=A4=A7=E5=AE=B6=E5=8F=AF=E4=BB=A5=E6=8A=8AStream=E5=BD=93=E6=
+=88=90=E4=B8=80=E4=B8=AA=E9=AB=98=E7=BA=A7=E7=89=88=E6=9C=AC=E7=9A=84Iterat=
+or=E3=80=82=E5=8E=9F=E5=A7=8B=E7=89=88=E6=9C=AC=E7=9A=84Iterator=EF=BC=8C=
+=E7=94=A8=E6=88=B7=E5=8F=AA=E8=83=BD=E4=B8=80=E4=B8=AA=E4=B8=80=E4=B8=AA=E7=
+=9A=84=E9=81=8D=E5=8E=86=E5=85=83=E7=B4=A0=E5=B9=B6=E5=AF=B9=E5=85=B6=E6=89=
+=A7=E8=A1=8C=E6=9F=90=E4=BA=9B=E6=93=8D=E4=BD=9C=EF=BC=9B=E9=AB=98=E7=BA=A7=
+=E7=89=88=E6=9C=AC=E7=9A=84Stream=EF=BC=8C=E7=94=A8=E6=88=B7=E5=8F=AA=E8=A6=
+=81=E7=BB=99=E5=87=BA=E9=9C=80=E8=A6=81=E5=AF=B9=E5=85=B6=E5=8C=85=E5=90=AB=
+=E7=9A=84=E5=85=83=E7=B4=A0=E6=89=A7=E8=A1=8C=E4=BB=80=E4=B9=88=E6=93=8D=E4=
+=BD=9C=EF=BC=8C=E6=AF=94=E5=A6=82=E2=80=9C=E8=BF=87=E6=BB=A4=E6=8E=89=E9=95=
+=BF=E5=BA=A6=E5=A4=A7=E4=BA=8E10=E7=9A=84=E5=AD=97=E7=AC=A6=E4=B8=B2=E2=80=
+=9D=E3=80=81=E2=80=9C=E8=8E=B7=E5=8F=96=E6=AF=8F=E4=B8=AA=E5=AD=97=E7=AC=A6=
+=E4=B8=B2=E7=9A=84=E9=A6=96=E5=AD=97=E6=AF=8D=E2=80=9D=E7=AD=89=EF=BC=8C=E5=
+=85=B7=E4=BD=93=E8=BF=99=E4=BA=9B=E6=93=8D=E4=BD=9C=E5=A6=82=E4=BD=95=E5=BA=
+=94=E7=94=A8=E5=88=B0=E6=AF=8F=E4=B8=AA=E5=85=83=E7=B4=A0=E4=B8=8A=EF=BC=8C=
+=E5=B0=B1=E7=BB=99Stream=E5=B0=B1=E5=A5=BD=E4=BA=86=EF=BC=81=EF=BC=88=E8=BF=
+=99=E4=B8=AA=E7=A7=98=E7=B1=8D=EF=BC=8C=E4=B8=80=E8=88=AC=E4=BA=BA=E6=88=91=
+=E4=B8=8D=E5=91=8A=E8=AF=89=E4=BB=96=EF=BC=9A=EF=BC=89=EF=BC=89</strong>=E5=
+=A4=A7=E5=AE=B6=E7=9C=8B=E5=AE=8C=E8=BF=99=E4=BA=9B=E5=8F=AF=E8=83=BD=E5=AF=
+=B9Stream=E8=BF=98=E6=B2=A1=E6=9C=89=E4=B8=80=E4=B8=AA=E7=9B=B4=E8=A7=82=E7=
+=9A=84=E8=AE=A4=E8=AF=86=EF=BC=8C=E8=8E=AB=E6=80=A5=EF=BC=8C=E5=92=B1=E4=BB=
+=AC=E6=9D=A5=E6=AE=B5=E4=BB=A3=E7=A0=81=E3=80=82</p>
+<pre title=3D"">//Lists=E6=98=AFGuava=E4=B8=AD=E7=9A=84=E4=B8=80=E4=B8=AA=
+=E5=B7=A5=E5=85=B7=E7=B1=BB
+List&lt;Integer&gt; nums =3D Lists.newArrayList(1,null,3,4,null,6);
+nums.stream().filter(num -&gt; num !=3D null).count();
+</pre>
+<p>=E4=B8=8A=E9=9D=A2=E8=BF=99=E6=AE=B5=E4=BB=A3=E7=A0=81=E6=98=AF=E8=8E=B7=
+=E5=8F=96=E4=B8=80=E4=B8=AAList=E4=B8=AD=EF=BC=8C=E5=85=83=E7=B4=A0=E4=B8=
+=8D=E4=B8=BAnull=E7=9A=84=E4=B8=AA=E6=95=B0=E3=80=82=E8=BF=99=E6=AE=B5=E4=
+=BB=A3=E7=A0=81=E8=99=BD=E7=84=B6=E5=BE=88=E7=AE=80=E7=9F=AD=EF=BC=8C=E4=BD=
+=86=E6=98=AF=E5=8D=B4=E6=98=AF=E4=B8=80=E4=B8=AA=E5=BE=88=E5=A5=BD=E7=9A=84=
+=E5=85=A5=E9=97=A8=E7=BA=A7=E5=88=AB=E7=9A=84=E4=BE=8B=E5=AD=90=E6=9D=A5=E4=
+=BD=93=E7=8E=B0=E5=A6=82=E4=BD=95=E4=BD=BF=E7=94=A8Stream=EF=BC=8C=E6=AD=A3=
+=E6=89=80=E8=B0=93=E2=80=9C=E9=BA=BB=E9=9B=80=E8=99=BD=E5=B0=8F=E4=BA=94=E8=
+=84=8F=E4=BF=B1=E5=85=A8=E2=80=9D=E3=80=82=E6=88=91=E4=BB=AC=E7=8E=B0=E5=9C=
+=A8=E5=BC=80=E5=A7=8B=E6=B7=B1=E5=85=A5=E8=A7=A3=E5=88=A8=E8=BF=99=E4=B8=AA=
+=E4=BE=8B=E5=AD=90=EF=BC=8C=E5=AE=8C=E6=88=90=E4=BB=A5=E5=90=8E=E4=BD=A0=E5=
+=8F=AF=E8=83=BD=E5=8F=AF=E4=BB=A5=E5=9F=BA=E6=9C=AC=E6=8E=8C=E6=8F=A1Stream=
+=E7=9A=84=E7=94=A8=E6=B3=95=EF=BC=81</p>
+<h3 id=3D"Stream=E8=AF=AD=E6=B3=95=E8=AF=A6=E8=A7=A3-1.1=E5=89=96=E6=9E=90S=
+tream=E9=80=9A=E7=94=A8=E8=AF=AD=E6=B3=95">1.1 =E5=89=96=E6=9E=90Stream=E9=
+=80=9A=E7=94=A8=E8=AF=AD=E6=B3=95</h3>
+<p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
+e-embedded-image confluence-external-resource" src=3D"http://img04.taobaocd=
+n.com/imgextra/i4/90219132/T2ycFgXQ8XXXXXXXXX_!!90219132.jpg" data-image-sr=
+c=3D"http://img04.taobaocdn.com/imgextra/i4/90219132/T2ycFgXQ8XXXXXXXXX_!!9=
+0219132.jpg"></span></p>
+<p>=E5=9B=BE=E7=89=87=E5=B0=B1=E6=98=AF=E5=AF=B9=E4=BA=8EStream=E4=BE=8B=E5=
+=AD=90=E7=9A=84=E4=B8=80=E4=B8=AA=E8=A7=A3=E6=9E=90=EF=BC=8C=E5=8F=AF=E4=BB=
+=A5=E5=BE=88=E6=B8=85=E6=A5=9A=E7=9A=84=E7=9C=8B=E8=A7=81=EF=BC=9A=E5=8E=9F=
+=E6=9C=AC=E4=B8=80=E6=9D=A1=E8=AF=AD=E5=8F=A5=E8=A2=AB=E4=B8=89=E7=A7=8D=E9=
+=A2=9C=E8=89=B2=E7=9A=84=E6=A1=86=E5=88=86=E5=89=B2=E6=88=90=E4=BA=86=E4=B8=
+=89=E4=B8=AA=E9=83=A8=E5=88=86=E3=80=82=E7=BA=A2=E8=89=B2=E6=A1=86=E4=B8=AD=
+=E7=9A=84=E8=AF=AD=E5=8F=A5=E6=98=AF=E4=B8=80=E4=B8=AAStream=E7=9A=84=E7=94=
+=9F=E5=91=BD=E5=BC=80=E5=A7=8B=E7=9A=84=E5=9C=B0=E6=96=B9=EF=BC=8C=E8=B4=9F=
+=E8=B4=A3=E5=88=9B=E5=BB=BA=E4=B8=80=E4=B8=AAStream=E5=AE=9E=E4=BE=8B=EF=BC=
+=9B=E7=BB=BF=E8=89=B2=E6=A1=86=E4=B8=AD=E7=9A=84=E8=AF=AD=E5=8F=A5=E6=98=AF=
+=E8=B5=8B=E4=BA=88Stream=E7=81=B5=E9=AD=82=E7=9A=84=E5=9C=B0=E6=96=B9=EF=BC=
+=8C=E6=8A=8A=E4=B8=80=E4=B8=AAStream=E8=BD=AC=E6=8D=A2=E6=88=90=E5=8F=A6=E5=
+=A4=96=E4=B8=80=E4=B8=AAStream=EF=BC=8C=E7=BA=A2=E6=A1=86=E7=9A=84=E8=AF=AD=
+=E5=8F=A5=E7=94=9F=E6=88=90=E7=9A=84=E6=98=AF=E4=B8=80=E4=B8=AA=E5=8C=85=E5=
+=90=AB=E6=89=80=E6=9C=89nums=E5=8F=98=E9=87=8F=E7=9A=84Stream=EF=BC=8C=E8=
+=BF=9B=E8=BF=87=E7=BB=BF=E6=A1=86=E7=9A=84filter=E6=96=B9=E6=B3=95=E4=BB=A5=
+=E5=90=8E=EF=BC=8C=E9=87=8D=E6=96=B0=E7=94=9F=E6=88=90=E4=BA=86=E4=B8=80=E4=
+=B8=AA=E8=BF=87=E6=BB=A4=E6=8E=89=E5=8E=9Fnums=E5=88=97=E8=A1=A8=E6=89=80=
+=E6=9C=89null=E4=BB=A5=E5=90=8E=E7=9A=84Stream=EF=BC=9B=E8=93=9D=E8=89=B2=
+=E6=A1=86=E4=B8=AD=E7=9A=84=E8=AF=AD=E5=8F=A5=E6=98=AF=E4=B8=B0=E6=94=B6=E7=
+=9A=84=E5=9C=B0=E6=96=B9=EF=BC=8C=E6=8A=8AStream=E7=9A=84=E9=87=8C=E9=9D=A2=
+=E5=8C=85=E5=90=AB=E7=9A=84=E5=86=85=E5=AE=B9=E6=8C=89=E7=85=A7=E6=9F=90=E7=
+=A7=8D=E7=AE=97=E6=B3=95=E6=9D=A5=E6=B1=87=E8=81=9A=E6=88=90=E4=B8=80=E4=B8=
+=AA=E5=80=BC=EF=BC=8C=E4=BE=8B=E5=AD=90=E4=B8=AD=E6=98=AF=E8=8E=B7=E5=8F=96=
+Stream=E4=B8=AD=E5=8C=85=E5=90=AB=E7=9A=84=E5=85=83=E7=B4=A0=E4=B8=AA=E6=95=
+=B0=E3=80=82=E5=A6=82=E6=9E=9C=E8=BF=99=E6=A0=B7=E8=A7=A3=E6=9E=90=E4=BB=A5=
+=E5=90=8E=EF=BC=8C=E8=BF=98=E4=B8=8D=E7=90=86=E8=A7=A3=EF=BC=8C=E9=82=A3=E5=
+=B0=B1=E5=8F=AA=E8=83=BD=E5=8A=A8=E7=94=A8=E2=80=9C=E6=A0=B8=E6=AD=A6=E5=99=
+=A8=E2=80=9D=E2=80=93=E5=9B=BE=E5=BD=A2=E5=8C=96=EF=BC=8C=E4=B8=80=E5=9B=BE=
+=E6=8A=B5=E5=8D=83=E8=A8=80=EF=BC=81</p>
+<p><span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluenc=
+e-embedded-image confluence-external-resource" src=3D"http://img03.taobaocd=
+n.com/imgextra/i3/90219132/T2BbhlXFBXXXXXXXXX_!!90219132.jpg" data-image-sr=
+c=3D"http://img03.taobaocdn.com/imgextra/i3/90219132/T2BbhlXFBXXXXXXXXX_!!9=
+0219132.jpg"></span></p>
+<p>=E5=9C=A8=E6=AD=A4=E6=88=91=E4=BB=AC=E6=80=BB=E7=BB=93=E4=B8=80=E4=B8=8B=
+=E4=BD=BF=E7=94=A8Stream=E7=9A=84=E5=9F=BA=E6=9C=AC=E6=AD=A5=E9=AA=A4=EF=BC=
+=9A</p>
+<ol style=3D"margin-left: 19.0px;">
+<li>=E5=88=9B=E5=BB=BAStream=EF=BC=9B</li>
+<li>=E8=BD=AC=E6=8D=A2Stream=EF=BC=8C=E6=AF=8F=E6=AC=A1=E8=BD=AC=E6=8D=A2=
+=E5=8E=9F=E6=9C=89Stream=E5=AF=B9=E8=B1=A1=E4=B8=8D=E6=94=B9=E5=8F=98=EF=BC=
+=8C=E8=BF=94=E5=9B=9E=E4=B8=80=E4=B8=AA=E6=96=B0=E7=9A=84Stream=E5=AF=B9=E8=
+=B1=A1=EF=BC=88**=E5=8F=AF=E4=BB=A5=E6=9C=89=E5=A4=9A=E6=AC=A1=E8=BD=AC=E6=
+=8D=A2**=EF=BC=89=EF=BC=9B</li>
+<li>=E5=AF=B9Stream=E8=BF=9B=E8=A1=8C=E8=81=9A=E5=90=88=EF=BC=88Reduce=EF=
+=BC=89=E6=93=8D=E4=BD=9C=EF=BC=8C=E8=8E=B7=E5=8F=96=E6=83=B3=E8=A6=81=E7=9A=
+=84=E7=BB=93=E6=9E=9C=EF=BC=9B</li>
+</ol>
+<h1 id=3D"Stream=E8=AF=AD=E6=B3=95=E8=AF=A6=E8=A7=A3-2.=E5=88=9B=E5=BB=BASt=
+ream">2. =E5=88=9B=E5=BB=BAStream</h1>
+<p>=E6=9C=80=E5=B8=B8=E7=94=A8=E7=9A=84=E5=88=9B=E5=BB=BAStream=E6=9C=89=E4=
+=B8=A4=E7=A7=8D=E9=80=94=E5=BE=84=EF=BC=9A</p>
+<ol style=3D"margin-left: 19.0px;">
+<li>=E9=80=9A=E8=BF=87Stream=E6=8E=A5=E5=8F=A3=E7=9A=84=E9=9D=99=E6=80=81=
+=E5=B7=A5=E5=8E=82=E6=96=B9=E6=B3=95=EF=BC=88=E6=B3=A8=E6=84=8F=EF=BC=9AJav=
+a8=E9=87=8C=E6=8E=A5=E5=8F=A3=E5=8F=AF=E4=BB=A5=E5=B8=A6=E9=9D=99=E6=80=81=
+=E6=96=B9=E6=B3=95=EF=BC=89=EF=BC=9B</li>
+<li>=E9=80=9A=E8=BF=87Collection=E6=8E=A5=E5=8F=A3=E7=9A=84=E9=BB=98=E8=AE=
+=A4=E6=96=B9=E6=B3=95=EF=BC=88=E9=BB=98=E8=AE=A4=E6=96=B9=E6=B3=95=EF=BC=9A=
+Default method=EF=BC=8C=E4=B9=9F=E6=98=AFJava8=E4=B8=AD=E7=9A=84=E4=B8=80=
+=E4=B8=AA=E6=96=B0=E7=89=B9=E6=80=A7=EF=BC=8C=E5=B0=B1=E6=98=AF=E6=8E=A5=E5=
+=8F=A3=E4=B8=AD=E7=9A=84=E4=B8=80=E4=B8=AA=E5=B8=A6=E6=9C=89=E5=AE=9E=E7=8E=
+=B0=E7=9A=84=E6=96=B9=E6=B3=95=EF=BC=8C=E5=90=8E=E7=BB=AD=E6=96=87=E7=AB=A0=
+=E4=BC=9A=E6=9C=89=E4=BB=8B=E7=BB=8D=EF=BC=89=E2=80=93stream()=EF=BC=8C=E6=
+=8A=8A=E4=B8=80=E4=B8=AACollection=E5=AF=B9=E8=B1=A1=E8=BD=AC=E6=8D=A2=E6=
+=88=90Stream</li>
+</ol>
+<h3 id=3D"Stream=E8=AF=AD=E6=B3=95=E8=AF=A6=E8=A7=A3-2.1=E4=BD=BF=E7=94=A8S=
+tream=E9=9D=99=E6=80=81=E6=96=B9=E6=B3=95=E6=9D=A5=E5=88=9B=E5=BB=BAStream"=
+>2.1 =E4=BD=BF=E7=94=A8Stream=E9=9D=99=E6=80=81=E6=96=B9=E6=B3=95=E6=9D=A5=
+=E5=88=9B=E5=BB=BAStream</h3>
+<p>1. of=E6=96=B9=E6=B3=95=EF=BC=9A=E6=9C=89=E4=B8=A4=E4=B8=AAoverload=E6=
+=96=B9=E6=B3=95=EF=BC=8C=E4=B8=80=E4=B8=AA=E6=8E=A5=E5=8F=97=E5=8F=98=E9=95=
+=BF=E5=8F=82=E6=95=B0=EF=BC=8C=E4=B8=80=E4=B8=AA=E6=8E=A5=E5=8F=A3=E5=8D=95=
+=E4=B8=80=E5=80=BC</p>
+<pre title=3D"">=09Stream&lt;Integer&gt; integerStream =3D Stream.of(1, 2, =
+3, 5);
+=09Stream&lt;String&gt; stringStream =3D Stream.of("taobao");
+=09</pre>
+<p>2. generator=E6=96=B9=E6=B3=95=EF=BC=9A=E7=94=9F=E6=88=90=E4=B8=80=E4=B8=
+=AA=E6=97=A0=E9=99=90=E9=95=BF=E5=BA=A6=E7=9A=84Stream=EF=BC=8C=E5=85=B6=E5=
+=85=83=E7=B4=A0=E7=9A=84=E7=94=9F=E6=88=90=E6=98=AF=E9=80=9A=E8=BF=87=E7=BB=
+=99=E5=AE=9A=E7=9A=84Supplier=EF=BC=88=E8=BF=99=E4=B8=AA=E6=8E=A5=E5=8F=A3=
+=E5=8F=AF=E4=BB=A5=E7=9C=8B=E6=88=90=E4=B8=80=E4=B8=AA=E5=AF=B9=E8=B1=A1=E7=
+=9A=84=E5=B7=A5=E5=8E=82=EF=BC=8C=E6=AF=8F=E6=AC=A1=E8=B0=83=E7=94=A8=E8=BF=
+=94=E5=9B=9E=E4=B8=80=E4=B8=AA=E7=BB=99=E5=AE=9A=E7=B1=BB=E5=9E=8B=E7=9A=84=
+=E5=AF=B9=E8=B1=A1=EF=BC=89</p>
+<pre title=3D"">    Stream.generate(new Supplier&lt;Double&gt;() {
+    =09@Override
+    =09public Double get() {
+=09=09=09return Math.random();
+=09=09}
+=09});
+=09Stream.generate(() -&gt; Math.random());
+    Stream.generate(Math::random);
+    </pre>
+<p>=E4=B8=89=E6=9D=A1=E8=AF=AD=E5=8F=A5=E7=9A=84=E4=BD=9C=E7=94=A8=E9=83=BD=
+=E6=98=AF=E4=B8=80=E6=A0=B7=E7=9A=84=EF=BC=8C=E5=8F=AA=E6=98=AF=E4=BD=BF=E7=
+=94=A8=E4=BA=86lambda=E8=A1=A8=E8=BE=BE=E5=BC=8F=E5=92=8C=E6=96=B9=E6=B3=95=
+=E5=BC=95=E7=94=A8=E7=9A=84=E8=AF=AD=E6=B3=95=E6=9D=A5=E7=AE=80=E5=8C=96=E4=
+=BB=A3=E7=A0=81=E3=80=82=E6=AF=8F=E6=9D=A1=E8=AF=AD=E5=8F=A5=E5=85=B6=E5=AE=
+=9E=E9=83=BD=E6=98=AF=E7=94=9F=E6=88=90=E4=B8=80=E4=B8=AA=E6=97=A0=E9=99=90=
+=E9=95=BF=E5=BA=A6=E7=9A=84Stream=EF=BC=8C=E5=85=B6=E4=B8=AD=E5=80=BC=E6=98=
+=AF=E9=9A=8F=E6=9C=BA=E7=9A=84=E3=80=82<em>=E8=BF=99=E4=B8=AA=E6=97=A0=E9=
+=99=90=E9=95=BF=E5=BA=A6Stream=E6=98=AF=E6=87=92=E5=8A=A0=E8=BD=BD=EF=BC=8C=
+=E4=B8=80=E8=88=AC=E8=BF=99=E7=A7=8D=E6=97=A0=E9=99=90=E9=95=BF=E5=BA=A6=E7=
+=9A=84Stream=E9=83=BD=E4=BC=9A=E9=85=8D=E5=90=88Stream=E7=9A=84limit()=E6=
+=96=B9=E6=B3=95=E6=9D=A5=E7=94=A8=E3=80=82</em><br>3. iterate=E6=96=B9=E6=
+=B3=95=EF=BC=9A=E4=B9=9F=E6=98=AF=E7=94=9F=E6=88=90=E6=97=A0=E9=99=90=E9=95=
+=BF=E5=BA=A6=E7=9A=84Stream=EF=BC=8C=E5=92=8Cgenerator=E4=B8=8D=E5=90=8C=E7=
+=9A=84=E6=98=AF=EF=BC=8C=E5=85=B6=E5=85=83=E7=B4=A0=E7=9A=84=E7=94=9F=E6=88=
+=90=E6=98=AF=E9=87=8D=E5=A4=8D=E5=AF=B9=E7=BB=99=E5=AE=9A=E7=9A=84=E7=A7=8D=
+=E5=AD=90=E5=80=BC(seed)=E8=B0=83=E7=94=A8=E7=94=A8=E6=88=B7=E6=8C=87=E5=AE=
+=9A=E5=87=BD=E6=95=B0=E6=9D=A5=E7=94=9F=E6=88=90=E7=9A=84=E3=80=82=E5=85=B6=
+=E4=B8=AD=E5=8C=85=E5=90=AB=E7=9A=84=E5=85=83=E7=B4=A0=E5=8F=AF=E4=BB=A5=E8=
+=AE=A4=E4=B8=BA=E6=98=AF=EF=BC=9Aseed=EF=BC=8Cf(seed),f(f(seed))=E6=97=A0=
+=E9=99=90=E5=BE=AA=E7=8E=AF</p>
+<pre title=3D"">    Stream.iterate(1, item -&gt; item + 1).limit(10).forEac=
+h(System.out::println);
+    </pre>
+<p>=E8=BF=99=E6=AE=B5=E4=BB=A3=E7=A0=81=E5=B0=B1=E6=98=AF=E5=85=88=E8=8E=B7=
+=E5=8F=96=E4=B8=80=E4=B8=AA=E6=97=A0=E9=99=90=E9=95=BF=E5=BA=A6=E7=9A=84=E6=
+=AD=A3=E6=95=B4=E6=95=B0=E9=9B=86=E5=90=88=E7=9A=84Stream=EF=BC=8C=E7=84=B6=
+=E5=90=8E=E5=8F=96=E5=87=BA=E5=89=8D10=E4=B8=AA=E6=89=93=E5=8D=B0=E3=80=82<=
+strong>=E5=8D=83=E4=B8=87=E8=AE=B0=E4=BD=8F=E4=BD=BF=E7=94=A8limit=E6=96=B9=
+=E6=B3=95=EF=BC=8C=E4=B8=8D=E7=84=B6=E4=BC=9A=E6=97=A0=E9=99=90=E6=89=93=E5=
+=8D=B0=E4=B8=8B=E5=8E=BB=E3=80=82</strong></p>
+<h3 id=3D"Stream=E8=AF=AD=E6=B3=95=E8=AF=A6=E8=A7=A3-2.2=E9=80=9A=E8=BF=87C=
+ollection=E5=AD=90=E7=B1=BB=E8=8E=B7=E5=8F=96Stream">2.2 =E9=80=9A=E8=BF=87=
+Collection=E5=AD=90=E7=B1=BB=E8=8E=B7=E5=8F=96Stream</h3>
+<p>=E8=BF=99=E4=B8=AA=E5=9C=A8=E6=9C=AC=E6=96=87=E7=9A=84=E7=AC=AC=E4=B8=80=
+=E4=B8=AA=E4=BE=8B=E5=AD=90=E4=B8=AD=E5=B0=B1=E5=B1=95=E7=A4=BA=E4=BA=86=E4=
+=BB=8EList=E5=AF=B9=E8=B1=A1=E8=8E=B7=E5=8F=96=E5=85=B6=E5=AF=B9=E5=BA=94=
+=E7=9A=84Stream=E5=AF=B9=E8=B1=A1=EF=BC=8C=E5=A6=82=E6=9E=9C=E6=9F=A5=E7=9C=
+=8BJava doc=E5=B0=B1=E5=8F=AF=E4=BB=A5=E5=8F=91=E7=8E=B0Collection=E6=8E=A5=
+=E5=8F=A3=E6=9C=89=E4=B8=80=E4=B8=AAstream=E6=96=B9=E6=B3=95=EF=BC=8C=E6=89=
+=80=E4=BB=A5=E5=85=B6=E6=89=80=E6=9C=89=E5=AD=90=E7=B1=BB=E9=83=BD=E9=83=BD=
+=E5=8F=AF=E4=BB=A5=E8=8E=B7=E5=8F=96=E5=AF=B9=E5=BA=94=E7=9A=84Stream=E5=AF=
+=B9=E8=B1=A1=E3=80=82</p>
+<pre title=3D"">public interface Collection&lt;E&gt; extends Iterable&lt;E&=
+gt; {
+    //=E5=85=B6=E4=BB=96=E6=96=B9=E6=B3=95=E7=9C=81=E7=95=A5
+=09default Stream&lt;E&gt; stream() {
+        return StreamSupport.stream(spliterator(), false);
+    }
+}
+</pre>
+<h1 id=3D"Stream=E8=AF=AD=E6=B3=95=E8=AF=A6=E8=A7=A3-3.=E8=BD=AC=E6=8D=A2St=
+ream">3. =E8=BD=AC=E6=8D=A2Stream</h1>
+<p>=E8=BD=AC=E6=8D=A2Stream=E5=85=B6=E5=AE=9E=E5=B0=B1=E6=98=AF=E6=8A=8A=E4=
+=B8=80=E4=B8=AAStream=E9=80=9A=E8=BF=87=E6=9F=90=E4=BA=9B=E8=A1=8C=E4=B8=BA=
+=E8=BD=AC=E6=8D=A2=E6=88=90=E4=B8=80=E4=B8=AA=E6=96=B0=E7=9A=84Stream=E3=80=
+=82Stream=E6=8E=A5=E5=8F=A3=E4=B8=AD=E5=AE=9A=E4=B9=89=E4=BA=86=E5=87=A0=E4=
+=B8=AA=E5=B8=B8=E7=94=A8=E7=9A=84=E8=BD=AC=E6=8D=A2=E6=96=B9=E6=B3=95=EF=BC=
+=8C=E4=B8=8B=E9=9D=A2=E6=88=91=E4=BB=AC=E6=8C=91=E9=80=89=E5=87=A0=E4=B8=AA=
+=E5=B8=B8=E7=94=A8=E7=9A=84=E8=BD=AC=E6=8D=A2=E6=96=B9=E6=B3=95=E6=9D=A5=E8=
+=A7=A3=E9=87=8A=E3=80=82<br>1. distinct: =E5=AF=B9=E4=BA=8EStream=E4=B8=AD=
+=E5=8C=85=E5=90=AB=E7=9A=84=E5=85=83=E7=B4=A0=E8=BF=9B=E8=A1=8C=E5=8E=BB=E9=
+=87=8D=E6=93=8D=E4=BD=9C=EF=BC=88=E5=8E=BB=E9=87=8D=E9=80=BB=E8=BE=91=E4=BE=
+=9D=E8=B5=96=E5=85=83=E7=B4=A0=E7=9A=84equals=E6=96=B9=E6=B3=95=EF=BC=89=EF=
+=BC=8C=E6=96=B0=E7=94=9F=E6=88=90=E7=9A=84Stream=E4=B8=AD=E6=B2=A1=E6=9C=89=
+=E9=87=8D=E5=A4=8D=E7=9A=84=E5=85=83=E7=B4=A0=EF=BC=9B</p>
+<p>distinct=E6=96=B9=E6=B3=95=E7=A4=BA=E6=84=8F=E5=9B=BE(**=E4=BB=A5=E4=B8=
+=8B=E6=89=80=E6=9C=89=E7=9A=84=E7=A4=BA=E6=84=8F=E5=9B=BE=E9=83=BD=E8=A6=81=
+=E6=84=9F=E8=B0=A2[RxJava](<a href=3D"https://github.com/Netflix/RxJava" cl=
+ass=3D"external-link" rel=3D"nofollow">https://github.com/Netflix/RxJava</a=
+>)=E9=A1=B9=E7=9B=AE=E7=9A=84doc=E4=B8=AD=E7=9A=84=E5=9B=BE=E7=89=87=E7=BB=
+=99=E4=BA=88=E7=9A=84=E7=81=B5=E6=84=9F, =E5=A6=82=E6=9E=9C=E7=A4=BA=E6=84=
+=8F=E5=9B=BE=E8=A1=A8=E8=BE=BE=E7=9A=84=E6=9C=89=E9=94=99=E8=AF=AF=E5=92=8C=
+=E4=B8=8D=E5=87=86=E7=A1=AE=E7=9A=84=E5=9C=B0=E6=96=B9=EF=BC=8C=E8=AF=B7=E7=
+=9B=B4=E6=8E=A5=E8=81=94=E7=B3=BB=E6=88=91=E3=80=82**)=EF=BC=9A<br><span cl=
+ass=3D"confluence-embedded-file-wrapper"><img class=3D"confluence-embedded-=
+image confluence-external-resource" src=3D"http://img04.taobaocdn.com/imgex=
+tra/i4/90219132/T2K0lnXPRXXXXXXXXX_!!90219132.jpg" data-image-src=3D"http:/=
+/img04.taobaocdn.com/imgextra/i4/90219132/T2K0lnXPRXXXXXXXXX_!!90219132.jpg=
+"></span><br>2. filter: =E5=AF=B9=E4=BA=8EStream=E4=B8=AD=E5=8C=85=E5=90=AB=
+=E7=9A=84=E5=85=83=E7=B4=A0=E4=BD=BF=E7=94=A8=E7=BB=99=E5=AE=9A=E7=9A=84=E8=
+=BF=87=E6=BB=A4=E5=87=BD=E6=95=B0=E8=BF=9B=E8=A1=8C=E8=BF=87=E6=BB=A4=E6=93=
+=8D=E4=BD=9C=EF=BC=8C=E6=96=B0=E7=94=9F=E6=88=90=E7=9A=84Stream=E5=8F=AA=E5=
+=8C=85=E5=90=AB=E7=AC=A6=E5=90=88=E6=9D=A1=E4=BB=B6=E7=9A=84=E5=85=83=E7=B4=
+=A0=EF=BC=9B</p>
+<p>filter=E6=96=B9=E6=B3=95=E7=A4=BA=E6=84=8F=E5=9B=BE=EF=BC=9A<br><span cl=
+ass=3D"confluence-embedded-file-wrapper"><img class=3D"confluence-embedded-=
+image confluence-external-resource" src=3D"http://img03.taobaocdn.com/imgex=
+tra/i3/90219132/T2OxXnXPlXXXXXXXXX_!!90219132.jpg" data-image-src=3D"http:/=
+/img03.taobaocdn.com/imgextra/i3/90219132/T2OxXnXPlXXXXXXXXX_!!90219132.jpg=
+"></span><br>3. map: =E5=AF=B9=E4=BA=8EStream=E4=B8=AD=E5=8C=85=E5=90=AB=E7=
+=9A=84=E5=85=83=E7=B4=A0=E4=BD=BF=E7=94=A8=E7=BB=99=E5=AE=9A=E7=9A=84=E8=BD=
+=AC=E6=8D=A2=E5=87=BD=E6=95=B0=E8=BF=9B=E8=A1=8C=E8=BD=AC=E6=8D=A2=E6=93=8D=
+=E4=BD=9C=EF=BC=8C=E6=96=B0=E7=94=9F=E6=88=90=E7=9A=84Stream=E5=8F=AA=E5=8C=
+=85=E5=90=AB=E8=BD=AC=E6=8D=A2=E7=94=9F=E6=88=90=E7=9A=84=E5=85=83=E7=B4=A0=
+=E3=80=82=E8=BF=99=E4=B8=AA=E6=96=B9=E6=B3=95=E6=9C=89=E4=B8=89=E4=B8=AA=E5=
+=AF=B9=E4=BA=8E=E5=8E=9F=E5=A7=8B=E7=B1=BB=E5=9E=8B=E7=9A=84=E5=8F=98=E7=A7=
+=8D=E6=96=B9=E6=B3=95=EF=BC=8C=E5=88=86=E5=88=AB=E6=98=AF=EF=BC=9AmapToInt=
+=EF=BC=8CmapToLong=E5=92=8CmapToDouble=E3=80=82=E8=BF=99=E4=B8=89=E4=B8=AA=
+=E6=96=B9=E6=B3=95=E4=B9=9F=E6=AF=94=E8=BE=83=E5=A5=BD=E7=90=86=E8=A7=A3=EF=
+=BC=8C=E6=AF=94=E5=A6=82mapToInt=E5=B0=B1=E6=98=AF=E6=8A=8A=E5=8E=9F=E5=A7=
+=8BStream=E8=BD=AC=E6=8D=A2=E6=88=90=E4=B8=80=E4=B8=AA=E6=96=B0=E7=9A=84Str=
+eam=EF=BC=8C=E8=BF=99=E4=B8=AA=E6=96=B0=E7=94=9F=E6=88=90=E7=9A=84Stream=E4=
+=B8=AD=E7=9A=84=E5=85=83=E7=B4=A0=E9=83=BD=E6=98=AFint=E7=B1=BB=E5=9E=8B=E3=
+=80=82=E4=B9=8B=E6=89=80=E4=BB=A5=E4=BC=9A=E6=9C=89=E8=BF=99=E6=A0=B7=E4=B8=
+=89=E4=B8=AA=E5=8F=98=E7=A7=8D=E6=96=B9=E6=B3=95=EF=BC=8C=E5=8F=AF=E4=BB=A5=
+=E5=85=8D=E9=99=A4=E8=87=AA=E5=8A=A8=E8=A3=85=E7=AE=B1/=E6=8B=86=E7=AE=B1=
+=E7=9A=84=E9=A2=9D=E5=A4=96=E6=B6=88=E8=80=97=EF=BC=9B</p>
+<p>map=E6=96=B9=E6=B3=95=E7=A4=BA=E6=84=8F=E5=9B=BE=EF=BC=9A<br><span class=
+=3D"confluence-embedded-file-wrapper"><img class=3D"confluence-embedded-ima=
+ge confluence-external-resource" src=3D"http://img03.taobaocdn.com/imgextra=
+/i3/90219132/T2PQJnXOJXXXXXXXXX_!!90219132.jpg" data-image-src=3D"http://im=
+g03.taobaocdn.com/imgextra/i3/90219132/T2PQJnXOJXXXXXXXXX_!!90219132.jpg"><=
+/span><br>4. flatMap=EF=BC=9A=E5=92=8Cmap=E7=B1=BB=E4=BC=BC=EF=BC=8C=E4=B8=
+=8D=E5=90=8C=E7=9A=84=E6=98=AF=E5=85=B6=E6=AF=8F=E4=B8=AA=E5=85=83=E7=B4=A0=
+=E8=BD=AC=E6=8D=A2=E5=BE=97=E5=88=B0=E7=9A=84=E6=98=AFStream=E5=AF=B9=E8=B1=
+=A1=EF=BC=8C=E4=BC=9A=E6=8A=8A=E5=AD=90Stream=E4=B8=AD=E7=9A=84=E5=85=83=E7=
+=B4=A0=E5=8E=8B=E7=BC=A9=E5=88=B0=E7=88=B6=E9=9B=86=E5=90=88=E4=B8=AD=EF=BC=
+=9B</p>
+<p>flatMap=E6=96=B9=E6=B3=95=E7=A4=BA=E6=84=8F=E5=9B=BE=EF=BC=9A<br><span c=
+lass=3D"confluence-embedded-file-wrapper"><img class=3D"confluence-embedded=
+-image confluence-external-resource" src=3D"http://img01.taobaocdn.com/imge=
+xtra/i1/90219132/T2mBXnXQhXXXXXXXXX_!!90219132.jpg" data-image-src=3D"http:=
+//img01.taobaocdn.com/imgextra/i1/90219132/T2mBXnXQhXXXXXXXXX_!!90219132.jp=
+g"></span><br>5. peek: =E7=94=9F=E6=88=90=E4=B8=80=E4=B8=AA=E5=8C=85=E5=90=
+=AB=E5=8E=9FStream=E7=9A=84=E6=89=80=E6=9C=89=E5=85=83=E7=B4=A0=E7=9A=84=E6=
+=96=B0Stream=EF=BC=8C=E5=90=8C=E6=97=B6=E4=BC=9A=E6=8F=90=E4=BE=9B=E4=B8=80=
+=E4=B8=AA=E6=B6=88=E8=B4=B9=E5=87=BD=E6=95=B0=EF=BC=88Consumer=E5=AE=9E=E4=
+=BE=8B=EF=BC=89=EF=BC=8C=E6=96=B0Stream=E6=AF=8F=E4=B8=AA=E5=85=83=E7=B4=A0=
+=E8=A2=AB=E6=B6=88=E8=B4=B9=E7=9A=84=E6=97=B6=E5=80=99=E9=83=BD=E4=BC=9A=E6=
+=89=A7=E8=A1=8C=E7=BB=99=E5=AE=9A=E7=9A=84=E6=B6=88=E8=B4=B9=E5=87=BD=E6=95=
+=B0=EF=BC=9B</p>
+<p>peek=E6=96=B9=E6=B3=95=E7=A4=BA=E6=84=8F=E5=9B=BE=EF=BC=9A<br><span clas=
+s=3D"confluence-embedded-file-wrapper"><img class=3D"confluence-embedded-im=
+age confluence-external-resource" src=3D"http://img03.taobaocdn.com/imgextr=
+a/i3/90219132/T2DrFmXHtaXXXXXXXX_!!90219132.jpg" data-image-src=3D"http://i=
+mg03.taobaocdn.com/imgextra/i3/90219132/T2DrFmXHtaXXXXXXXX_!!90219132.jpg">=
+</span><br>6. limit: =E5=AF=B9=E4=B8=80=E4=B8=AAStream=E8=BF=9B=E8=A1=8C=E6=
+=88=AA=E6=96=AD=E6=93=8D=E4=BD=9C=EF=BC=8C=E8=8E=B7=E5=8F=96=E5=85=B6=E5=89=
+=8DN=E4=B8=AA=E5=85=83=E7=B4=A0=EF=BC=8C=E5=A6=82=E6=9E=9C=E5=8E=9FStream=
+=E4=B8=AD=E5=8C=85=E5=90=AB=E7=9A=84=E5=85=83=E7=B4=A0=E4=B8=AA=E6=95=B0=E5=
+=B0=8F=E4=BA=8EN=EF=BC=8C=E9=82=A3=E5=B0=B1=E8=8E=B7=E5=8F=96=E5=85=B6=E6=
+=89=80=E6=9C=89=E7=9A=84=E5=85=83=E7=B4=A0=EF=BC=9B</p>
+<p>limit=E6=96=B9=E6=B3=95=E7=A4=BA=E6=84=8F=E5=9B=BE=EF=BC=9A<br><span cla=
+ss=3D"confluence-embedded-file-wrapper"><img class=3D"confluence-embedded-i=
+mage confluence-external-resource" src=3D"http://img02.taobaocdn.com/imgext=
+ra/i2/90219132/T2QAXlXJBaXXXXXXXX_!!90219132.jpg" data-image-src=3D"http://=
+img02.taobaocdn.com/imgextra/i2/90219132/T2QAXlXJBaXXXXXXXX_!!90219132.jpg"=
+></span><br>7. skip: =E8=BF=94=E5=9B=9E=E4=B8=80=E4=B8=AA=E4=B8=A2=E5=BC=83=
+=E5=8E=9FStream=E7=9A=84=E5=89=8DN=E4=B8=AA=E5=85=83=E7=B4=A0=E5=90=8E=E5=
+=89=A9=E4=B8=8B=E5=85=83=E7=B4=A0=E7=BB=84=E6=88=90=E7=9A=84=E6=96=B0Stream=
+=EF=BC=8C=E5=A6=82=E6=9E=9C=E5=8E=9FStream=E4=B8=AD=E5=8C=85=E5=90=AB=E7=9A=
+=84=E5=85=83=E7=B4=A0=E4=B8=AA=E6=95=B0=E5=B0=8F=E4=BA=8EN=EF=BC=8C=E9=82=
+=A3=E4=B9=88=E8=BF=94=E5=9B=9E=E7=A9=BAStream=EF=BC=9B</p>
+<p>skip=E6=96=B9=E6=B3=95=E7=A4=BA=E6=84=8F=E5=9B=BE=EF=BC=9A<br><span clas=
+s=3D"confluence-embedded-file-wrapper"><img class=3D"confluence-embedded-im=
+age confluence-external-resource" src=3D"http://img04.taobaocdn.com/imgextr=
+a/i4/90219132/T24A8mXUJXXXXXXXXX_!!90219132.jpg" data-image-src=3D"http://i=
+mg04.taobaocdn.com/imgextra/i4/90219132/T24A8mXUJXXXXXXXXX_!!90219132.jpg">=
+</span><br>8. =E5=9C=A8=E4=B8=80=E8=B5=B7,=E5=9C=A8=E4=B8=80=E8=B5=B7=EF=BC=
+=81</p>
+<pre title=3D"">    List&lt;Integer&gt; nums =3D Lists.newArrayList(1,1,nul=
+l,2,3,4,null,5,6,7,8,9,10);
+=09System.out.println(=E2=80=9Csum is:=E2=80=9D+nums.stream().filter(num -&=
+gt; num !=3D null).
+    =09=09=09distinct().mapToInt(num -&gt; num * 2).
+                peek(System.out::println).skip(2).limit(4).sum());
+    </pre>
+<p>=E8=BF=99=E6=AE=B5=E4=BB=A3=E7=A0=81=E6=BC=94=E7=A4=BA=E4=BA=86=E4=B8=8A=
+=E9=9D=A2=E4=BB=8B=E7=BB=8D=E7=9A=84=E6=89=80=E6=9C=89=E8=BD=AC=E6=8D=A2=E6=
+=96=B9=E6=B3=95=EF=BC=88=E9=99=A4=E4=BA=86flatMap=EF=BC=89=EF=BC=8C=E7=AE=
+=80=E5=8D=95=E8=A7=A3=E9=87=8A=E4=B8=80=E4=B8=8B=E8=BF=99=E6=AE=B5=E4=BB=A3=
+=E7=A0=81=E7=9A=84=E5=90=AB=E4=B9=89=EF=BC=9A=E7=BB=99=E5=AE=9A=E4=B8=80=E4=
+=B8=AAInteger=E7=B1=BB=E5=9E=8B=E7=9A=84List=EF=BC=8C=E8=8E=B7=E5=8F=96=E5=
+=85=B6=E5=AF=B9=E5=BA=94=E7=9A=84Stream=E5=AF=B9=E8=B1=A1=EF=BC=8C=E7=84=B6=
+=E5=90=8E=E8=BF=9B=E8=A1=8C=E8=BF=87=E6=BB=A4=E6=8E=89null=EF=BC=8C=E5=86=
+=8D=E5=8E=BB=E9=87=8D=EF=BC=8C=E5=86=8D=E6=AF=8F=E4=B8=AA=E5=85=83=E7=B4=A0=
+=E4=B9=98=E4=BB=A52=EF=BC=8C=E5=86=8D=E6=AF=8F=E4=B8=AA=E5=85=83=E7=B4=A0=
+=E8=A2=AB=E6=B6=88=E8=B4=B9=E7=9A=84=E6=97=B6=E5=80=99=E6=89=93=E5=8D=B0=E8=
+=87=AA=E8=BA=AB=EF=BC=8C=E5=9C=A8=E8=B7=B3=E8=BF=87=E5=89=8D=E4=B8=A4=E4=B8=
+=AA=E5=85=83=E7=B4=A0=EF=BC=8C=E6=9C=80=E5=90=8E=E5=8E=BB=E5=89=8D=E5=9B=9B=
+=E4=B8=AA=E5=85=83=E7=B4=A0=E8=BF=9B=E8=A1=8C=E5=8A=A0=E5=92=8C=E8=BF=90=E7=
+=AE=97(=E8=A7=A3=E9=87=8A=E4=B8=80=E5=A4=A7=E5=A0=86=EF=BC=8C=E5=BE=88=E5=
+=83=8F=E5=BA=9F=E8=AF=9D=EF=BC=8C=E5=9B=A0=E4=B8=BA=E5=9F=BA=E6=9C=AC=E7=9C=
+=8B=E4=BA=86=E6=96=B9=E6=B3=95=E5=90=8D=E5=B0=B1=E7=9F=A5=E9=81=93=E8=A6=81=
+=E5=81=9A=E4=BB=80=E4=B9=88=E4=BA=86=E3=80=82=E8=BF=99=E4=B8=AA=E5=B0=B1=E6=
+=98=AF=E5=A3=B0=E6=98=8E=E5=BC=8F=E7=BC=96=E7=A8=8B=E7=9A=84=E4=B8=80=E5=A4=
+=A7=E5=A5=BD=E5=A4=84=EF=BC=81)=E3=80=82=E5=A4=A7=E5=AE=B6=E5=8F=AF=E4=BB=
+=A5=E5=8F=82=E8=80=83=E4=B8=8A=E9=9D=A2=E5=AF=B9=E4=BA=8E=E6=AF=8F=E4=B8=AA=
+=E6=96=B9=E6=B3=95=E7=9A=84=E8=A7=A3=E9=87=8A=EF=BC=8C=E7=9C=8B=E7=9C=8B=E6=
+=9C=80=E7=BB=88=E7=9A=84=E8=BE=93=E5=87=BA=E6=98=AF=E4=BB=80=E4=B9=88=E3=80=
+=82<br>9. =E6=80=A7=E8=83=BD=E9=97=AE=E9=A2=98<br>=E6=9C=89=E4=BA=9B=E7=BB=
+=86=E5=BF=83=E7=9A=84=E5=90=8C=E5=AD=A6=E5=8F=AF=E8=83=BD=E4=BC=9A=E6=9C=89=
+=E8=BF=99=E6=A0=B7=E7=9A=84=E7=96=91=E9=97=AE=EF=BC=9A=E5=9C=A8=E5=AF=B9=E4=
+=BA=8E=E4=B8=80=E4=B8=AAStream=E8=BF=9B=E8=A1=8C=E5=A4=9A=E6=AC=A1=E8=BD=AC=
+=E6=8D=A2=E6=93=8D=E4=BD=9C=EF=BC=8C=E6=AF=8F=E6=AC=A1=E9=83=BD=E5=AF=B9Str=
+eam=E7=9A=84=E6=AF=8F=E4=B8=AA=E5=85=83=E7=B4=A0=E8=BF=9B=E8=A1=8C=E8=BD=AC=
+=E6=8D=A2=EF=BC=8C=E8=80=8C=E4=B8=94=E6=98=AF=E6=89=A7=E8=A1=8C=E5=A4=9A=E6=
+=AC=A1=EF=BC=8C=E8=BF=99=E6=A0=B7=E6=97=B6=E9=97=B4=E5=A4=8D=E6=9D=82=E5=BA=
+=A6=E5=B0=B1=E6=98=AF=E4=B8=80=E4=B8=AAfor=E5=BE=AA=E7=8E=AF=E9=87=8C=E6=8A=
+=8A=E6=89=80=E6=9C=89=E6=93=8D=E4=BD=9C=E9=83=BD=E5=81=9A=E6=8E=89=E7=9A=84=
+N=EF=BC=88=E8=BD=AC=E6=8D=A2=E7=9A=84=E6=AC=A1=E6=95=B0=EF=BC=89=E5=80=8D=
+=E5=95=8A=E3=80=82<strong>=E5=85=B6=E5=AE=9E=E4=B8=8D=E6=98=AF=E8=BF=99=E6=
+=A0=B7=E7=9A=84=EF=BC=8C=E8=BD=AC=E6=8D=A2=E6=93=8D=E4=BD=9C=E9=83=BD=E6=98=
+=AFlazy=E7=9A=84=EF=BC=8C=E5=A4=9A=E4=B8=AA=E8=BD=AC=E6=8D=A2=E6=93=8D=E4=
+=BD=9C=E5=8F=AA=E4=BC=9A=E5=9C=A8=E6=B1=87=E8=81=9A=E6=93=8D=E4=BD=9C=EF=BC=
+=88=E8=A7=81=E4=B8=8B=E8=8A=82=EF=BC=89=E7=9A=84=E6=97=B6=E5=80=99=E8=9E=8D=
+=E5=90=88=E8=B5=B7=E6=9D=A5=EF=BC=8C=E4=B8=80=E6=AC=A1=E5=BE=AA=E7=8E=AF=E5=
+=AE=8C=E6=88=90=E3=80=82=E6=88=91=E4=BB=AC=E5=8F=AF=E4=BB=A5=E8=BF=99=E6=A0=
+=B7=E7=AE=80=E5=8D=95=E7=9A=84=E7=90=86=E8=A7=A3=EF=BC=8CStream=E9=87=8C=E6=
+=9C=89=E4=B8=AA=E6=93=8D=E4=BD=9C=E5=87=BD=E6=95=B0=E7=9A=84=E9=9B=86=E5=90=
+=88=EF=BC=8C=E6=AF=8F=E6=AC=A1=E8=BD=AC=E6=8D=A2=E6=93=8D=E4=BD=9C=E5=B0=B1=
+=E6=98=AF=E6=8A=8A=E8=BD=AC=E6=8D=A2=E5=87=BD=E6=95=B0=E6=94=BE=E5=85=A5=E8=
+=BF=99=E4=B8=AA=E9=9B=86=E5=90=88=E4=B8=AD=EF=BC=8C=E5=9C=A8=E6=B1=87=E8=81=
+=9A=E6=93=8D=E4=BD=9C=E7=9A=84=E6=97=B6=E5=80=99=E5=BE=AA=E7=8E=AFStream=E5=
+=AF=B9=E5=BA=94=E7=9A=84=E9=9B=86=E5=90=88=EF=BC=8C=E7=84=B6=E5=90=8E=E5=AF=
+=B9=E6=AF=8F=E4=B8=AA=E5=85=83=E7=B4=A0=E6=89=A7=E8=A1=8C=E6=89=80=E6=9C=89=
+=E7=9A=84=E5=87=BD=E6=95=B0=E3=80=82</strong></p>
+<h1 id=3D"Stream=E8=AF=AD=E6=B3=95=E8=AF=A6=E8=A7=A3-4.=E6=B1=87=E8=81=9A=
+=EF=BC=88Reduce=EF=BC=89Stream">4. =E6=B1=87=E8=81=9A=EF=BC=88Reduce=EF=BC=
+=89Stream</h1>
+<blockquote style=3D"margin-left: 0.0px;">
+<p>=E6=B1=87=E8=81=9A=E8=BF=99=E4=B8=AA=E8=AF=8D=EF=BC=8C=E6=98=AF=E6=88=91=
+=E8=87=AA=E5=B7=B1=E7=BF=BB=E8=AF=91=E7=9A=84=EF=BC=8C=E5=A6=82=E6=9E=9C=E5=
+=A4=A7=E5=AE=B6=E6=9C=89=E6=9B=B4=E5=A5=BD=E7=9A=84=E7=BF=BB=E8=AF=91=EF=BC=
+=8C=E5=8F=AF=E4=BB=A5=E5=9C=A8=E4=B8=8B=E9=9D=A2=E7=95=99=E8=A8=80=E3=80=82=
+=E5=9C=A8=E5=AE=98=E6=96=B9=E6=96=87=E6=A1=A3=E4=B8=AD=E6=98=AFreduce=EF=BC=
+=8C=E4=B9=9F=E5=8F=ABfold=E3=80=82</p>
+</blockquote>
+<p>=E5=9C=A8=E4=BB=8B=E7=BB=8D=E6=B1=87=E8=81=9A=E6=93=8D=E4=BD=9C=E4=B9=8B=
+=E5=89=8D=EF=BC=8C=E6=88=91=E4=BB=AC=E5=85=88=E7=9C=8B=E4=B8=80=E4=B8=8BJav=
+a doc=E4=B8=AD=E5=AF=B9=E4=BA=8E=E5=85=B6=E5=AE=9A=E4=B9=89=EF=BC=9A</p>
+<blockquote style=3D"margin-left: 0.0px;">
+<p>A reduction operation (also called a fold) takes a sequence of input ele=
+ments and combines them into a single summary result by repeated applicatio=
+n of a combining operation, such as finding the sum or maximum of a set of =
+numbers, or accumulating elements into a list. The streams classes have mul=
+tiple forms of general reduction operations, called reduce() and collect(),=
+ as well as multiple specialized reduction forms such as sum(), max(), or c=
+ount().</p>
+</blockquote>
+<p>=E7=AE=80=E5=8D=95=E7=BF=BB=E8=AF=91=E4=B8=80=E4=B8=8B=EF=BC=9A=E6=B1=87=
+=E8=81=9A=E6=93=8D=E4=BD=9C=EF=BC=88=E4=B9=9F=E7=A7=B0=E4=B8=BA=E6=8A=98=E5=
+=8F=A0=EF=BC=89=E6=8E=A5=E5=8F=97=E4=B8=80=E4=B8=AA=E5=85=83=E7=B4=A0=E5=BA=
+=8F=E5=88=97=E4=B8=BA=E8=BE=93=E5=85=A5=EF=BC=8C=E5=8F=8D=E5=A4=8D=E4=BD=BF=
+=E7=94=A8=E6=9F=90=E4=B8=AA=E5=90=88=E5=B9=B6=E6=93=8D=E4=BD=9C=EF=BC=8C=E6=
+=8A=8A=E5=BA=8F=E5=88=97=E4=B8=AD=E7=9A=84=E5=85=83=E7=B4=A0=E5=90=88=E5=B9=
+=B6=E6=88=90=E4=B8=80=E4=B8=AA=E6=B1=87=E6=80=BB=E7=9A=84=E7=BB=93=E6=9E=9C=
+=E3=80=82=E6=AF=94=E5=A6=82=E6=9F=A5=E6=89=BE=E4=B8=80=E4=B8=AA=E6=95=B0=E5=
+=AD=97=E5=88=97=E8=A1=A8=E7=9A=84=E6=80=BB=E5=92=8C=E6=88=96=E8=80=85=E6=9C=
+=80=E5=A4=A7=E5=80=BC=EF=BC=8C=E6=88=96=E8=80=85=E6=8A=8A=E8=BF=99=E4=BA=9B=
+=E6=95=B0=E5=AD=97=E7=B4=AF=E7=A7=AF=E6=88=90=E4=B8=80=E4=B8=AAList=E5=AF=
+=B9=E8=B1=A1=E3=80=82Stream=E6=8E=A5=E5=8F=A3=E6=9C=89=E4=B8=80=E4=BA=9B=E9=
+=80=9A=E7=94=A8=E7=9A=84=E6=B1=87=E8=81=9A=E6=93=8D=E4=BD=9C=EF=BC=8C=E6=AF=
+=94=E5=A6=82reduce()=E5=92=8Ccollect()=EF=BC=9B=E4=B9=9F=E6=9C=89=E4=B8=80=
+=E4=BA=9B=E7=89=B9=E5=AE=9A=E7=94=A8=E9=80=94=E7=9A=84=E6=B1=87=E8=81=9A=E6=
+=93=8D=E4=BD=9C=EF=BC=8C=E6=AF=94=E5=A6=82sum(),max()=E5=92=8Ccount()=E3=80=
+=82<strong>=E6=B3=A8=E6=84=8F=EF=BC=9Asum=E6=96=B9=E6=B3=95=E4=B8=8D=E6=98=
+=AF=E6=89=80=E6=9C=89=E7=9A=84Stream=E5=AF=B9=E8=B1=A1=E9=83=BD=E6=9C=89=E7=
+=9A=84=EF=BC=8C=E5=8F=AA=E6=9C=89IntStream=E3=80=81LongStream=E5=92=8CDoubl=
+eStream=E6=98=AF=E5=AE=9E=E4=BE=8B=E6=89=8D=E6=9C=89=E3=80=82</strong></p>
+<p>=E4=B8=8B=E9=9D=A2=E4=BC=9A=E5=88=86=E4=B8=A4=E9=83=A8=E5=88=86=E6=9D=A5=
+=E4=BB=8B=E7=BB=8D=E6=B1=87=E8=81=9A=E6=93=8D=E4=BD=9C=EF=BC=9A</p>
+<ol style=3D"margin-left: 19.0px;">
+<li>=E5=8F=AF=E5=8F=98=E6=B1=87=E8=81=9A=EF=BC=9A=E6=8A=8A=E8=BE=93=E5=85=
+=A5=E7=9A=84=E5=85=83=E7=B4=A0=E4=BB=AC=E7=B4=AF=E7=A7=AF=E5=88=B0=E4=B8=80=
+=E4=B8=AA=E5=8F=AF=E5=8F=98=E7=9A=84=E5=AE=B9=E5=99=A8=E4=B8=AD=EF=BC=8C=E6=
+=AF=94=E5=A6=82Collection=E6=88=96=E8=80=85StringBuilder=EF=BC=9B</li>
+<li>=E5=85=B6=E4=BB=96=E6=B1=87=E8=81=9A=EF=BC=9A=E9=99=A4=E5=8E=BB=E5=8F=
+=AF=E5=8F=98=E6=B1=87=E8=81=9A=E5=89=A9=E4=B8=8B=E7=9A=84=EF=BC=8C=E4=B8=80=
+=E8=88=AC=E9=83=BD=E4=B8=8D=E6=98=AF=E9=80=9A=E8=BF=87=E5=8F=8D=E5=A4=8D=E4=
+=BF=AE=E6=94=B9=E6=9F=90=E4=B8=AA=E5=8F=AF=E5=8F=98=E5=AF=B9=E8=B1=A1=EF=BC=
+=8C=E8=80=8C=E6=98=AF=E9=80=9A=E8=BF=87=E6=8A=8A=E5=89=8D=E4=B8=80=E6=AC=A1=
+=E7=9A=84=E6=B1=87=E8=81=9A=E7=BB=93=E6=9E=9C=E5=BD=93=E6=88=90=E4=B8=8B=E4=
+=B8=80=E6=AC=A1=E7=9A=84=E5=85=A5=E5=8F=82=EF=BC=8C=E5=8F=8D=E5=A4=8D=E5=A6=
+=82=E6=AD=A4=E3=80=82=E6=AF=94=E5=A6=82reduce=EF=BC=8Ccount=EF=BC=8CallMatc=
+h=EF=BC=9B</li>
+</ol>
+<h3 id=3D"Stream=E8=AF=AD=E6=B3=95=E8=AF=A6=E8=A7=A3-4.1=E5=8F=AF=E5=8F=98=
+=E6=B1=87=E8=81=9A">4.1 =E5=8F=AF=E5=8F=98=E6=B1=87=E8=81=9A</h3>
+<p>=E5=8F=AF=E5=8F=98=E6=B1=87=E8=81=9A=E5=AF=B9=E5=BA=94=E7=9A=84=E5=8F=AA=
+=E6=9C=89=E4=B8=80=E4=B8=AA=E6=96=B9=E6=B3=95=EF=BC=9Acollect=EF=BC=8C=E6=
+=AD=A3=E5=A6=82=E5=85=B6=E5=90=8D=E5=AD=97=E6=98=BE=E7=A4=BA=E7=9A=84=EF=BC=
+=8C=E5=AE=83=E5=8F=AF=E4=BB=A5=E6=8A=8AStream=E4=B8=AD=E7=9A=84=E8=A6=81=E6=
+=9C=89=E5=85=83=E7=B4=A0=E6=94=B6=E9=9B=86=E5=88=B0=E4=B8=80=E4=B8=AA=E7=BB=
+=93=E6=9E=9C=E5=AE=B9=E5=99=A8=E4=B8=AD=EF=BC=88=E6=AF=94=E5=A6=82Collectio=
+n=EF=BC=89=E3=80=82=E5=85=88=E7=9C=8B=E4=B8=80=E4=B8=8B=E6=9C=80=E9=80=9A=
+=E7=94=A8=E7=9A=84collect=E6=96=B9=E6=B3=95=E7=9A=84=E5=AE=9A=E4=B9=89=EF=
+=BC=88=E8=BF=98=E6=9C=89=E5=85=B6=E4=BB=96override=E6=96=B9=E6=B3=95=EF=BC=
+=89=EF=BC=9A</p>
+<pre title=3D"">&lt;R&gt; R collect(Supplier&lt;R&gt; supplier,
+                  BiConsumer&lt;R, ? super T&gt; accumulator,
+                  BiConsumer&lt;R, R&gt; combiner);
+</pre>
+<p>=E5=85=88=E6=9D=A5=E7=9C=8B=E7=9C=8B=E8=BF=99=E4=B8=89=E4=B8=AA=E5=8F=82=
+=E6=95=B0=E7=9A=84=E5=90=AB=E4=B9=89=EF=BC=9ASupplier supplier=E6=98=AF=E4=
+=B8=80=E4=B8=AA=E5=B7=A5=E5=8E=82=E5=87=BD=E6=95=B0=EF=BC=8C=E7=94=A8=E6=9D=
+=A5=E7=94=9F=E6=88=90=E4=B8=80=E4=B8=AA=E6=96=B0=E7=9A=84=E5=AE=B9=E5=99=A8=
+=EF=BC=9BBiConsumer accumulator=E4=B9=9F=E6=98=AF=E4=B8=80=E4=B8=AA=E5=87=
+=BD=E6=95=B0=EF=BC=8C=E7=94=A8=E6=9D=A5=E6=8A=8AStream=E4=B8=AD=E7=9A=84=E5=
+=85=83=E7=B4=A0=E6=B7=BB=E5=8A=A0=E5=88=B0=E7=BB=93=E6=9E=9C=E5=AE=B9=E5=99=
+=A8=E4=B8=AD=EF=BC=9BBiConsumer combiner=E8=BF=98=E6=98=AF=E4=B8=80=E4=B8=
+=AA=E5=87=BD=E6=95=B0=EF=BC=8C=E7=94=A8=E6=9D=A5=E6=8A=8A=E4=B8=AD=E9=97=B4=
+=E7=8A=B6=E6=80=81=E7=9A=84=E5=A4=9A=E4=B8=AA=E7=BB=93=E6=9E=9C=E5=AE=B9=E5=
+=99=A8=E5=90=88=E5=B9=B6=E6=88=90=E4=B8=BA=E4=B8=80=E4=B8=AA=EF=BC=88=E5=B9=
+=B6=E5=8F=91=E7=9A=84=E6=97=B6=E5=80=99=E4=BC=9A=E7=94=A8=E5=88=B0=EF=BC=89=
+=E3=80=82=E7=9C=8B=E6=99=95=E4=BA=86=EF=BC=9F=E6=9D=A5=E6=AE=B5=E4=BB=A3=E7=
+=A0=81=EF=BC=81</p>
+<pre title=3D"">=09List&lt;Integer&gt; nums =3D Lists.newArrayList(1,1,null=
+,2,3,4,null,5,6,7,8,9,10);
+        List&lt;Integer&gt; numsWithoutNull =3D nums.stream().filter(num -&=
+gt; num !=3D null).
+                collect(() -&gt; new ArrayList&lt;Integer&gt;(),
+                        (list, item) -&gt; list.add(item),
+                        (list1, list2) -&gt; list1.addAll(list2));
+</pre>
+<p>=E4=B8=8A=E9=9D=A2=E8=BF=99=E6=AE=B5=E4=BB=A3=E7=A0=81=E5=B0=B1=E6=98=AF=
+=E5=AF=B9=E4=B8=80=E4=B8=AA=E5=85=83=E7=B4=A0=E6=98=AFInteger=E7=B1=BB=E5=
+=9E=8B=E7=9A=84List=EF=BC=8C=E5=85=88=E8=BF=87=E6=BB=A4=E6=8E=89=E5=85=A8=
+=E9=83=A8=E7=9A=84null=EF=BC=8C=E7=84=B6=E5=90=8E=E6=8A=8A=E5=89=A9=E4=B8=
+=8B=E7=9A=84=E5=85=83=E7=B4=A0=E6=94=B6=E9=9B=86=E5=88=B0=E4=B8=80=E4=B8=AA=
+=E6=96=B0=E7=9A=84List=E4=B8=AD=E3=80=82=E8=BF=9B=E4=B8=80=E6=AD=A5=E7=9C=
+=8B=E4=B8=80=E4=B8=8Bcollect=E6=96=B9=E6=B3=95=E7=9A=84=E4=B8=89=E4=B8=AA=
+=E5=8F=82=E6=95=B0=EF=BC=8C=E9=83=BD=E6=98=AFlambda=E5=BD=A2=E5=BC=8F=E7=9A=
+=84=E5=87=BD=E6=95=B0=EF=BC=88*=E4=B8=8A=E9=9D=A2=E7=9A=84=E4=BB=A3=E7=A0=
+=81=E5=8F=AF=E4=BB=A5=E4=BD=BF=E7=94=A8=E6=96=B9=E6=B3=95=E5=BC=95=E7=94=A8=
+=E6=9D=A5=E7=AE=80=E5=8C=96=EF=BC=8C=E7=95=99=E7=BB=99=E8=AF=BB=E8=80=85=E8=
+=87=AA=E5=B7=B1=E5=8E=BB=E6=80=9D=E8=80=83*=EF=BC=89=E3=80=82</p>
+<ul>
+<li>=E7=AC=AC=E4=B8=80=E4=B8=AA=E5=87=BD=E6=95=B0=E7=94=9F=E6=88=90=E4=B8=
+=80=E4=B8=AA=E6=96=B0=E7=9A=84ArrayList=E5=AE=9E=E4=BE=8B=EF=BC=9B</li>
+<li>=E7=AC=AC=E4=BA=8C=E4=B8=AA=E5=87=BD=E6=95=B0=E6=8E=A5=E5=8F=97=E4=B8=
+=A4=E4=B8=AA=E5=8F=82=E6=95=B0=EF=BC=8C=E7=AC=AC=E4=B8=80=E4=B8=AA=E6=98=AF=
+=E5=89=8D=E9=9D=A2=E7=94=9F=E6=88=90=E7=9A=84ArrayList=E5=AF=B9=E8=B1=A1=EF=
+=BC=8C=E4=BA=8C=E4=B8=AA=E6=98=AFstream=E4=B8=AD=E5=8C=85=E5=90=AB=E7=9A=84=
+=E5=85=83=E7=B4=A0=EF=BC=8C=E5=87=BD=E6=95=B0=E4=BD=93=E5=B0=B1=E6=98=AF=E6=
+=8A=8Astream=E4=B8=AD=E7=9A=84=E5=85=83=E7=B4=A0=E5=8A=A0=E5=85=A5ArrayList=
+=E5=AF=B9=E8=B1=A1=E4=B8=AD=E3=80=82=E7=AC=AC=E4=BA=8C=E4=B8=AA=E5=87=BD=E6=
+=95=B0=E8=A2=AB=E5=8F=8D=E5=A4=8D=E8=B0=83=E7=94=A8=E7=9B=B4=E5=88=B0=E5=8E=
+=9Fstream=E7=9A=84=E5=85=83=E7=B4=A0=E8=A2=AB=E6=B6=88=E8=B4=B9=E5=AE=8C=E6=
+=AF=95=EF=BC=9B</li>
+<li>=E7=AC=AC=E4=B8=89=E4=B8=AA=E5=87=BD=E6=95=B0=E4=B9=9F=E6=98=AF=E6=8E=
+=A5=E5=8F=97=E4=B8=A4=E4=B8=AA=E5=8F=82=E6=95=B0=EF=BC=8C=E8=BF=99=E4=B8=A4=
+=E4=B8=AA=E9=83=BD=E6=98=AFArrayList=E7=B1=BB=E5=9E=8B=E7=9A=84=EF=BC=8C=E5=
+=87=BD=E6=95=B0=E4=BD=93=E5=B0=B1=E6=98=AF=E6=8A=8A=E7=AC=AC=E4=BA=8C=E4=B8=
+=AAArrayList=E5=85=A8=E9=83=A8=E5=8A=A0=E5=85=A5=E5=88=B0=E7=AC=AC=E4=B8=80=
+=E4=B8=AA=E4=B8=AD=EF=BC=9B</li>
+</ul>
+<p>=E4=BD=86=E6=98=AF=E4=B8=8A=E9=9D=A2=E7=9A=84collect=E6=96=B9=E6=B3=95=
+=E8=B0=83=E7=94=A8=E4=B9=9F=E6=9C=89=E7=82=B9=E5=A4=AA=E5=A4=8D=E6=9D=82=E4=
+=BA=86=EF=BC=8C=E6=B2=A1=E5=85=B3=E7=B3=BB=EF=BC=81=E6=88=91=E4=BB=AC=E6=9D=
+=A5=E7=9C=8B=E4=B8=80=E4=B8=8Bcollect=E6=96=B9=E6=B3=95=E5=8F=A6=E5=A4=96=
+=E4=B8=80=E4=B8=AAoverride=E7=9A=84=E7=89=88=E6=9C=AC=EF=BC=8C=E5=85=B6=E4=
+=BE=9D=E8=B5=96[Collector](<a href=3D"http://docs.oracle.com/javase/8/docs/=
+api/java/util/stream/Collector.html" class=3D"external-link" rel=3D"nofollo=
+w">http://docs.oracle.com/javase/8/docs/api/java/util/stream/Collector.html=
+</a>)=E3=80=82</p>
+<pre title=3D"">&lt;R, A&gt; R collect(Collector&lt;? super T, A, R&gt; col=
+lector);
+</pre>
+<p>=E8=BF=99=E6=A0=B7=E6=B8=85=E7=88=BD=E5=A4=9A=E4=BA=86=EF=BC=81=E5=B0=91=
+=E5=B9=B4=EF=BC=8C=E8=BF=98=E6=9C=89=E5=A5=BD=E6=B6=88=E6=81=AF=EF=BC=8CJav=
+a8=E8=BF=98=E7=BB=99=E6=88=91=E4=BB=AC=E6=8F=90=E4=BE=9B=E4=BA=86Collector=
+=E7=9A=84=E5=B7=A5=E5=85=B7=E7=B1=BB=E2=80=93[Collectors](<a href=3D"http:/=
+/docs.oracle.com/javase/8/docs/api/java/util/stream/Collectors.html" class=
+=3D"external-link" rel=3D"nofollow">http://docs.oracle.com/javase/8/docs/ap=
+i/java/util/stream/Collectors.html</a>)=EF=BC=8C=E5=85=B6=E4=B8=AD=E5=B7=B2=
+=E7=BB=8F=E5=AE=9A=E4=B9=89=E4=BA=86=E4=B8=80=E4=BA=9B=E9=9D=99=E6=80=81=E5=
+=B7=A5=E5=8E=82=E6=96=B9=E6=B3=95=EF=BC=8C=E6=AF=94=E5=A6=82=EF=BC=9ACollec=
+tors.toCollection()=E6=94=B6=E9=9B=86=E5=88=B0Collection=E4=B8=AD, Collecto=
+rs.toList()=E6=94=B6=E9=9B=86=E5=88=B0List=E4=B8=AD=E5=92=8CCollectors.toSe=
+t()=E6=94=B6=E9=9B=86=E5=88=B0Set=E4=B8=AD=E3=80=82=E8=BF=99=E6=A0=B7=E7=9A=
+=84=E9=9D=99=E6=80=81=E6=96=B9=E6=B3=95=E8=BF=98=E6=9C=89=E5=BE=88=E5=A4=9A=
+=EF=BC=8C=E8=BF=99=E9=87=8C=E5=B0=B1=E4=B8=8D=E4=B8=80=E4=B8=80=E4=BB=8B=E7=
+=BB=8D=E4=BA=86=EF=BC=8C=E5=A4=A7=E5=AE=B6=E5=8F=AF=E4=BB=A5=E7=9B=B4=E6=8E=
+=A5=E5=8E=BB=E7=9C=8BJavaDoc=E3=80=82=E4=B8=8B=E9=9D=A2=E7=9C=8B=E7=9C=8B=
+=E4=BD=BF=E7=94=A8Collectors=E5=AF=B9=E4=BA=8E=E4=BB=A3=E7=A0=81=E7=9A=84=
+=E7=AE=80=E5=8C=96=EF=BC=9A</p>
+<pre title=3D"">List&lt;Integer&gt; numsWithoutNull =3D nums.stream().filte=
+r(num -&gt; num !=3D null).
+                collect(Collectors.toList());
+</pre>
+<h3 id=3D"Stream=E8=AF=AD=E6=B3=95=E8=AF=A6=E8=A7=A3-4.2=E5=85=B6=E4=BB=96=
+=E6=B1=87=E8=81=9A">4.2 =E5=85=B6=E4=BB=96=E6=B1=87=E8=81=9A</h3>
+<p>=E2=80=93 reduce=E6=96=B9=E6=B3=95=EF=BC=9Areduce=E6=96=B9=E6=B3=95=E9=
+=9D=9E=E5=B8=B8=E7=9A=84=E9=80=9A=E7=94=A8=EF=BC=8C=E5=90=8E=E9=9D=A2=E4=BB=
+=8B=E7=BB=8D=E7=9A=84count=EF=BC=8Csum=E7=AD=89=E9=83=BD=E5=8F=AF=E4=BB=A5=
+=E4=BD=BF=E7=94=A8=E5=85=B6=E5=AE=9E=E7=8E=B0=E3=80=82reduce=E6=96=B9=E6=B3=
+=95=E6=9C=89=E4=B8=89=E4=B8=AAoverride=E7=9A=84=E6=96=B9=E6=B3=95=EF=BC=8C=
+=E6=9C=AC=E6=96=87=E4=BB=8B=E7=BB=8D=E4=B8=A4=E4=B8=AA=E6=9C=80=E5=B8=B8=E7=
+=94=A8=E7=9A=84=EF=BC=8C=E6=9C=80=E5=90=8E=E4=B8=80=E4=B8=AA=E7=95=99=E7=BB=
+=99=E8=AF=BB=E8=80=85=E8=87=AA=E5=B7=B1=E5=AD=A6=E4=B9=A0=E3=80=82=E5=85=88=
+=E6=9D=A5=E7=9C=8Breduce=E6=96=B9=E6=B3=95=E7=9A=84=E7=AC=AC=E4=B8=80=E7=A7=
+=8D=E5=BD=A2=E5=BC=8F=EF=BC=8C=E5=85=B6=E6=96=B9=E6=B3=95=E5=AE=9A=E4=B9=89=
+=E5=A6=82=E4=B8=8B=EF=BC=9A</p>
+<p>Optional&lt;T&gt; reduce(BinaryOperator&lt;T&gt; accumulator);</p>
+<p>=E6=8E=A5=E5=8F=97=E4=B8=80=E4=B8=AABinaryOperator=E7=B1=BB=E5=9E=8B=E7=
+=9A=84=E5=8F=82=E6=95=B0=EF=BC=8C=E5=9C=A8=E4=BD=BF=E7=94=A8=E7=9A=84=E6=97=
+=B6=E5=80=99=E6=88=91=E4=BB=AC=E5=8F=AF=E4=BB=A5=E7=94=A8lambda=E8=A1=A8=E8=
+=BE=BE=E5=BC=8F=E6=9D=A5=E3=80=82</p>
+<pre title=3D"">    List&lt;Integer&gt; ints =3D Lists.newArrayList(1,2,3,4=
+,5,6,7,8,9,10);
+    System.out.println("ints sum is:" + ints.stream().reduce((sum, item) -&=
+amp;gt; sum + item).get());
+    </pre>
+<p>=E5=8F=AF=E4=BB=A5=E7=9C=8B=E5=88=B0reduce=E6=96=B9=E6=B3=95=E6=8E=A5=E5=
+=8F=97=E4=B8=80=E4=B8=AA=E5=87=BD=E6=95=B0=EF=BC=8C=E8=BF=99=E4=B8=AA=E5=87=
+=BD=E6=95=B0=E6=9C=89=E4=B8=A4=E4=B8=AA=E5=8F=82=E6=95=B0=EF=BC=8C=E7=AC=AC=
+=E4=B8=80=E4=B8=AA=E5=8F=82=E6=95=B0=E6=98=AF=E4=B8=8A=E6=AC=A1=E5=87=BD=E6=
+=95=B0=E6=89=A7=E8=A1=8C=E7=9A=84=E8=BF=94=E5=9B=9E=E5=80=BC=EF=BC=88=E4=B9=
+=9F=E7=A7=B0=E4=B8=BA=E4=B8=AD=E9=97=B4=E7=BB=93=E6=9E=9C=EF=BC=89=EF=BC=8C=
+=E7=AC=AC=E4=BA=8C=E4=B8=AA=E5=8F=82=E6=95=B0=E6=98=AFstream=E4=B8=AD=E7=9A=
+=84=E5=85=83=E7=B4=A0=EF=BC=8C=E8=BF=99=E4=B8=AA=E5=87=BD=E6=95=B0=E6=8A=8A=
+=E8=BF=99=E4=B8=A4=E4=B8=AA=E5=80=BC=E7=9B=B8=E5=8A=A0=EF=BC=8C=E5=BE=97=E5=
+=88=B0=E7=9A=84=E5=92=8C=E4=BC=9A=E8=A2=AB=E8=B5=8B=E5=80=BC=E7=BB=99=E4=B8=
+=8B=E6=AC=A1=E6=89=A7=E8=A1=8C=E8=BF=99=E4=B8=AA=E5=87=BD=E6=95=B0=E7=9A=84=
+=E7=AC=AC=E4=B8=80=E4=B8=AA=E5=8F=82=E6=95=B0=E3=80=82=E8=A6=81=E6=B3=A8=E6=
+=84=8F=E7=9A=84=E6=98=AF=EF=BC=9A**=E7=AC=AC=E4=B8=80=E6=AC=A1=E6=89=A7=E8=
+=A1=8C=E7=9A=84=E6=97=B6=E5=80=99=E7=AC=AC=E4=B8=80=E4=B8=AA=E5=8F=82=E6=95=
+=B0=E7=9A=84=E5=80=BC=E6=98=AFStream=E7=9A=84=E7=AC=AC=E4=B8=80=E4=B8=AA=E5=
+=85=83=E7=B4=A0=EF=BC=8C=E7=AC=AC=E4=BA=8C=E4=B8=AA=E5=8F=82=E6=95=B0=E6=98=
+=AFStream=E7=9A=84=E7=AC=AC=E4=BA=8C=E4=B8=AA=E5=85=83=E7=B4=A0**=E3=80=82=
+=E8=BF=99=E4=B8=AA=E6=96=B9=E6=B3=95=E8=BF=94=E5=9B=9E=E5=80=BC=E7=B1=BB=E5=
+=9E=8B=E6=98=AFOptional=EF=BC=8C=E8=BF=99=E6=98=AFJava8=E9=98=B2=E6=AD=A2=
+=E5=87=BA=E7=8E=B0NPE=E7=9A=84=E4=B8=80=E7=A7=8D=E5=8F=AF=E8=A1=8C=E6=96=B9=
+=E6=B3=95=EF=BC=8C=E5=90=8E=E9=9D=A2=E7=9A=84=E6=96=87=E7=AB=A0=E4=BC=9A=E8=
+=AF=A6=E7=BB=86=E4=BB=8B=E7=BB=8D=EF=BC=8C=E8=BF=99=E9=87=8C=E5=B0=B1=E7=AE=
+=80=E5=8D=95=E7=9A=84=E8=AE=A4=E4=B8=BA=E6=98=AF=E4=B8=80=E4=B8=AA=E5=AE=B9=
+=E5=99=A8=EF=BC=8C=E5=85=B6=E4=B8=AD=E5=8F=AF=E8=83=BD=E4=BC=9A=E5=8C=85=E5=
+=90=AB0=E4=B8=AA=E6=88=96=E8=80=851=E4=B8=AA=E5=AF=B9=E8=B1=A1=E3=80=82<br>=
+=E8=BF=99=E4=B8=AA=E8=BF=87=E7=A8=8B=E5=8F=AF=E8=A7=86=E5=8C=96=E7=9A=84=E7=
+=BB=93=E6=9E=9C=E5=A6=82=E5=9B=BE=EF=BC=9A<br><span class=3D"confluence-emb=
+edded-file-wrapper"><img class=3D"confluence-embedded-image confluence-exte=
+rnal-resource" src=3D"http://img03.taobaocdn.com/imgextra/i3/90219132/T28rV=
+AXJlaXXXXXXXX_!!90219132.jpg" data-image-src=3D"http://img03.taobaocdn.com/=
+imgextra/i3/90219132/T28rVAXJlaXXXXXXXX_!!90219132.jpg"></span><br>reduce=
+=E6=96=B9=E6=B3=95=E8=BF=98=E6=9C=89=E4=B8=80=E4=B8=AA=E5=BE=88=E5=B8=B8=E7=
+=94=A8=E7=9A=84=E5=8F=98=E7=A7=8D=EF=BC=9A</p>
+<p>T reduce(T identity, BinaryOperator&lt;T&gt; accumulator);</p>
+<p>=E8=BF=99=E4=B8=AA=E5=AE=9A=E4=B9=89=E4=B8=8A=E4=B8=8A=E9=9D=A2=E5=B7=B2=
+=E7=BB=8F=E4=BB=8B=E7=BB=8D=E8=BF=87=E7=9A=84=E5=9F=BA=E6=9C=AC=E4=B8=80=E8=
+=87=B4=EF=BC=8C=E4=B8=8D=E5=90=8C=E7=9A=84=E6=98=AF=EF=BC=9A=E5=AE=83=E5=85=
+=81=E8=AE=B8=E7=94=A8=E6=88=B7=E6=8F=90=E4=BE=9B=E4=B8=80=E4=B8=AA=E5=BE=AA=
+=E7=8E=AF=E8=AE=A1=E7=AE=97=E7=9A=84=E5=88=9D=E5=A7=8B=E5=80=BC=EF=BC=8C=E5=
+=A6=82=E6=9E=9CStream=E4=B8=BA=E7=A9=BA=EF=BC=8C=E5=B0=B1=E7=9B=B4=E6=8E=A5=
+=E8=BF=94=E5=9B=9E=E8=AF=A5=E5=80=BC=E3=80=82=E8=80=8C=E4=B8=94=E8=BF=99=E4=
+=B8=AA=E6=96=B9=E6=B3=95=E4=B8=8D=E4=BC=9A=E8=BF=94=E5=9B=9EOptional=EF=BC=
+=8C=E5=9B=A0=E4=B8=BA=E5=85=B6=E4=B8=8D=E4=BC=9A=E5=87=BA=E7=8E=B0null=E5=
+=80=BC=E3=80=82=E4=B8=8B=E9=9D=A2=E7=9B=B4=E6=8E=A5=E7=BB=99=E5=87=BA=E4=BE=
+=8B=E5=AD=90=EF=BC=8C=E5=B0=B1=E4=B8=8D=E5=86=8D=E5=81=9A=E8=AF=B4=E6=98=8E=
+=E4=BA=86=E3=80=82</p>
+<p>List&lt;Integer&gt; ints =3D Lists.newArrayList(1,2,3,4,5,6,7,8,9,10);</=
+p>
+<p>System.out.println("ints sum is:" + ints.stream().reduce(0, (sum, item) =
+-&gt; sum + item));</p>
+<p><br></p>
+<p>=E2=80=93 count=E6=96=B9=E6=B3=95=EF=BC=9A=E8=8E=B7=E5=8F=96Stream=E4=B8=
+=AD=E5=85=83=E7=B4=A0=E7=9A=84=E4=B8=AA=E6=95=B0=E3=80=82=E6=AF=94=E8=BE=83=
+=E7=AE=80=E5=8D=95=EF=BC=8C=E8=BF=99=E9=87=8C=E5=B0=B1=E7=9B=B4=E6=8E=A5=E7=
+=BB=99=E5=87=BA=E4=BE=8B=E5=AD=90=EF=BC=8C=E4=B8=8D=E5=81=9A=E8=A7=A3=E9=87=
+=8A=E4=BA=86=E3=80=82</p>
+<p>List&lt;Integer&gt; ints =3D Lists.newArrayList(1,2,3,4,5,6,7,8,9,10);</=
+p>
+<p>System.out.println("ints sum is:" + ints.stream().count());</p>
+<p><br></p>
+<p>=E2=80=93 =E6=90=9C=E7=B4=A2=E7=9B=B8=E5=85=B3<br>=E2=80=93 allMatch=EF=
+=BC=9A=E6=98=AF=E4=B8=8D=E6=98=AFStream=E4=B8=AD=E7=9A=84=E6=89=80=E6=9C=89=
+=E5=85=83=E7=B4=A0=E9=83=BD=E6=BB=A1=E8=B6=B3=E7=BB=99=E5=AE=9A=E7=9A=84=E5=
+=8C=B9=E9=85=8D=E6=9D=A1=E4=BB=B6<br>=E2=80=93 anyMatch=EF=BC=9AStream=E4=
+=B8=AD=E6=98=AF=E5=90=A6=E5=AD=98=E5=9C=A8=E4=BB=BB=E4=BD=95=E4=B8=80=E4=B8=
+=AA=E5=85=83=E7=B4=A0=E6=BB=A1=E8=B6=B3=E5=8C=B9=E9=85=8D=E6=9D=A1=E4=BB=B6=
+<br>=E2=80=93 findFirst: =E8=BF=94=E5=9B=9EStream=E4=B8=AD=E7=9A=84=E7=AC=
+=AC=E4=B8=80=E4=B8=AA=E5=85=83=E7=B4=A0=EF=BC=8C=E5=A6=82=E6=9E=9CStream=E4=
+=B8=BA=E7=A9=BA=EF=BC=8C=E8=BF=94=E5=9B=9E=E7=A9=BAOptional<br>=E2=80=93 no=
+neMatch=EF=BC=9A=E6=98=AF=E4=B8=8D=E6=98=AFStream=E4=B8=AD=E7=9A=84=E6=89=
+=80=E6=9C=89=E5=85=83=E7=B4=A0=E9=83=BD=E4=B8=8D=E6=BB=A1=E8=B6=B3=E7=BB=99=
+=E5=AE=9A=E7=9A=84=E5=8C=B9=E9=85=8D=E6=9D=A1=E4=BB=B6<br>=E2=80=93 max=E5=
+=92=8Cmin=EF=BC=9A=E4=BD=BF=E7=94=A8=E7=BB=99=E5=AE=9A=E7=9A=84=E6=AF=94=E8=
+=BE=83=E5=99=A8=EF=BC=88Operator=EF=BC=89=EF=BC=8C=E8=BF=94=E5=9B=9EStream=
+=E4=B8=AD=E7=9A=84=E6=9C=80=E5=A4=A7|=E6=9C=80=E5=B0=8F=E5=80=BC<br>=E4=B8=
+=8B=E9=9D=A2=E7=BB=99=E5=87=BAallMatch=E5=92=8Cmax=E7=9A=84=E4=BE=8B=E5=AD=
+=90=EF=BC=8C=E5=89=A9=E4=B8=8B=E7=9A=84=E6=96=B9=E6=B3=95=E8=AF=BB=E8=80=85=
+=E5=BD=93=E6=88=90=E7=BB=83=E4=B9=A0=E3=80=82</p>
+<p>List&lt;Integer&gt; ints =3D Lists.newArrayList(1,2,3,4,5,6,7,8,9,10);</=
+p>
+<p>System.out.println(ints.stream().allMatch(item -&gt; item &lt; 100));</p=
+>
+<p>ints.stream().max((o1, o2) -&gt; o1.compareTo(o2)).ifPresent(System.out:=
+:println);</p>
+    </div>
+</body>
+</html>
+------=_Part_10580_663675614.1546417918440--

@@ -1,0 +1,730 @@
+Message-ID: <576780.10805.1546507328861.JavaMail.root@shjhkftoolssrv.ciicsh.local>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_10804_183088614.1546507328860"
+
+------=_Part_10804_183088614.1546507328860
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Linux CentOS 7 =E6=90=AD=E5=BB=BAFTP=E6=9C=8D=E5=8A=A1=E5=99=A8<=
+/title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Linux CentOS 7 =E6=90=AD=E5=BB=BAFTP=E6=9C=8D=E5=8A=A1=E5=99=A8</h1=
+>
+    <div class=3D"Section1">
+        <p><strong style=3D"color: rgb(255,0,0);">FTP=E5=9F=BA=E4=BA=8E=E8=
+=99=9A=E6=8B=9F=E7=94=A8=E6=88=B7=E7=9A=84=E9=85=8D=E7=BD=AE</strong></p>
+<p><strong>=E4=B8=80=E3=80=81=E9=85=8D=E7=BD=AE=E9=98=B2=E7=81=AB=E5=A2=99=
+=EF=BC=8C=E5=BC=80=E5=90=AFFTP=E6=9C=8D=E5=8A=A1=E5=99=A8=E9=9C=80=E8=A6=81=
+=E7=9A=84=E7=AB=AF=E5=8F=A3</strong></p>
+<p>CentOS 7.0=E9=BB=98=E8=AE=A4=E4=BD=BF=E7=94=A8=E7=9A=84=E6=98=AFfirewall=
+=E4=BD=9C=E4=B8=BA=E9=98=B2=E7=81=AB=E5=A2=99=EF=BC=8C=E8=BF=99=E9=87=8C=E6=
+=94=B9=E4=B8=BAiptables=E9=98=B2=E7=81=AB=E5=A2=99=E3=80=82</p>
+<p>1=E3=80=81=E5=85=B3=E9=97=ADfirewall=EF=BC=9A<br><span><a href=3D"http:/=
+/www.jb51.net/article/101965.htm" class=3D"external-link" style=3D"text-ali=
+gn: center;" rel=3D"nofollow">?</a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1<br>2<br>3</p><=
+/td>
+<td class=3D"confluenceTd"><p><code class=3D"bash plain">systemctl stop fir=
+ewalld.service </code><code class=3D"bash comments">#=E5=81=9C=E6=AD=A2fire=
+wall</code><br>&nbsp;<br><code class=3D"bash plain">systemctl disable firew=
+alld.service </code><code class=3D"bash comments">#=E7=A6=81=E6=AD=A2firewa=
+ll=E5=BC=80=E6=9C=BA=E5=90=AF=E5=8A=A8</code></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>2=E3=80=81=E5=AE=89=E8=A3=85iptables=E9=98=B2=E7=81=AB=E5=A2=99<br><br><=
+span><a href=3D"http://www.jb51.net/article/101965.htm" class=3D"external-l=
+ink" style=3D"text-align: center;" rel=3D"nofollow">?</a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1<br>2<br>3<br>4=
+<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12<br>13</p></td>
+<td class=3D"confluenceTd"><p><code class=3D"bash plain">yum </code><code c=
+lass=3D"bash functions">install</code> <code class=3D"bash plain">iptables-=
+services </code><code class=3D"bash comments">#=E5=AE=89=E8=A3=85</code><br=
+>&nbsp;<br><code class=3D"bash functions">vi</code> <code class=3D"bash pla=
+in">/etc/sysconfig/iptables</code> <code class=3D"bash comments">#=E7=BC=96=
+=E8=BE=91=E9=98=B2=E7=81=AB=E5=A2=99=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=EF=
+=BC=8C=E6=B7=BB=E5=8A=A0=E4=B8=8B=E9=9D=A2=E7=BA=A2=E8=89=B2=E9=83=A8=E5=88=
+=86=E8=BF=9B=E5=85=A5iptables=EF=BC=8C=E8=AF=B4=E6=98=8E=EF=BC=9A21=E7=AB=
+=AF=E5=8F=A3=E6=98=AFftp=E6=9C=8D=E5=8A=A1=E7=AB=AF=E5=8F=A3=EF=BC=9B10060=
+=E5=88=B010090=E6=98=AFVsftpd=E8=A2=AB=E5=8A=A8=E6=A8=A1=E5=BC=8F=E9=9C=80=
+=E8=A6=81=E7=9A=84=E7=AB=AF=E5=8F=A3=EF=BC=8C=E5=8F=AF=E8=87=AA=E5=AE=9A=E4=
+=B9=89=E4=B8=80=E6=AE=B5=E5=A4=A7=E4=BA=8E1024=E7=9A=84tcp=E7=AB=AF=E5=8F=
+=A3</code><br>&nbsp;<br><code class=3D"bash plain">=E3=80=80-A INPUT -m sta=
+te --state NEW -m tcp -p tcp --dport 21 -j ACCEPT </code><br>&nbsp;<br><cod=
+e class=3D"bash plain">=E3=80=80-A INPUT -m state --state NEW -m tcp -p tcp=
+ --dport 10060:10090 -j ACCEPT</code><br>&nbsp;<br><code class=3D"bash plai=
+n">=E3=80=80:wq! </code><code class=3D"bash comments">#=E4=BF=9D=E5=AD=98=
+=E9=80=80=E5=87=BA</code><br>&nbsp;<br><code class=3D"bash plain">=E3=80=80=
+systemctl restart iptables.service </code><code class=3D"bash comments">#=
+=E6=9C=80=E5=90=8E=E9=87=8D=E5=90=AF=E9=98=B2=E7=81=AB=E5=A2=99=E4=BD=BF=E9=
+=85=8D=E7=BD=AE=E7=94=9F=E6=95=88</code><br>&nbsp;<br><code class=3D"bash p=
+lain">=E3=80=80systemctl </code><code class=3D"bash functions">enable</code=
+> <code class=3D"bash plain">iptables.service </code><code class=3D"bash co=
+mments">#=E8=AE=BE=E7=BD=AE=E9=98=B2=E7=81=AB=E5=A2=99=E5=BC=80=E6=9C=BA=E5=
+=90=AF=E5=8A=A8</code></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>=E4=BA=8C=E3=80=81=E5=85=B3=E9=97=ADSELINUX</strong><br><br><spa=
+n><a href=3D"http://www.jb51.net/article/101965.htm" class=3D"external-link=
+" style=3D"text-align: center;" rel=3D"nofollow">?</a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1<br>2<br>3<br>4=
+<br>5<br>6<br>7<br>8<br>9<br>10<br>11</p></td>
+<td class=3D"confluenceTd"><p><code class=3D"bash functions">vi</code> <cod=
+e class=3D"bash plain">/etc/selinux/config</code><br>&nbsp;<br><code class=
+=3D"bash comments">#SELINUX=3Denforcing #=E6=B3=A8=E9=87=8A=E6=8E=89</code>=
+<br>&nbsp;<br><code class=3D"bash comments">#SELINUXTYPE=3Dtargeted #=E6=B3=
+=A8=E9=87=8A=E6=8E=89</code><br>&nbsp;<br><code class=3D"bash plain">SELINU=
+X=3Ddisabled </code><code class=3D"bash comments">#=E5=A2=9E=E5=8A=A0</code=
+><br>&nbsp;<br><code class=3D"bash plain">:wq! </code><code class=3D"bash c=
+omments">#=E4=BF=9D=E5=AD=98=E9=80=80=E5=87=BA</code><br>&nbsp;<br><code cl=
+ass=3D"bash plain">setenforce 0 </code><code class=3D"bash comments">#=E4=
+=BD=BF=E9=85=8D=E7=BD=AE=E7=AB=8B=E5=8D=B3=E7=94=9F=E6=95=88</code></p></td=
+>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>=E4=B8=89=E3=80=81=E5=AE=89=E8=A3=85vsftpd</strong><br><br><span=
+><a class=3D"external-link" href=3D"http://www.jb51.net/article/101965.htm"=
+ style=3D"text-align: center;" rel=3D"nofollow">?</a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1<br>2<br>3<br>4=
+<br>5<br>6<br>7<br>8<br>9</p></td>
+<td class=3D"confluenceTd"><p><code class=3D"bash plain">rpm -qc vsftpd </c=
+ode><code class=3D"bash comments">#=E6=9F=A5=E8=AF=A2vsftpd=E6=98=AF=E5=90=
+=A6=E5=AE=89=E8=A3=85</code><br>&nbsp;<br><code class=3D"bash plain">yum </=
+code><code class=3D"bash functions">install</code> <code class=3D"bash plai=
+n">-y vsftpd </code><code class=3D"bash comments">#=E5=AE=89=E8=A3=85vsftpd=
+</code><br>&nbsp;<br><code class=3D"bash plain">yum </code><code class=3D"b=
+ash functions">install</code> <code class=3D"bash plain">-y psmisc net-tool=
+s systemd-devel libdb-devel perl-DBI </code><code class=3D"bash comments">#=
+=E5=AE=89=E8=A3=85vsftpd=E8=99=9A=E6=8B=9F=E7=94=A8=E6=88=B7=E9=85=8D=E7=BD=
+=AE=E4=BE=9D=E8=B5=96=E5=8C=85</code><br>&nbsp;<br><code class=3D"bash plai=
+n">systemctl start vsftpd.service </code><code class=3D"bash comments">#=E5=
+=90=AF=E5=8A=A8</code><br>&nbsp;<br><code class=3D"bash plain">systemctl </=
+code><code class=3D"bash functions">enable</code> <code class=3D"bash plain=
+">vsftpd.service </code><code class=3D"bash comments">#=E8=AE=BE=E7=BD=AEvs=
+ftpd=E5=BC=80=E6=9C=BA=E5=90=AF=E5=8A=A8</code></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>=E5=9B=9B=E3=80=81=E6=96=B0=E5=BB=BA=E7=B3=BB=E7=BB=9F=E7=94=A8=
+=E6=88=B7vsftpd</strong><br><span><a class=3D"external-link" href=3D"http:/=
+/www.jb51.net/article/101965.htm" style=3D"text-align: center;" rel=3D"nofo=
+llow">?</a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1<br>2<br>3</p><=
+/td>
+<td class=3D"confluenceTd"><p><code class=3D"bash functions">useradd</code>=
+ <code class=3D"bash plain">vsftpd -d </code><code class=3D"bash plain">/ho=
+me/wwwroot</code> <code class=3D"bash plain">-s </code><code class=3D"bash =
+plain">/bin/false</code> <code class=3D"bash comments">#=E7=94=A8=E6=88=B7=
+=E7=9B=AE=E5=BD=95=E4=B8=BA/home/wwwroot, =E7=94=A8=E6=88=B7=E7=99=BB=E5=BD=
+=95=E7=BB=88=E7=AB=AF=E8=AE=BE=E4=B8=BA/bin/false(=E5=8D=B3=E4=BD=BF=E4=B9=
+=8B=E4=B8=8D=E8=83=BD=E7=99=BB=E5=BD=95=E7=B3=BB=E7=BB=9F)</code><br>&nbsp;=
+<br><code class=3D"bash functions">chown</code> <code class=3D"bash plain">=
+vsftpd:vsftpd </code><code class=3D"bash plain">/home/wwwroot</code> <code =
+class=3D"bash plain">-R</code></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>=E4=BA=94=E3=80=81=E5=BB=BA=E7=AB=8B=E8=99=9A=E6=8B=9F=E7=94=A8=
+=E6=88=B7=E4=B8=AA=E4=BA=BAVsftp=E7=9A=84=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=
+=B6=E5=92=8C=E5=AD=90=E8=B4=A6=E5=8F=B7FTP=E6=9D=83=E9=99=90</strong><br><b=
+r><span><a style=3D"text-align: center;" class=3D"external-link" href=3D"ht=
+tp://www.jb51.net/article/101965.htm" rel=3D"nofollow">?</a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1<br>2<br>3<br>4=
+<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<b=
+r>18<br>19<br>20<br>21<br>22<br>23<br>24<br>25<br>26</p></td>
+<td class=3D"confluenceTd"><p><code class=3D"bash functions">mkdir</code> <=
+code class=3D"bash plain">/etc/vsftpd/vconf</code><br>&nbsp;<br><code class=
+=3D"bash functions">cd</code> <code class=3D"bash plain">/etc/vsftpd/vconf<=
+/code><br>&nbsp;<br><code class=3D"bash functions">touch</code> <code class=
+=3D"bash plain">web1 </code><code class=3D"bash comments">#=E8=BF=99=E9=87=
+=8C=E5=88=9B=E5=BB=BA=E8=99=9A=E6=8B=9F=E7=94=A8=E6=88=B7=E9=85=8D=E7=BD=AE=
+=E6=96=87=E4=BB=B6</code><br>&nbsp;<br><code class=3D"bash functions">mkdir=
+</code> <code class=3D"bash plain">-p </code><code class=3D"bash plain">/ho=
+me/wwwroot/web1/http/mydic</code><br>&nbsp;<br><code class=3D"bash plain">=
+=E3=80=80</code><code class=3D"bash comments">#=E8=AE=BE=E7=BD=AEFTP=E4=B8=
+=8A=E4=BC=A0=E6=96=87=E4=BB=B6=E6=96=B0=E5=A2=9E=E6=9D=83=E9=99=90=EF=BC=8C=
+=E6=9C=80=E6=96=B0=E7=9A=84vsftpd=E8=A6=81=E6=B1=82=E5=AF=B9=E4=B8=BB=E7=9B=
+=AE=E5=BD=95=E4=B8=8D=E8=83=BD=E6=9C=89=E5=86=99=E7=9A=84=E6=9D=83=E9=99=90=
+=E6=89=80=E4=BB=A5ftp=E4=B8=BA755=EF=BC=8C=E4=B8=BB=E7=9B=AE=E5=BD=95=E4=B8=
+=8B=E9=9D=A2=E7=9A=84=E5=AD=90=E7=9B=AE=E5=BD=95=E5=86=8D=E8=AE=BE=E7=BD=AE=
+777=E6=9D=83=E9=99=90 </code><br>&nbsp;<br><code class=3D"bash spaces">&nbs=
+p;</code><code class=3D"bash functions">chmod</code> <code class=3D"bash pl=
+ain">-R 755 </code><code class=3D"bash plain">/home/wwwroot/web1/http</code=
+><br><code class=3D"bash spaces">&nbsp;</code><code class=3D"bash functions=
+">chmod</code> <code class=3D"bash plain">R 777 </code><code class=3D"bash =
+plain">/home/wwwroot/web1/http/mydic</code><br><code class=3D"bash function=
+s">vi</code> <code class=3D"bash plain">web1 </code><code class=3D"bash com=
+ments">#=E7=BC=96=E8=BE=91=E7=94=A8=E6=88=B7web1=E9=85=8D=E7=BD=AE=E6=96=87=
+=E4=BB=B6=EF=BC=8C=E5=85=B6=E4=BB=96=E7=9A=84=E8=B7=9F=E8=BF=99=E4=B8=AA=E9=
+=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=E7=B1=BB=E4=BC=BC=EF=BC=8C=E8=BE=93=E5=85=
+=A5=E4=B8=8B=E9=9D=A2=E7=BA=A2=E8=89=B2=E5=86=85=E5=AE=B9</code><br>&nbsp;<=
+br><code class=3D"bash plain">=E3=80=80local_root=3D</code><code class=3D"b=
+ash plain">/home/wwwroot/web1/http/</code><code class=3D"bash plain">=E3=80=
+=80=E3=80=80</code><code class=3D"bash comments">#=E8=AE=BE=E7=BD=AEFTP=E8=
+=B4=A6=E5=8F=B7=E6=A0=B9=E7=9B=AE=E5=BD=95</code><br>&nbsp;<br><code class=
+=3D"bash plain">=E3=80=80write_enable=3DYES</code><br>&nbsp;<br><code class=
+=3D"bash spaces">&nbsp;</code><code class=3D"bash plain">anon_world_readabl=
+e_only=3DNO</code><br>&nbsp;<br><code class=3D"bash spaces">&nbsp;</code><c=
+ode class=3D"bash plain">anon_upload_enable=3DYES</code><br>&nbsp;<br><code=
+ class=3D"bash spaces">&nbsp;</code><code class=3D"bash plain">anon_mkdir_w=
+rite_enable=3DYES</code><br>&nbsp;<br><code class=3D"bash spaces">&nbsp;</c=
+ode><code class=3D"bash plain">anon_other_write_enable=3DYES</code><br><cod=
+e class=3D"bash plain">:wq! </code><code class=3D"bash comments">#=E4=BF=9D=
+=E5=AD=98=E9=80=80=E5=87=BA</code></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>=E5=85=AD=E3=80=81=E9=85=8D=E7=BD=AEvsftp=E6=9C=8D=E5=8A=A1=E5=
+=99=A8</strong><br><span><a class=3D"external-link" href=3D"http://www.jb51=
+.net/article/101965.htm" style=3D"text-align: center;" rel=3D"nofollow">?</=
+a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1</p></td>
+<td class=3D"confluenceTd"><p><code class=3D"bash functions">cp</code> <cod=
+e class=3D"bash plain">/etc/vsftpd/vsftpd</code><code class=3D"bash plain">=
+.conf </code><code class=3D"bash plain">/etc/vsftpd/vsftpd</code><code clas=
+s=3D"bash plain">.conf-bak </code><code class=3D"bash comments">#=E5=A4=87=
+=E4=BB=BD=E9=BB=98=E8=AE=A4=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6</code></p><=
+/td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>=E6=89=A7=E8=A1=8C=E4=BB=A5=E4=B8=8B=E5=91=BD=E4=BB=A4=E8=BF=9B=E8=A1=8C=
+=E8=AE=BE=E7=BD=AE:<br><br><span><a class=3D"external-link" href=3D"http://=
+www.jb51.net/article/101965.htm" style=3D"text-align: center;" rel=3D"nofol=
+low">?</a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1<br>2<br>3<br>4=
+<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<b=
+r>18<br>19<br>20<br>21<br>22<br>23<br>24<br>25</p></td>
+<td class=3D"confluenceTd"><p><code class=3D"bash functions">sed</code> <co=
+de class=3D"bash plain">-i </code><code class=3D"bash string">"s/anonymous_=
+enable=3DYES/anonymous_enable=3DNO/g"</code> <code class=3D"bash string">'/=
+etc/vsftpd/vsftpd.conf'</code><br>&nbsp;<br><code class=3D"bash functions">=
+sed</code> <code class=3D"bash plain">-i </code><code class=3D"bash string"=
+>"s/#anon_upload_enable=3DYES/anon_upload_enable=3DNO/g"</code> <code class=
+=3D"bash string">'/etc/vsftpd/vsftpd.conf'</code><br>&nbsp;<br><code class=
+=3D"bash functions">sed</code> <code class=3D"bash plain">-i </code><code c=
+lass=3D"bash string">"s/#anon_mkdir_write_enable=3DYES/anon_mkdir_write_ena=
+ble=3DYES/g"</code> <code class=3D"bash string">'/etc/vsftpd/vsftpd.conf'</=
+code><br>&nbsp;<br><code class=3D"bash functions">sed</code> <code class=3D=
+"bash plain">-i </code><code class=3D"bash string">"s/#chown_uploads=3DYES/=
+chown_uploads=3DNO/g"</code> <code class=3D"bash string">'/etc/vsftpd/vsftp=
+d.conf'</code><br>&nbsp;<br><code class=3D"bash functions">sed</code> <code=
+ class=3D"bash plain">-i </code><code class=3D"bash string">"s/#async_abor_=
+enable=3DYES/async_abor_enable=3DYES/g"</code> <code class=3D"bash string">=
+'/etc/vsftpd/vsftpd.conf'</code><br>&nbsp;<br><code class=3D"bash functions=
+">sed</code> <code class=3D"bash plain">-i </code><code class=3D"bash strin=
+g">"s/#ascii_upload_enable=3DYES/ascii_upload_enable=3DYES/g"</code> <code =
+class=3D"bash string">'/etc/vsftpd/vsftpd.conf'</code><br>&nbsp;<br><code c=
+lass=3D"bash functions">sed</code> <code class=3D"bash plain">-i </code><co=
+de class=3D"bash string">"s/#ascii_download_enable=3DYES/ascii_download_ena=
+ble=3DYES/g"</code> <code class=3D"bash string">'/etc/vsftpd/vsftpd.conf'</=
+code><br>&nbsp;<br><code class=3D"bash functions">sed</code> <code class=3D=
+"bash plain">-i </code><code class=3D"bash string">"s/#ftpd_banner=3DWelcom=
+e to blah FTP service./ftpd_banner=3DWelcome to FTP service./g"</code> <cod=
+e class=3D"bash string">'/etc/vsftpd/vsftpd.conf'</code><br>&nbsp;<br><code=
+ class=3D"bash functions">echo</code> <code class=3D"bash plain">-e "use_lo=
+caltime=3DYES\nlisten_port=3D21\nchroot_local_user=3DYES\nidle_session_time=
+out=3D300</code><br>&nbsp;<br><code class=3D"bash plain">\ndata_connection_=
+timeout=3D1\nguest_enable=3DYES\nguest_username=3Dvsftpd </code><br>&nbsp;<=
+br><code class=3D"bash plain">\nuser_config_dir=3D</code><code class=3D"bas=
+h plain">/etc/vsftpd/vconf</code><code class=3D"bash plain">\nvirtual_use_l=
+ocal_privs=3DYES</code><br>&nbsp;<br><code class=3D"bash plain">\npasv_min_=
+port=3D10060\npasv_max_port=3D10090</code><br>&nbsp;<br><code class=3D"bash=
+ plain">\naccept_timeout=3D5\nconnect_timeout=3D1" &gt;&gt; </code><code cl=
+ass=3D"bash plain">/etc/vsftpd/vsftpd</code><code class=3D"bash plain">.con=
+f</code></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=E8=AF=B4=E6=98=8E=EF=BC=9A<br><br><=
+span><a style=3D"text-align: center;" class=3D"external-link" href=3D"http:=
+//www.jb51.net/article/101965.htm" rel=3D"nofollow">?</a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1<br>2<br>3<br>4=
+<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12</p></td>
+<td class=3D"confluenceTd"><p><code class=3D"bash plain">anonymous_enable=
+=3DNO </code><code class=3D"bash plain">//</code><code class=3D"bash plain"=
+>=E8=AE=BE=E5=AE=9A=E4=B8=8D=E5=85=81=E8=AE=B8=E5=8C=BF=E5=90=8D=E8=AE=BF=
+=E9=97=AE</code><br><code class=3D"bash plain">local_enable=3DYES </code><c=
+ode class=3D"bash plain">//</code><code class=3D"bash plain">=E8=AE=BE=E5=
+=AE=9A=E6=9C=AC=E5=9C=B0=E7=94=A8=E6=88=B7=E5=8F=AF=E4=BB=A5=E8=AE=BF=E9=97=
+=AE=E3=80=82=E6=B3=A8=EF=BC=9A=E5=A6=82=E4=BD=BF=E7=94=A8=E8=99=9A=E6=8B=9F=
+=E5=AE=BF=E4=B8=BB=E7=94=A8=E6=88=B7=EF=BC=8C=E5=9C=A8=E8=AF=A5=E9=A1=B9=E7=
+=9B=AE=E8=AE=BE=E5=AE=9A=E4=B8=BANO=E7=9A=84=E6=83=85=E5=86=B5=E4=B8=8B=E6=
+=89=80=E6=9C=89=E8=99=9A=E6=8B=9F=E7=94=A8=E6=88=B7=E5=B0=86=E6=97=A0=E6=B3=
+=95=E8=AE=BF=E9=97=AE</code><br><code class=3D"bash plain">chroot_list_enab=
+le=3DYES </code><code class=3D"bash plain">//</code><code class=3D"bash pla=
+in">=E4=BD=BF=E7=94=A8=E6=88=B7=E4=B8=8D=E8=83=BD=E7=A6=BB=E5=BC=80=E4=B8=
+=BB=E7=9B=AE=E5=BD=95</code><br><code class=3D"bash plain">ascii_upload_ena=
+ble=3DYES</code><br><code class=3D"bash plain">ascii_download_enable=3DYES =
+</code><code class=3D"bash plain">//</code><code class=3D"bash plain">=E8=
+=AE=BE=E5=AE=9A=E6=94=AF=E6=8C=81ASCII=E6=A8=A1=E5=BC=8F=E7=9A=84=E4=B8=8A=
+=E4=BC=A0=E5=92=8C=E4=B8=8B=E8=BD=BD=E5=8A=9F=E8=83=BD</code><br><code clas=
+s=3D"bash plain">pam_service_name=3Dvsftpd&nbsp; </code><code class=3D"bash=
+ plain">//PAM</code><code class=3D"bash plain">=E8=AE=A4=E8=AF=81=E6=96=87=
+=E4=BB=B6=E5=90=8D=E3=80=82PAM=E5=B0=86=E6=A0=B9=E6=8D=AE</code><code class=
+=3D"bash plain">/etc/pam</code><code class=3D"bash plain">.d</code><code cl=
+ass=3D"bash plain">/vsftpd</code><code class=3D"bash plain">=E8=BF=9B=E8=A1=
+=8C=E8=AE=A4=E8=AF=81</code><br>&nbsp;<br>&nbsp;<br><code class=3D"bash com=
+ments">#=E4=BB=A5=E4=B8=8B=E8=BF=99=E4=BA=9B=E6=98=AF=E5=85=B3=E4=BA=8Evsft=
+pd=E8=99=9A=E6=8B=9F=E7=94=A8=E6=88=B7=E6=94=AF=E6=8C=81=E7=9A=84=E9=87=8D=
+=E8=A6=81=E9=85=8D=E7=BD=AE=E9=A1=B9=EF=BC=8C=E9=BB=98=E8=AE=A4vsftpd.conf=
+=E4=B8=AD=E4=B8=8D=E5=8C=85=E5=90=AB=E8=BF=99=E4=BA=9B=E8=AE=BE=E5=AE=9A=E9=
+=A1=B9=E7=9B=AE=EF=BC=8C=E9=9C=80=E8=A6=81=E8=87=AA=E5=B7=B1=E6=89=8B=E5=8A=
+=A8=E6=B7=BB=E5=8A=A0</code><br><code class=3D"bash plain">guest_enable=3DY=
+ES </code><code class=3D"bash plain">//</code><code class=3D"bash plain">=
+=E8=AE=BE=E5=AE=9A=E5=90=AF=E7=94=A8=E8=99=9A=E6=8B=9F=E7=94=A8=E6=88=B7=E5=
+=8A=9F=E8=83=BD</code><br><code class=3D"bash plain">guest_username=3Dvsftp=
+d </code><code class=3D"bash plain">//</code><code class=3D"bash plain">=E6=
+=8C=87=E5=AE=9A=E8=99=9A=E6=8B=9F=E7=94=A8=E6=88=B7=E7=9A=84=E5=AE=BF=E4=B8=
+=BB=E7=94=A8=E6=88=B7=EF=BC=8CCentOS=E4=B8=AD=E5=B7=B2=E7=BB=8F=E6=9C=89=E5=
+=86=85=E7=BD=AE=E7=9A=84</code><code class=3D"bash functions">ftp</code><co=
+de class=3D"bash plain">=E7=94=A8=E6=88=B7=E4=BA=86,=E9=80=9A=E8=BF=87=E6=
+=98=A0=E5=B0=84=E5=88=B0vsftpd</code><br><code class=3D"bash plain">user_co=
+nfig_dir=3D</code><code class=3D"bash plain">/etc/vsftpd/vuser_conf</code> =
+<code class=3D"bash plain">//</code><code class=3D"bash plain">=E8=AE=BE=E5=
+=AE=9A=E8=99=9A=E6=8B=9F=E7=94=A8=E6=88=B7=E4=B8=AA=E4=BA=BAvsftp=E7=9A=84C=
+entOS FTP=E6=9C=8D=E5=8A=A1=E6=96=87=E4=BB=B6=E5=AD=98=E6=94=BE=E8=B7=AF=E5=
+=BE=84=E3=80=82=E5=AD=98=E6=94=BE=E8=99=9A=E6=8B=9F=E7=94=A8=E6=88=B7=E4=B8=
+=AA=E6=80=A7=E7=9A=84CentOS FTP=E6=9C=8D=E5=8A=A1=E6=96=87=E4=BB=B6(=E9=85=
+=8D=E7=BD=AE=E6=96=87=E4=BB=B6=E5=90=8D=3D=E8=99=9A=E6=8B=9F=E7=94=A8=E6=88=
+=B7=E5=90=8D)</code></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>=E4=B8=83=E3=80=81=E5=BB=BA=E7=AB=8B=E8=99=9A=E6=8B=9F=E7=94=A8=
+=E6=88=B7=E5=90=8D=E5=8D=95=E6=96=87=E4=BB=B6</strong><br><span><a class=3D=
+"external-link" href=3D"http://www.jb51.net/article/101965.htm" style=3D"te=
+xt-align: center;" rel=3D"nofollow">?</a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1</p></td>
+<td class=3D"confluenceTd"><p><code class=3D"bash functions">touch</code> <=
+code class=3D"bash plain">/etc/vsftpd/virtusers</code></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>=E7=BC=96=E8=BE=91=E8=99=9A=E6=8B=9F=E7=94=A8=E6=88=B7=E5=90=8D=E5=8D=95=
+=E6=96=87=E4=BB=B6=EF=BC=9A=EF=BC=88=E7=AC=AC=E4=B8=80=E8=A1=8C=E8=B4=A6=E5=
+=8F=B7=EF=BC=8C=E7=AC=AC=E4=BA=8C=E8=A1=8C=E5=AF=86=E7=A0=81=EF=BC=8C=E6=B3=
+=A8=E6=84=8F=EF=BC=9A=E4=B8=8D=E8=83=BD=E4=BD=BF=E7=94=A8root=E5=81=9A=E7=
+=94=A8=E6=88=B7=E5=90=8D=EF=BC=8C=E7=B3=BB=E7=BB=9F=E4=BF=9D=E7=95=99=EF=BC=
+=89<br><span><a style=3D"text-align: center;" class=3D"external-link" href=
+=3D"http://www.jb51.net/article/101965.htm" rel=3D"nofollow">?</a></span></=
+p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1<br>2<br>3<br>4=
+</p></td>
+<td class=3D"confluenceTd"><p><code class=3D"bash functions">vi</code> <cod=
+e class=3D"bash plain">/etc/vsftpd/virtusers</code><br><code class=3D"bash =
+plain">web1</code><br><code class=3D"bash plain">123456</code><br><code cla=
+ss=3D"bash plain">:wq! </code><code class=3D"bash comments">#=E4=BF=9D=E5=
+=AD=98=E9=80=80=E5=87=BA</code></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>=E5=85=AB=E3=80=81=E7=94=9F=E6=88=90=E8=99=9A=E6=8B=9F=E7=94=A8=
+=E6=88=B7=E6=95=B0=E6=8D=AE=E6=96=87=E4=BB=B6</strong><br><span><a style=3D=
+"text-align: center;" href=3D"http://www.jb51.net/article/101965.htm" class=
+=3D"external-link" rel=3D"nofollow">?</a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1<br>2<br>3</p><=
+/td>
+<td class=3D"confluenceTd"><p><code class=3D"bash plain">db_load -T -t </co=
+de><code class=3D"bash functions">hash</code> <code class=3D"bash plain">-f=
+ </code><code class=3D"bash plain">/etc/vsftpd/virtusers</code> <code class=
+=3D"bash plain">/etc/vsftpd/virtusers</code><code class=3D"bash plain">.db<=
+/code><br>&nbsp;<br><code class=3D"bash functions">chmod</code> <code class=
+=3D"bash plain">600 </code><code class=3D"bash plain">/etc/vsftpd/virtusers=
+</code><code class=3D"bash plain">.db </code><code class=3D"bash comments">=
+#=E8=AE=BE=E5=AE=9APAM=E9=AA=8C=E8=AF=81=E6=96=87=E4=BB=B6=EF=BC=8C=E5=B9=
+=B6=E6=8C=87=E5=AE=9A=E5=AF=B9=E8=99=9A=E6=8B=9F=E7=94=A8=E6=88=B7=E6=95=B0=
+=E6=8D=AE=E5=BA=93=E6=96=87=E4=BB=B6=E8=BF=9B=E8=A1=8C=E8=AF=BB=E5=8F=96</c=
+ode></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>=E4=B9=9D=E3=80=81=E5=9C=A8/etc/pam.d/vsftpd=E7=9A=84=E6=96=87=
+=E4=BB=B6=E5=A4=B4=E9=83=A8=E5=8A=A0=E5=85=A5=E4=BB=A5=E4=B8=8B=E4=BF=A1=E6=
+=81=AF=EF=BC=88=E5=9C=A8=E5=90=8E=E9=9D=A2=E5=8A=A0=E5=85=A5=E6=97=A0=E6=95=
+=88=EF=BC=89</strong></p>
+<p>=E4=BF=AE=E6=94=B9=E5=89=8D=E5=85=88=E5=A4=87=E4=BB=BD<br><span><a style=
+=3D"text-align: center;" href=3D"http://www.jb51.net/article/101965.htm" cl=
+ass=3D"external-link" rel=3D"nofollow">?</a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1</p></td>
+<td class=3D"confluenceTd"><p><code class=3D"bash functions">cp</code> <cod=
+e class=3D"bash plain">/etc/pam</code><code class=3D"bash plain">.d</code><=
+code class=3D"bash plain">/vsftpd</code> <code class=3D"bash plain">/etc/pa=
+m</code><code class=3D"bash plain">.d</code><code class=3D"bash plain">/vsf=
+tpdbak</code></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>vi /etc/pam.d/vsftpd #=E5=85=88=E6=B3=A8=E9=87=8A=E5=88=B0vsftpd=E6=89=
+=80=E6=9C=89=E9=85=8D=E7=BD=AE=EF=BC=8C=E5=8A=A0=E5=85=A5=E4=B8=8B=E9=9D=A2=
+=E7=BA=A2=E8=89=B2=E9=83=A8=E5=88=86<br><span><a href=3D"http://www.jb51.ne=
+t/article/101965.htm" style=3D"text-align: center;" class=3D"external-link"=
+ rel=3D"nofollow">?</a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1<br>2</p></td>
+<td class=3D"confluenceTd"><p><code class=3D"bash plain">auth&nbsp; suffici=
+ent </code><code class=3D"bash plain">/lib64/security/pam_userdb</code><cod=
+e class=3D"bash plain">.so db=3D</code><code class=3D"bash plain">/etc/vsft=
+pd/virtusers</code><br><code class=3D"bash plain">account sufficient </code=
+><code class=3D"bash plain">/lib64/security/pam_userdb</code><code class=3D=
+"bash plain">.so db=3D</code><code class=3D"bash plain">/etc/vsftpd/virtuse=
+rs</code></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>=E6=B3=A8=E6=84=8F=EF=BC=9A=E5=A6=82=E6=9E=9C=E7=B3=BB=E7=BB=9F=E4=B8=BA=
+32=E4=BD=8D=EF=BC=8C=E4=B8=8A=E9=9D=A2=E6=94=B9=E4=B8=BAlib=EF=BC=8C=E5=90=
+=A6=E5=88=99=E9=85=8D=E7=BD=AE=E5=A4=B1=E8=B4=A5=EF=BC=9B</p>
+<p><strong>=E5=8D=81=E3=80=81=E6=9C=80=E5=90=8E=E9=87=8D=E5=90=AFvsftpd=E6=
+=9C=8D=E5=8A=A1=E5=99=A8</strong><br><span><a style=3D"text-align: center;"=
+ class=3D"external-link" href=3D"http://www.jb51.net/article/101965.htm" re=
+l=3D"nofollow">?</a></span></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable" style=3D"text-align: center;margin=
+-left: 0.0px;">
+<tbody style=3D"text-align: left;">
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: right;">1</p></td>
+<td class=3D"confluenceTd"><p><code class=3D"bash plain">systemctl restart =
+vsftpd.service</code></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>=E5=8F=AF=E9=80=9A=E8=BF=87&nbsp; tail -f /var/log/secure =E6=8C=87=E4=
+=BB=A4=EF=BC=8C=E6=9F=A5=E7=9C=8B=E6=9C=8D=E5=8A=A1=E5=99=A8=E5=AE=89=E5=85=
+=A8=E6=97=A5=E5=BF=97=EF=BC=8C=E4=BE=BF=E4=BA=8E=E5=88=86=E6=9E=90=E9=94=99=
+=E8=AF=AF=E9=97=AE=E9=A2=98=EF=BC=8C=E8=AE=BE=E7=BD=AE=E6=93=8D=E4=BD=9C=E6=
+=95=88=E6=9E=9C=E4=B8=80=E5=AE=9A=E8=A6=81=E4=BB=94=E7=BB=86</p>
+<p><strong><br></strong></p>
+    </div>
+</body>
+</html>
+------=_Part_10804_183088614.1546507328860--

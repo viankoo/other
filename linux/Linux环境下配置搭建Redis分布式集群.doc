@@ -1,0 +1,905 @@
+Message-ID: <1325168336.10577.1546417741266.JavaMail.root@shjhkftoolssrv.ciicsh.local>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_10576_36191370.1546417741265"
+
+------=_Part_10576_36191370.1546417741265
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Linux=E7=8E=AF=E5=A2=83=E4=B8=8B=E9=85=8D=E7=BD=AE=E6=90=AD=E5=
+=BB=BARedis=E5=88=86=E5=B8=83=E5=BC=8F=E9=9B=86=E7=BE=A4</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Linux=E7=8E=AF=E5=A2=83=E4=B8=8B=E9=85=8D=E7=BD=AE=E6=90=AD=E5=BB=
+=BARedis=E5=88=86=E5=B8=83=E5=BC=8F=E9=9B=86=E7=BE=A4</h1>
+    <div class=3D"Section1">
+        <p>=E4=B9=85=E5=89=8D=E7=8E=A9=E8=BF=87redis=E9=9B=86=E7=BE=A4=E6=
+=9C=8D=E5=8A=A1=E7=9A=84=E6=90=AD=E5=BB=BA, =E9=82=A3=E7=A7=8D=E5=93=A8=E5=
+=85=B5=E6=A8=A1=E5=BC=8F=E6=9C=89=E7=82=B9=E7=B1=BB=E4=BC=BC=E6=95=B0=E6=8D=
+=AE=E5=BA=93=E7=9A=84=E8=AF=BB=E5=86=99=E5=88=86=E7=A6=BB, =E4=BD=86=E6=98=
+=AF=E4=B8=9A=E5=8A=A1=E5=86=99=E5=85=A5=E6=95=B0=E6=8D=AE=E8=BF=98=E6=98=AF=
+=E5=85=A8=E9=83=A8=E7=94=B1=E4=B8=80=E4=B8=AA=E9=80=BB=E8=BE=91=E4=B8=8A=E7=
+=9A=84master=E6=89=BF=E6=8B=85=E7=9A=84, =E5=85=B7=E4=BD=93=E6=96=B9=E6=B3=
+=95=E5=8F=AF=E8=A7=81&nbsp;<a href=3D"http://blog.csdn.net/HinstenyHisoka/a=
+rticle/details/53955592" class=3D"external-link" rel=3D"nofollow">[=E5=93=
+=A8=E5=85=B5]</a>; =E4=BB=8A=E5=A4=A9=E6=9D=A5=E4=BE=9D=E6=8D=AERedis=E7=9A=
+=84=E5=AE=98=E6=96=B9=E8=AF=B4=E6=98=8E=E9=83=A8=E7=BD=B2=E6=8A=8A=E7=8E=A9=
+=E4=B8=8B=E5=88=86=E5=B8=83=E5=BC=8F=E9=9B=86=E7=BE=A4, =E8=BF=99=E7=A7=8D=
+=E6=A8=A1=E5=BC=8F=E5=8F=AF=E4=BB=A5=E9=85=8D=E7=BD=AE=E5=A4=9A=E4=B8=AAmas=
+ter=E5=9D=87=E5=88=8616384=E4=B8=AAhash slot, =E4=BD=BF=E5=BE=97=E4=B8=8D=
+=E5=90=8Chash key=E5=88=86=E8=90=BD=E5=88=B0=E4=B8=8D=E5=90=8C=E7=9A=84mast=
+er=E8=8A=82=E7=82=B9=E4=B8=8A, =E7=9C=9F=E6=AD=A3=E6=84=8F=E4=B9=89=E7=9A=
+=84=E5=88=86=E5=B8=83=E5=BC=8F;</p>
+<p>=E6=9C=AC=E6=96=87=E7=9A=84=E9=83=A8=E7=BD=B2=E7=8E=AF=E5=A2=83=E6=98=AF=
+ &nbsp;redis-3.2.8</p>
+<hr>
+<h2 id=3D"Linux=E7=8E=AF=E5=A2=83=E4=B8=8B=E9=85=8D=E7=BD=AE=E6=90=AD=E5=BB=
+=BARedis=E5=88=86=E5=B8=83=E5=BC=8F=E9=9B=86=E7=BE=A4-=E9=83=A8=E7=BD=B2=E6=
+=96=B9=E6=A1=88=E5=8F=8A=E7=8E=AF=E5=A2=83">=E9=83=A8=E7=BD=B2=E6=96=B9=E6=
+=A1=88=E5=8F=8A=E7=8E=AF=E5=A2=83</h2>
+<p>=E6=9C=AC=E7=A4=BA=E4=BE=8B=E4=B8=AD=E9=87=87=E7=94=A86=E8=8A=82=E7=82=
+=B9, =E4=B8=89=E4=B8=AAmaster=E5=92=8C=E4=B8=89=E4=B8=AAslaves=E4=B8=A4=E4=
+=B8=A4=E6=88=90=E7=BB=84=E7=9A=84=E6=96=B9=E5=BC=8F=E5=85=B1=E5=90=8C=E5=BD=
+=A2=E6=88=90=E4=B8=80=E4=B8=AA=E5=88=86=E5=B8=83=E5=BC=8F=E9=9B=86=E7=BE=A4=
+, =E5=AF=B9=E5=A4=96=E6=8F=90=E4=BE=9B=E5=AD=98=E5=82=A8=E6=9C=8D=E5=8A=A1;=
+</p>
+<h2 id=3D"Linux=E7=8E=AF=E5=A2=83=E4=B8=8B=E9=85=8D=E7=BD=AE=E6=90=AD=E5=BB=
+=BARedis=E5=88=86=E5=B8=83=E5=BC=8F=E9=9B=86=E7=BE=A4-=E8=8E=B7=E5=8F=96red=
+is">=E8=8E=B7=E5=8F=96redis</h2>
+<p>=E4=B8=8B=E8=BD=BD&nbsp;<a href=3D"https://redis.io/download" class=3D"e=
+xternal-link" rel=3D"nofollow">redis</a>, =E5=BE=97=E5=88=B0=E5=BA=94=E8=AF=
+=A5=E6=98=AF=E6=BA=90=E7=A0=81, =E5=85=88=E8=BF=9B=E8=A1=8C=E8=A7=A3=E5=8E=
+=8B, =E7=84=B6=E5=90=8Emake=E5=8D=B3=E5=8F=AF;</p>
+<h2 id=3D"Linux=E7=8E=AF=E5=A2=83=E4=B8=8B=E9=85=8D=E7=BD=AE=E6=90=AD=E5=BB=
+=BARedis=E5=88=86=E5=B8=83=E5=BC=8F=E9=9B=86=E7=BE=A4-redis=E9=85=8D=E7=BD=
+=AE=E4=BB=8B=E7=BB=8D">redis =E9=85=8D=E7=BD=AE=E4=BB=8B=E7=BB=8D</h2>
+<pre class=3D"prettyprint"><code class=3D"hljs vala has-numbering"><span cl=
+ass=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);"># redis =E6=8F=90=
+=E4=BE=9B=E6=9C=8D=E5=8A=A1=E6=97=B6=E7=BB=91=E5=AE=9A=E7=9A=84=E6=9C=AC=E6=
+=9C=BA=E7=BD=91=E7=BB=9C=E5=9C=B0=E5=9D=80=EF=BC=8C=E5=8F=AF=E4=BB=A5=E6=98=
+=AF=E5=A4=9A=E4=B8=AA=E6=BB=A1=E8=B6=B3=E5=A4=9A=E5=9D=97=E7=BD=91=E5=8D=A1=
+=E5=88=86=E5=88=AB=E5=AF=B9=E5=A4=96=E7=BD=91=E5=86=85=E7=BD=91=E7=9A=84=E8=
+=AE=BF=E9=97=AE, =E6=8C=89=E9=9C=80=E8=A6=81=E6=94=B9</span>
+bind <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</sp=
+an><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><s=
+pan class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>
+<span class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);"># =E6=8F=
+=90=E4=BE=9B=E6=9C=8D=E5=8A=A1=E7=9A=84=E7=AB=AF=E5=8F=A3, =E4=BE=9B=E5=AE=
+=A2=E6=88=B7=E7=AB=AF=E8=BF=9E=E6=8E=A5</span>
+port <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000</spa=
+n>
+<span class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);"># =E5=90=
+=AF=E5=8A=A8redis=E6=9C=8D=E5=8A=A1=E6=97=B6,=E8=BF=9B=E7=A8=8Bpid=E5=AD=98=
+=E5=82=A8=E4=BD=8D=E7=BD=AE</span>
+pidfile /disk/develop/redis/cluster/<span class=3D"hljs-number" style=3D"co=
+lor: rgb(0,102,102);">7000</span>/redis.pid
+<span class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);"># redis =
+=E6=97=A5=E5=BF=97=E6=96=87=E4=BB=B6=E6=89=80=E5=9C=A8</span>
+logfile <span class=3D"hljs-string" style=3D"color: rgb(0,136,0);">"/disk/d=
+evelop/redis/cluster/7000/log.txt"</span>
+<span class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);"># =E6=8C=
+=81=E4=B9=85=E5=8C=96=E6=96=87=E4=BB=B6=E5=AD=98=E5=82=A8=E7=9B=AE=E5=BD=95=
+</span>
+dir /disk/develop/redis/cluster/<span class=3D"hljs-number" style=3D"color:=
+ rgb(0,102,102);">7000</span>
+<span class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);"># =E5=BC=
+=80=E5=90=AF=E9=9B=86=E7=BE=A4=E6=A8=A1=E5=BC=8F</span>
+cluster-enabled yes
+<span class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);"># =E9=9B=
+=86=E7=BE=A4=E6=A8=A1=E5=BC=8F=E4=B8=8B=E7=9A=84=E8=8A=82=E7=82=B9=E9=85=8D=
+=E7=BD=AE=E4=BF=A1=E6=81=AF</span>
+cluster-config-file nodes.conf
+<span class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);"># =E9=9B=
+=86=E7=BE=A4=E4=B8=AD=E5=90=84=E8=8A=82=E7=82=B9=E9=97=B4=E8=BF=9E=E6=8E=A5=
+=E8=B6=85=E6=97=B6=E6=97=B6=E9=97=B4</span>
+cluster-node-timeout <span class=3D"hljs-number" style=3D"color: rgb(0,102,=
+102);">5000</span>
+<span class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);"># =E5=85=
+=81=E8=AE=B8=E6=95=B0=E6=8D=AE=E6=8C=81=E4=B9=85=E5=8C=96=E8=BF=BD=E5=8A=A0=
+</span>
+appendonly yes</code></pre>
+<ul class=3D"pre-numbering" style=3D"text-align: right;">
+<li>1</li>
+<li>2</li>
+</ul>
+<h2 id=3D"Linux=E7=8E=AF=E5=A2=83=E4=B8=8B=E9=85=8D=E7=BD=AE=E6=90=AD=E5=BB=
+=BARedis=E5=88=86=E5=B8=83=E5=BC=8F=E9=9B=86=E7=BE=A4-=E5=88=9B=E5=BB=BA=E9=
+=9B=86=E7=BE=A4=E7=9B=AE=E5=BD=95">=E5=88=9B=E5=BB=BA=E9=9B=86=E7=BE=A4=E7=
+=9B=AE=E5=BD=95</h2>
+<p>=E6=AF=94=E5=A6=82=E4=B8=8A=E9=9D=A2=E6=88=91=E6=8A=8A=E4=B8=8B=E8=BD=BD=
+=E7=9A=84redis=E6=BA=90=E7=A0=81=E8=A7=A3=E5=8E=8B=E5=88=B0=E4=BA=86 =E2=80=
+=98/disk/develop/redis/cluster/redis-3.2.8=E2=80=99, =E5=90=8C=E6=97=B6=E5=
+=88=9B=E5=BB=BA=E5=85=B6=E4=BB=96=E5=85=AD=E4=B8=AA=E8=8A=82=E7=82=B9=E7=9B=
+=AE=E5=BD=95</p>
+<pre class=3D"prettyprint"><code class=3D"hljs bash has-numbering"><span cl=
+ass=3D"hljs-built_in" style=3D"color: rgb(102,0,102);">cd</span> /disk/deve=
+lop/redis/cluster/
+mkdir <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000</sp=
+an> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7001</span=
+> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7002</span> =
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7003</span> <s=
+pan class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7004</span> <spa=
+n class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7005</span> </code=
+></pre>
+<ul class=3D"pre-numbering" style=3D"text-align: right;">
+<li>1</li>
+<li>2</li>
+</ul>
+<h2 id=3D"Linux=E7=8E=AF=E5=A2=83=E4=B8=8B=E9=85=8D=E7=BD=AE=E6=90=AD=E5=BB=
+=BARedis=E5=88=86=E5=B8=83=E5=BC=8F=E9=9B=86=E7=BE=A4-=E5=BC=80=E5=A7=8B=E9=
+=85=8D=E7=BD=AE">=E5=BC=80=E5=A7=8B=E9=85=8D=E7=BD=AE</h2>
+<p>copy =E5=8E=9F=E5=A7=8B=E7=9A=84=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6</p>
+<pre class=3D"prettyprint"><code class=3D"hljs avrasm has-numbering"><span =
+class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">cp</span> redis-<span=
+ class=3D"hljs-number" style=3D"color: rgb(0,102,102);">3.2</span><span cla=
+ss=3D"hljs-number" style=3D"color: rgb(0,102,102);">.8</span>/redis<span cl=
+ass=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);">.conf</span> <spa=
+n class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000</span>/
+<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">cp</span> redis=
+-<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">3.2</span><sp=
+an class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.8</span>/redis<s=
+pan class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);">.conf</span=
+> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7001</span>/
+<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">cp</span> redis=
+-<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">3.2</span><sp=
+an class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.8</span>/redis<s=
+pan class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);">.conf</span=
+> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7002</span>/
+<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">cp</span> redis=
+-<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">3.2</span><sp=
+an class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.8</span>/redis<s=
+pan class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);">.conf</span=
+> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7003</span>/
+<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">cp</span> redis=
+-<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">3.2</span><sp=
+an class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.8</span>/redis<s=
+pan class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);">.conf</span=
+> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7004</span>/
+<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">cp</span> redis=
+-<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">3.2</span><sp=
+an class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.8</span>/redis<s=
+pan class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);">.conf</span=
+> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7005</span>/=
+</code></pre>
+<ul class=3D"pre-numbering" style=3D"text-align: right;">
+<li>1</li>
+<li>2</li>
+</ul>
+<p>=E4=BF=AE=E6=94=B9=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6, =E5=88=86=E5=88=
+=AB=E8=BF=9B=E5=85=A5=E5=88=B0=E4=B8=8A=E9=9D=A2=E7=9A=84=E5=85=AD=E4=B8=AA=
+=E6=96=B0=E5=BB=BA=E7=9A=84=E6=96=87=E4=BB=B6=E5=A4=B9=E4=B8=AD, =E6=8C=89=
+=E7=85=A7=E4=B8=8A=E9=9D=A2=E7=9A=84=E9=85=8D=E7=BD=AE=E4=BB=8B=E7=BB=8D=E4=
+=B8=AD=E7=9A=84=E6=A0=B7=E4=BE=8B=E8=BF=9B=E8=A1=8C=E5=AF=B9=E5=BA=94=E4=BF=
+=AE=E6=94=B9</p>
+<p>=E5=90=AF=E5=8A=A8=E6=9C=8D=E5=8A=A1</p>
+<pre class=3D"prettyprint"><code class=3D"hljs axapta has-numbering">cd /di=
+sk/develop/redis/cluster/redis-<span class=3D"hljs-number" style=3D"color: =
+rgb(0,102,102);">3.2</span><span class=3D"hljs-number" style=3D"color: rgb(=
+0,102,102);">.8</span>
+src/redis-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">serve=
+r</span> ../<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">70=
+00</span>/redis.conf
+src/redis-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">serve=
+r</span> ../<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">70=
+01</span>/redis.conf
+src/redis-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">serve=
+r</span> ../<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">70=
+02</span>/redis.conf
+src/redis-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">serve=
+r</span> ../<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">70=
+03</span>/redis.conf
+src/redis-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">serve=
+r</span> ../<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">70=
+04</span>/redis.conf
+src/redis-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">serve=
+r</span> ../<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">70=
+05</span>/redis.conf</code></pre>
+<ul class=3D"pre-numbering" style=3D"text-align: right;">
+<li>1</li>
+<li>2</li>
+</ul>
+<p>=E6=9F=A5=E7=9C=8B=E4=B8=8B=E6=9C=8D=E5=8A=A1=E5=91=A2</p>
+<pre class=3D"prettyprint"><code class=3D"hljs axapta has-numbering">ps -ef=
+|grep redis-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">ser=
+ver</span>
+hinsteny <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">21971=
+</span>  <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">2242<=
+/span>  <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">0</spa=
+n> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">22</span>:<=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">48</span> ?    =
+    <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:=
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:<spa=
+n class=3D"hljs-number" style=3D"color: rgb(0,102,102);">02</span> src/redi=
+s-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">server</span>=
+ <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span =
+class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span clas=
+s=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000</span> [cluster]
+hinsteny <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">22062=
+</span>  <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">2242<=
+/span>  <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">0</spa=
+n> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">22</span>:<=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">50</span> ?    =
+    <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:=
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:<spa=
+n class=3D"hljs-number" style=3D"color: rgb(0,102,102);">02</span> src/redi=
+s-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">server</span>=
+ <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span =
+class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span clas=
+s=3D"hljs-number" style=3D"color: rgb(0,102,102);">7001</span> [cluster]
+hinsteny <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">22149=
+</span>  <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">2242<=
+/span>  <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">0</spa=
+n> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">22</span>:<=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">53</span> ?    =
+    <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:=
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:<spa=
+n class=3D"hljs-number" style=3D"color: rgb(0,102,102);">02</span> src/redi=
+s-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">server</span>=
+ <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span =
+class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span clas=
+s=3D"hljs-number" style=3D"color: rgb(0,102,102);">7002</span> [cluster]
+hinsteny <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">22226=
+</span>  <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">2242<=
+/span>  <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">0</spa=
+n> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">22</span>:<=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">55</span> ?    =
+    <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:=
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:<spa=
+n class=3D"hljs-number" style=3D"color: rgb(0,102,102);">02</span> src/redi=
+s-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">server</span>=
+ <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span =
+class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span clas=
+s=3D"hljs-number" style=3D"color: rgb(0,102,102);">7003</span> [cluster]
+hinsteny <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">22257=
+</span>  <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">2242<=
+/span>  <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">0</spa=
+n> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">22</span>:<=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">57</span> ?    =
+    <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:=
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:<spa=
+n class=3D"hljs-number" style=3D"color: rgb(0,102,102);">02</span> src/redi=
+s-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">server</span>=
+ <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span =
+class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span clas=
+s=3D"hljs-number" style=3D"color: rgb(0,102,102);">7004</span> [cluster]
+hinsteny <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">22280=
+</span>  <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">2242<=
+/span>  <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">0</spa=
+n> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">22</span>:<=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">58</span> ?    =
+    <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:=
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:<spa=
+n class=3D"hljs-number" style=3D"color: rgb(0,102,102);">02</span> src/redi=
+s-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">server</span>=
+ <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span =
+class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span clas=
+s=3D"hljs-number" style=3D"color: rgb(0,102,102);">7005</span> [cluster]
+hinsteny <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">23831=
+</span> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">11259<=
+/span>  <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">0</spa=
+n> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">23</span>:<=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">35</span> pts/<=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">10</span>   <sp=
+an class=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:<span c=
+lass=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span>:<span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">00</span> grep --color=3D=
+auto redis-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">serv=
+er</span></code></pre>
+<ul class=3D"pre-numbering" style=3D"text-align: right;">
+<li>1</li>
+<li>2</li>
+</ul>
+<p>=E8=99=BD=E7=84=B6=E5=85=AD=E4=B8=AA=E6=9C=8D=E5=8A=A1=E9=83=BD=E8=B5=B7=
+=E6=9D=A5=E4=BA=86, =E4=BD=86=E8=BF=99=E6=97=B6=E4=BB=96=E4=BB=AC=E4=B9=8B=
+=E9=97=B4=E8=BF=98=E4=B8=8D=E7=9F=A5=E9=81=93=E5=BD=BC=E6=AD=A4=E7=9A=84=E5=
+=AD=98=E5=9C=A8, =E6=97=A0=E6=B3=95=E7=BB=84=E6=88=90=E9=9B=86=E7=BE=A4=E6=
+=8F=90=E4=BE=9B=E6=9C=8D=E5=8A=A1</p>
+<pre class=3D"prettyprint"><code class=3D"hljs avrasm has-numbering">src/re=
+dis-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">cli</span> =
+-c -p <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000</sp=
+an>
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><s=
+pan class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span c=
+lass=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000</span>&gt; cluster i=
+nfo
+<span class=3D"hljs-label">cluster_state:</span>fail   //=E9=9B=86=E7=BE=A4=
+=E7=8A=B6=E6=80=81=E5=A4=B1=E8=B4=A5
+<span class=3D"hljs-label">cluster_slots_assigned:</span><span class=3D"hlj=
+s-number" style=3D"color: rgb(0,102,102);">0</span> // hash =E6=A7=BD=E7=82=
+=B9=E5=88=86=E5=B8=83=E4=B9=9F=E6=98=AF=E5=A4=B1=E8=B4=A5=E7=9A=84
+<span class=3D"hljs-label">cluster_slots_ok:</span><span class=3D"hljs-numb=
+er" style=3D"color: rgb(0,102,102);">0</span>
+<span class=3D"hljs-label">cluster_slots_pfail:</span><span class=3D"hljs-n=
+umber" style=3D"color: rgb(0,102,102);">0</span>
+<span class=3D"hljs-label">cluster_slots_fail:</span><span class=3D"hljs-nu=
+mber" style=3D"color: rgb(0,102,102);">0</span>
+<span class=3D"hljs-label">cluster_known_nodes:</span><span class=3D"hljs-n=
+umber" style=3D"color: rgb(0,102,102);">1</span>
+<span class=3D"hljs-label">cluster_size:</span><span class=3D"hljs-number" =
+style=3D"color: rgb(0,102,102);">0</span>
+<span class=3D"hljs-label">cluster_current_epoch:</span><span class=3D"hljs=
+-number" style=3D"color: rgb(0,102,102);">0</span>
+<span class=3D"hljs-label">cluster_my_epoch:</span><span class=3D"hljs-numb=
+er" style=3D"color: rgb(0,102,102);">0</span>
+<span class=3D"hljs-label">cluster_stats_messages_sent:</span><span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">0</span>
+<span class=3D"hljs-label">cluster_stats_messages_received:</span><span cla=
+ss=3D"hljs-number" style=3D"color: rgb(0,102,102);">0</span>
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><s=
+pan class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span c=
+lass=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000</span>&gt;=20
+</code></pre>
+<ul class=3D"pre-numbering" style=3D"text-align: right;">
+<li>1</li>
+<li>2</li>
+<li>3</li>
+<li>4</li>
+</ul>
+<p>=E6=8E=A5=E4=B8=8B=E6=9D=A5=E8=AE=A9=E6=88=91=E4=BB=AC=E7=94=A8=E4=B8=80=
+=E4=B8=AA=E5=B7=A5=E5=85=B7 =E2=80=98redis-trib.rb=E2=80=99 =E5=B0=86=E4=B8=
+=8A=E9=9D=A2=E7=9A=84=E5=85=AD=E4=B8=AA=E8=8A=82=E7=82=B9=E8=BF=9E=E6=8E=A5=
+=E8=B5=B7=E6=9D=A5</p>
+<p>=E6=8F=92=E6=92=AD, redis-trib=E6=98=AF=E9=9C=80=E8=A6=81ruby=E7=8E=AF=
+=E5=A2=83=E5=B9=B6=E5=9C=A8=E5=85=B6=E7=8E=AF=E5=A2=83=E4=B8=8B=E5=AE=89=E8=
+=A3=85=E5=AF=B9=E5=BA=94=E7=9A=84redis=E6=8F=92=E4=BB=B6</p>
+<pre class=3D"prettyprint"><code class=3D"hljs vala has-numbering"><span cl=
+ass=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);"># =E5=85=88=E5=AE=
+=89=E8=A3=85ruby=E7=8E=AF=E5=A2=83</span>
+apt-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">get</span> =
+install ruby
+<span class=3D"hljs-preprocessor" style=3D"color: rgb(68,68,68);"># =E5=86=
+=8D=E5=AE=89=E8=A3=85redis=E9=9C=80=E8=A6=81=E7=9A=84=E6=8F=92=E4=BB=B6</sp=
+an>
+gem install redis</code></pre>
+<ul class=3D"pre-numbering" style=3D"text-align: right;">
+<li>1</li>
+<li>2</li>
+</ul>
+<h2 id=3D"Linux=E7=8E=AF=E5=A2=83=E4=B8=8B=E9=85=8D=E7=BD=AE=E6=90=AD=E5=BB=
+=BARedis=E5=88=86=E5=B8=83=E5=BC=8F=E9=9B=86=E7=BE=A4-=E5=85=B3=E8=81=94=E7=
+=BB=84=E5=BB=BA=E9=9B=86=E7=BE=A4">=E5=85=B3=E8=81=94=E7=BB=84=E5=BB=BA=E9=
+=9B=86=E7=BE=A4</h2>
+<pre class=3D"prettyprint"><code class=3D"hljs sql has-numbering">src/redis=
+-trib.rb <span class=3D"hljs-operator"><span class=3D"hljs-keyword" style=
+=3D"color: rgb(0,0,136);">create</span> --replicas <span class=3D"hljs-numb=
+er" style=3D"color: rgb(0,102,102);">1</span> <span class=3D"hljs-number" s=
+tyle=3D"color: rgb(0,102,102);">127.0</span><span class=3D"hljs-number" sty=
+le=3D"color: rgb(0,102,102);">.0</span><span class=3D"hljs-number" style=3D=
+"color: rgb(0,102,102);">.1</span>:<span class=3D"hljs-number" style=3D"col=
+or: rgb(0,102,102);">7000</span> <span class=3D"hljs-number" style=3D"color=
+: rgb(0,102,102);">127.0</span><span class=3D"hljs-number" style=3D"color: =
+rgb(0,102,102);">.0</span><span class=3D"hljs-number" style=3D"color: rgb(0=
+,102,102);">.1</span>:<span class=3D"hljs-number" style=3D"color: rgb(0,102=
+,102);">7001</span> <span class=3D"hljs-number" style=3D"color: rgb(0,102,1=
+02);">127.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102=
+);">.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.=
+1</span>:<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7002<=
+/span> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</=
+span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span>=
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<spa=
+n class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7003</span> <span =
+class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><span cl=
+ass=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span class=3D"=
+hljs-number" style=3D"color: rgb(0,102,102);">7004</span> <span class=3D"hl=
+js-number" style=3D"color: rgb(0,102,102);">127.0</span><span class=3D"hljs=
+-number" style=3D"color: rgb(0,102,102);">.0</span><span class=3D"hljs-numb=
+er" style=3D"color: rgb(0,102,102);">.1</span>:<span class=3D"hljs-number" =
+style=3D"color: rgb(0,102,102);">7005</span> &gt;&gt;&gt; Creating cluster =
+&gt;&gt;&gt; Performing hash slots allocation <span class=3D"hljs-keyword" =
+style=3D"color: rgb(0,0,136);">on</span> <span class=3D"hljs-number" style=
+=3D"color: rgb(0,102,102);">6</span> nodes... <span class=3D"hljs-keyword" =
+style=3D"color: rgb(0,0,136);">Using</span> <span class=3D"hljs-number" sty=
+le=3D"color: rgb(0,102,102);">3</span> masters: <span class=3D"hljs-number"=
+ style=3D"color: rgb(0,102,102);">127.0</span><span class=3D"hljs-number" s=
+tyle=3D"color: rgb(0,102,102);">.0</span><span class=3D"hljs-number" style=
+=3D"color: rgb(0,102,102);">.1</span>:<span class=3D"hljs-number" style=3D"=
+color: rgb(0,102,102);">7000</span> <span class=3D"hljs-number" style=3D"co=
+lor: rgb(0,102,102);">127.0</span><span class=3D"hljs-number" style=3D"colo=
+r: rgb(0,102,102);">.0</span><span class=3D"hljs-number" style=3D"color: rg=
+b(0,102,102);">.1</span>:<span class=3D"hljs-number" style=3D"color: rgb(0,=
+102,102);">7001</span> <span class=3D"hljs-number" style=3D"color: rgb(0,10=
+2,102);">127.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,=
+102);">.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);=
+">.1</span>:<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">70=
+02</span> Adding replica <span class=3D"hljs-number" style=3D"color: rgb(0,=
+102,102);">127.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,10=
+2,102);">.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102=
+);">.1</span>:<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">=
+7003</span> <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">to<=
+/span> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</=
+span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span>=
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<spa=
+n class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000</span> Adding=
+ replica <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0=
+</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</spa=
+n><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<s=
+pan class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7004</span> <spa=
+n class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">to</span> <span cla=
+ss=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span class=3D"h=
+ljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span class=3D"hljs-=
+number" style=3D"color: rgb(0,102,102);">7001</span> Adding replica <span c=
+lass=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><span cla=
+ss=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span class=3D=
+"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span class=3D"hlj=
+s-number" style=3D"color: rgb(0,102,102);">7005</span> <span class=3D"hljs-=
+keyword" style=3D"color: rgb(0,0,136);">to</span> <span class=3D"hljs-numbe=
+r" style=3D"color: rgb(0,102,102);">127.0</span><span class=3D"hljs-number"=
+ style=3D"color: rgb(0,102,102);">.0</span><span class=3D"hljs-number" styl=
+e=3D"color: rgb(0,102,102);">.1</span>:<span class=3D"hljs-number" style=3D=
+"color: rgb(0,102,102);">7002</span> M: dc5da8bfce379f9cc2c11966709d7d9f275=
+d06b1 <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</s=
+pan><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span=
+ class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000</span> slots:<=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">0</span>-<span =
+class=3D"hljs-number" style=3D"color: rgb(0,102,102);">5460</span> (<span c=
+lass=3D"hljs-number" style=3D"color: rgb(0,102,102);">5461</span> slots) ma=
+ster M: <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">2</spa=
+n>b22012f983698f504b9e61d0958fc645112c805 <span class=3D"hljs-number" style=
+=3D"color: rgb(0,102,102);">127.0</span><span class=3D"hljs-number" style=
+=3D"color: rgb(0,102,102);">.0</span><span class=3D"hljs-number" style=3D"c=
+olor: rgb(0,102,102);">.1</span>:<span class=3D"hljs-number" style=3D"color=
+: rgb(0,102,102);">7001</span> slots:<span class=3D"hljs-number" style=3D"c=
+olor: rgb(0,102,102);">5461</span>-<span class=3D"hljs-number" style=3D"col=
+or: rgb(0,102,102);">10922</span> (<span class=3D"hljs-number" style=3D"col=
+or: rgb(0,102,102);">5462</span> slots) master M: df396e45f08019525bf668ff4=
+704d626014db2d6 <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);=
+">127.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">=
+.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</s=
+pan>:<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7002</spa=
+n> slots:<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">10923=
+</span>-<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">16383<=
+/span> (<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">5461</=
+span> slots) master S: <span class=3D"hljs-number" style=3D"color: rgb(0,10=
+2,102);">90740536</span>f6e5b191300253b84fb4d9b908d48d54 <span class=3D"hlj=
+s-number" style=3D"color: rgb(0,102,102);">127.0</span><span class=3D"hljs-=
+number" style=3D"color: rgb(0,102,102);">.0</span><span class=3D"hljs-numbe=
+r" style=3D"color: rgb(0,102,102);">.1</span>:<span class=3D"hljs-number" s=
+tyle=3D"color: rgb(0,102,102);">7003</span> replicates dc5da8bfce379f9cc2c1=
+1966709d7d9f275d06b1 S: <span class=3D"hljs-number" style=3D"color: rgb(0,1=
+02,102);">52</span>ba80c45ffd165b9cec01c8409c605386d1a8b2 <span class=3D"hl=
+js-number" style=3D"color: rgb(0,102,102);">127.0</span><span class=3D"hljs=
+-number" style=3D"color: rgb(0,102,102);">.0</span><span class=3D"hljs-numb=
+er" style=3D"color: rgb(0,102,102);">.1</span>:<span class=3D"hljs-number" =
+style=3D"color: rgb(0,102,102);">7004</span> replicates <span class=3D"hljs=
+-number" style=3D"color: rgb(0,102,102);">2</span>b22012f983698f504b9e61d09=
+58fc645112c805 S: <span class=3D"hljs-number" style=3D"color: rgb(0,102,102=
+);">888848820</span>f300331a76803755dc1c15302f2ce98 <span class=3D"hljs-num=
+ber" style=3D"color: rgb(0,102,102);">127.0</span><span class=3D"hljs-numbe=
+r" style=3D"color: rgb(0,102,102);">.0</span><span class=3D"hljs-number" st=
+yle=3D"color: rgb(0,102,102);">.1</span>:<span class=3D"hljs-number" style=
+=3D"color: rgb(0,102,102);">7005</span> replicates df396e45f08019525bf668ff=
+4704d626014db2d6 Can I <span class=3D"hljs-keyword" style=3D"color: rgb(0,0=
+,136);">set</span> the above configuration? (type <span class=3D"hljs-strin=
+g" style=3D"color: rgb(0,136,0);">'yes'</span> <span class=3D"hljs-keyword"=
+ style=3D"color: rgb(0,0,136);">to</span> accept): yes &gt;&gt;&gt; Nodes c=
+onfiguration updated &gt;&gt;&gt; Assign a different config epoch <span cla=
+ss=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">to</span> <span class=3D=
+"hljs-keyword" style=3D"color: rgb(0,0,136);">each</span> node &gt;&gt;&gt;=
+ Sending CLUSTER MEET messages <span class=3D"hljs-keyword" style=3D"color:=
+ rgb(0,0,136);">to</span> <span class=3D"hljs-keyword" style=3D"color: rgb(=
+0,0,136);">join</span> the cluster Waiting <span class=3D"hljs-keyword" sty=
+le=3D"color: rgb(0,0,136);">for</span> the cluster <span class=3D"hljs-keyw=
+ord" style=3D"color: rgb(0,0,136);">to</span> <span class=3D"hljs-keyword" =
+style=3D"color: rgb(0,0,136);">join</span>... &gt;&gt;&gt; Performing Clust=
+er <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">Check</span>=
+ (<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">using</span> =
+node <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</sp=
+an><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><s=
+pan class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span =
+class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000</span>) M: dc5d=
+a8bfce379f9cc2c11966709d7d9f275d06b1 <span class=3D"hljs-number" style=3D"c=
+olor: rgb(0,102,102);">127.0</span><span class=3D"hljs-number" style=3D"col=
+or: rgb(0,102,102);">.0</span><span class=3D"hljs-number" style=3D"color: r=
+gb(0,102,102);">.1</span>:<span class=3D"hljs-number" style=3D"color: rgb(0=
+,102,102);">7000</span> slots:<span class=3D"hljs-number" style=3D"color: r=
+gb(0,102,102);">0</span>-<span class=3D"hljs-number" style=3D"color: rgb(0,=
+102,102);">5460</span> (<span class=3D"hljs-number" style=3D"color: rgb(0,1=
+02,102);">5461</span> slots) master <span class=3D"hljs-number" style=3D"co=
+lor: rgb(0,102,102);">1</span> additional replica(s) M: <span class=3D"hljs=
+-number" style=3D"color: rgb(0,102,102);">2</span>b22012f983698f504b9e61d09=
+58fc645112c805 <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);"=
+>127.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.=
+0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</sp=
+an>:<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7001</span=
+> slots:<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">5461</=
+span>-<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">10922</s=
+pan> (<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">5462</sp=
+an> slots) master <span class=3D"hljs-number" style=3D"color: rgb(0,102,102=
+);">1</span> additional replica(s) S: <span class=3D"hljs-number" style=3D"=
+color: rgb(0,102,102);">90740536</span>f6e5b191300253b84fb4d9b908d48d54 <sp=
+an class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><span=
+ class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span clas=
+s=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span class=3D=
+"hljs-number" style=3D"color: rgb(0,102,102);">7003</span> slots: (<span cl=
+ass=3D"hljs-number" style=3D"color: rgb(0,102,102);">0</span> slots) slave =
+replicates dc5da8bfce379f9cc2c11966709d7d9f275d06b1 S: <span class=3D"hljs-=
+number" style=3D"color: rgb(0,102,102);">52</span>ba80c45ffd165b9cec01c8409=
+c605386d1a8b2 <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">=
+127.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0=
+</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</spa=
+n>:<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7004</span>=
+ slots: (<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">0</sp=
+an> slots) slave replicates <span class=3D"hljs-number" style=3D"color: rgb=
+(0,102,102);">2</span>b22012f983698f504b9e61d0958fc645112c805 M: df396e45f0=
+8019525bf668ff4704d626014db2d6 <span class=3D"hljs-number" style=3D"color: =
+rgb(0,102,102);">127.0</span><span class=3D"hljs-number" style=3D"color: rg=
+b(0,102,102);">.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,1=
+02,102);">.1</span>:<span class=3D"hljs-number" style=3D"color: rgb(0,102,1=
+02);">7002</span> slots:<span class=3D"hljs-number" style=3D"color: rgb(0,1=
+02,102);">10923</span>-<span class=3D"hljs-number" style=3D"color: rgb(0,10=
+2,102);">16383</span> (<span class=3D"hljs-number" style=3D"color: rgb(0,10=
+2,102);">5461</span> slots) master <span class=3D"hljs-number" style=3D"col=
+or: rgb(0,102,102);">1</span> additional replica(s) S: <span class=3D"hljs-=
+number" style=3D"color: rgb(0,102,102);">888848820</span>f300331a76803755dc=
+1c15302f2ce98 <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">=
+127.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0=
+</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</spa=
+n>:<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7005</span>=
+ slots: (<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">0</sp=
+an> slots) slave replicates df396e45f08019525bf668ff4704d626014db2d6 [OK] <=
+span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">All</span> nodes=
+ agree about slots configuration. &gt;&gt;&gt; <span class=3D"hljs-keyword"=
+ style=3D"color: rgb(0,0,136);">Check</span> <span class=3D"hljs-keyword" s=
+tyle=3D"color: rgb(0,0,136);">for</span> <span class=3D"hljs-keyword" style=
+=3D"color: rgb(0,0,136);">open</span> slots... &gt;&gt;&gt; <span class=3D"=
+hljs-keyword" style=3D"color: rgb(0,0,136);">Check</span> slots coverage...=
+ [OK] <span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">All</span=
+> <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">16384</span>=
+ slots covered. </span></code></pre>
+<ul class=3D"pre-numbering" style=3D"text-align: right;">
+<li>50</li>
+</ul>
+<h2 id=3D"Linux=E7=8E=AF=E5=A2=83=E4=B8=8B=E9=85=8D=E7=BD=AE=E6=90=AD=E5=BB=
+=BARedis=E5=88=86=E5=B8=83=E5=BC=8F=E9=9B=86=E7=BE=A4-=E9=AA=8C=E8=AF=81=E9=
+=9B=86=E7=BE=A4=E9=85=8D=E7=BD=AE">=E9=AA=8C=E8=AF=81=E9=9B=86=E7=BE=A4=E9=
+=85=8D=E7=BD=AE</h2>
+<p>=E4=B8=8A=E9=9D=A2=E6=98=BE=E7=A4=BA=E5=B7=B2=E7=BB=8F=E6=88=90=E5=8A=9F=
+=E7=BB=84=E6=88=90=E9=9B=86=E7=BE=A4=E4=BA=86, =E8=8A=82=E7=82=B9[7000,7001=
+,7002]=E4=B8=BA=E4=B8=89=E4=B8=AAmaster, =E5=89=A9=E4=B8=8B=E7=9A=84[7003,7=
+004,7005]=E5=88=86=E5=88=AB=E4=B8=BA=E5=89=8D=E4=B8=89=E8=80=85=E7=9A=84=E5=
+=A4=8D=E5=88=B6=E8=8A=82=E7=82=B9, =E5=B9=B6=E4=B8=94=E5=8F=AF=E4=BB=A5=E7=
+=9C=8B=E5=88=B016384=E4=B8=AA=E6=A7=BD=E7=82=B9=E8=A2=AB=E5=85=A8=E9=83=A8=
+=E8=A6=86=E7=9B=96=E5=88=86=E5=B8=83, =E7=8E=B0=E5=9C=A8=E5=86=8D=E6=9F=A5=
+=E7=9C=8B=E4=B8=8B=E9=9B=86=E7=BE=A4=E7=8A=B6=E6=80=81</p>
+<pre class=3D"prettyprint"><code class=3D"hljs avrasm has-numbering">src/re=
+dis-<span class=3D"hljs-keyword" style=3D"color: rgb(0,0,136);">cli</span> =
+-c -p <span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000127.=
+0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</sp=
+an><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<=
+span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000</span>&gt;=
+ cluster info
+<span class=3D"hljs-label">cluster_state:</span>ok
+<span class=3D"hljs-label">cluster_slots_assigned:</span><span class=3D"hlj=
+s-number" style=3D"color: rgb(0,102,102);">16384</span>
+<span class=3D"hljs-label">cluster_slots_ok:</span><span class=3D"hljs-numb=
+er" style=3D"color: rgb(0,102,102);">16384</span>
+<span class=3D"hljs-label">cluster_slots_pfail:</span><span class=3D"hljs-n=
+umber" style=3D"color: rgb(0,102,102);">0</span>
+<span class=3D"hljs-label">cluster_slots_fail:</span><span class=3D"hljs-nu=
+mber" style=3D"color: rgb(0,102,102);">0</span>
+<span class=3D"hljs-label">cluster_known_nodes:</span><span class=3D"hljs-n=
+umber" style=3D"color: rgb(0,102,102);">6</span>
+<span class=3D"hljs-label">cluster_size:</span><span class=3D"hljs-number" =
+style=3D"color: rgb(0,102,102);">3</span>
+<span class=3D"hljs-label">cluster_current_epoch:</span><span class=3D"hljs=
+-number" style=3D"color: rgb(0,102,102);">6</span>
+<span class=3D"hljs-label">cluster_my_epoch:</span><span class=3D"hljs-numb=
+er" style=3D"color: rgb(0,102,102);">1</span>
+<span class=3D"hljs-label">cluster_stats_messages_sent:</span><span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">487</span>
+<span class=3D"hljs-label">cluster_stats_messages_received:</span><span cla=
+ss=3D"hljs-number" style=3D"color: rgb(0,102,102);">487</span></code></pre>
+<ul class=3D"pre-numbering" style=3D"text-align: right;">
+<li>12</li>
+<li>13</li>
+</ul>
+<p>=E6=9C=80=E5=90=8E=E9=80=9A=E8=BF=87set=E4=B8=8Eget=E6=93=8D=E4=BD=9C=E9=
+=AA=8C=E8=AF=81=E4=B8=8B</p>
+<pre class=3D"prettyprint"><code class=3D"hljs livecodeserver has-numbering=
+">src/redis-cli -c -p <span class=3D"hljs-number" style=3D"color: rgb(0,102=
+,102);">7000</span>
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><s=
+pan class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span c=
+lass=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000</span>&gt; <span cla=
+ss=3D"hljs-built_in" style=3D"color: rgb(102,0,102);">set</span> hisoka wel=
+come
+-&gt; Redirected <span class=3D"hljs-built_in" style=3D"color: rgb(102,0,10=
+2);">to</span> slot [<span class=3D"hljs-number" style=3D"color: rgb(0,102,=
+102);">9822</span>] located <span class=3D"hljs-keyword" style=3D"color: rg=
+b(0,0,136);">at</span> <span class=3D"hljs-number" style=3D"color: rgb(0,10=
+2,102);">127.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,=
+102);">.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);=
+">.1</span>:<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">70=
+01</span>
+OK
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><s=
+pan class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span c=
+lass=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">7001</span>&gt; <span cla=
+ss=3D"hljs-built_in" style=3D"color: rgb(102,0,102);">get</span> hisoka
+<span class=3D"hljs-string" style=3D"color: rgb(0,136,0);">"welcome"</span>
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><s=
+pan class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span c=
+lass=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">7001</span>&gt; <span cla=
+ss=3D"hljs-built_in" style=3D"color: rgb(102,0,102);">set</span> hinsteny <=
+span class=3D"hljs-string" style=3D"color: rgb(0,136,0);">'love sing'</span=
+>
+OK
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><s=
+pan class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span c=
+lass=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">7001</span>&gt; <span cla=
+ss=3D"hljs-built_in" style=3D"color: rgb(102,0,102);">get</span> hinsteny
+<span class=3D"hljs-string" style=3D"color: rgb(0,136,0);">"love sing"</spa=
+n>
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><s=
+pan class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span c=
+lass=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">7001</span>&gt; <span cla=
+ss=3D"hljs-built_in" style=3D"color: rgb(102,0,102);">set</span> k3 k3_val
+-&gt; Redirected <span class=3D"hljs-built_in" style=3D"color: rgb(102,0,10=
+2);">to</span> slot [<span class=3D"hljs-number" style=3D"color: rgb(0,102,=
+102);">4576</span>] located <span class=3D"hljs-keyword" style=3D"color: rg=
+b(0,0,136);">at</span> <span class=3D"hljs-number" style=3D"color: rgb(0,10=
+2,102);">127.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,=
+102);">.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102);=
+">.1</span>:<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">70=
+00</span>
+OK
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><s=
+pan class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span c=
+lass=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">7000</span>&gt; <span cla=
+ss=3D"hljs-built_in" style=3D"color: rgb(102,0,102);">set</span> k5 k5_val
+-&gt; Redirected <span class=3D"hljs-built_in" style=3D"color: rgb(102,0,10=
+2);">to</span> slot [<span class=3D"hljs-number" style=3D"color: rgb(0,102,=
+102);">12582</span>] located <span class=3D"hljs-keyword" style=3D"color: r=
+gb(0,0,136);">at</span> <span class=3D"hljs-number" style=3D"color: rgb(0,1=
+02,102);">127.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102=
+,102);">.0</span><span class=3D"hljs-number" style=3D"color: rgb(0,102,102)=
+;">.1</span>:<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">7=
+002</span>
+OK
+<span class=3D"hljs-number" style=3D"color: rgb(0,102,102);">127.0</span><s=
+pan class=3D"hljs-number" style=3D"color: rgb(0,102,102);">.0</span><span c=
+lass=3D"hljs-number" style=3D"color: rgb(0,102,102);">.1</span>:<span class=
+=3D"hljs-number" style=3D"color: rgb(0,102,102);">7002</span>&gt;=20
+</code></pre>
+<p style=3D"text-align: left;"><br></p>
+    </div>
+</body>
+</html>
+------=_Part_10576_36191370.1546417741265--

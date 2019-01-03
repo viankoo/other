@@ -1,0 +1,377 @@
+Message-ID: <1006255902.10593.1546418161707.JavaMail.root@shjhkftoolssrv.ciicsh.local>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_10592_316392176.1546418161706"
+
+------=_Part_10592_316392176.1546418161706
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Vue.JS=E7=8E=AF=E5=A2=83=E6=90=AD=E5=BB=BA</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Vue.JS=E7=8E=AF=E5=A2=83=E6=90=AD=E5=BB=BA</h1>
+    <div class=3D"Section1">
+        <p>=E7=AE=80=E8=A6=81=E4=BB=8B=E7=BB=8D=EF=BC=9A</p>
+<p><strong>vue</strong><strong>=E6=8E=A8=E8=8D=90=E5=BC=80=E5=8F=91=E7=8E=
+=AF=E5=A2=83:</strong></p>
+<p>Node.js: javascript=E8=BF=90=E8=A1=8C=E7=8E=AF=E5=A2=83(runtime),=E4=B8=
+=8D=E5=90=8C=E7=B3=BB=E7=BB=9F=E7=9B=B4=E6=8E=A5=E8=BF=90=E8=A1=8C=E5=90=84=
+=E7=A7=8D=E7=BC=96=E7=A8=8B=E8=AF=AD=E8=A8=80</p>
+<p>npm: Nodejs=E4=B8=8B=E7=9A=84=E5=8C=85=E7=AE=A1=E7=90=86=E5=99=A8=E3=80=
+=82=E7=94=B1=E4=BA=8E=E5=9B=BD=E5=86=85=E4=BD=BF=E7=94=A8npm=E4=BC=9A=E5=BE=
+=88=E6=85=A2,=E8=BF=99=E9=87=8C=E6=8E=A8=E8=8D=90=E4=BD=BF=E7=94=A8=E6=B7=
+=98=E5=AE=9DNPM=E9=95=9C=E5=83=8F=EF=BC=88<a href=3D"http://npm.taobao.org/=
+=EF=BC=89" class=3D"external-link" rel=3D"nofollow">http://npm.taobao.org/=
+=EF=BC=89</a></p>
+<p>$ npm install -g cnpm --registry=3D<a href=3D"https://registry.npm.taoba=
+o.org" class=3D"external-link" rel=3D"nofollow">https://registry.npm.taobao=
+.org</a></p>
+<p>webpack: =E5=AE=83=E4=B8=BB=E8=A6=81=E7=9A=84=E7=94=A8=E9=80=94=E6=98=AF=
+=E9=80=9A=E8=BF=87 CommonJS =E7=9A=84=E8=AF=AD=E6=B3=95=E6=8A=8A=E6=89=80=
+=E6=9C=89=E6=B5=8F=E8=A7=88=E5=99=A8=E7=AB=AF=E9=9C=80=E8=A6=81=E5=8F=91=E5=
+=B8=83=E7=9A=84=E9=9D=99=E6=80=81=E8=B5=84=E6=BA=90=E5=81=9A=E7=9B=B8=E5=BA=
+=94=E7=9A=84=E5=87=86=E5=A4=87=EF=BC=8C=E6=AF=94=E5=A6=82=E8=B5=84=E6=BA=90=
+=E7=9A=84=E5=90=88=E5=B9=B6=E5=92=8C=E6=89=93=E5=8C=85=E3=80=82</p>
+<p>vue-cli: =E7=94=A8=E6=88=B7=E7=94=9F=E6=88=90Vue=E5=B7=A5=E7=A8=8B=E6=A8=
+=A1=E6=9D=BF</p>
+<p>&nbsp;</p>
+<p><strong>1=E3=80=81=E9=9C=80=E8=A6=81=E5=AE=89=E8=A3=85=E7=9A=84=E5=B7=A5=
+=E5=85=B7</strong></p>
+<p>=EF=BC=881=EF=BC=89javascript=E8=BF=90=E8=A1=8C=E7=8E=AF=E5=A2=83(runtim=
+e)=EF=BC=9Anode.js</p>
+<p>=EF=BC=882=EF=BC=89=E5=BC=80=E5=8F=91=E5=B7=A5=E5=85=B7=EF=BC=9Avisual s=
+tudio code</p>
+<p>&nbsp;</p>
+<p><strong>2=E3=80=81=E5=AE=89=E8=A3=85=E6=AD=A5=E9=AA=A4</strong></p>
+<p>=EF=BC=881=EF=BC=89=E4=BB=8EFTP=E4=B8=8A=E4=B8=8B=E8=BD=BDNodeJS=EF=BC=
+=8C=E6=88=96=E8=80=85=E4=BB=8E<a href=3D"https://nodejs.org/en/http:/" clas=
+s=3D"external-link" rel=3D"nofollow">node.js=E5=AE=98=E7=BD=91</a>=E4=B8=8B=
+=E8=BD=BD=E5=B9=B6=E5=AE=89=E8=A3=85node=EF=BC=8C=E5=AE=89=E8=A3=85=E8=BF=
+=87=E7=A8=8B=E5=BE=88=E7=AE=80=E5=8D=95=EF=BC=8C=E4=B8=80=E8=B7=AF=E2=80=9C=
+=E4=B8=8B=E4=B8=80=E6=AD=A5=E2=80=9D=E5=B0=B1=E5=8F=AF=E4=BB=A5=E4=BA=86=EF=
+=BC=88=E5=82=BB=E7=93=9C=E5=BC=8F=E5=AE=89=E8=A3=85=EF=BC=89=E3=80=82</p>
+<p>=EF=BC=882=EF=BC=89=E5=AE=89=E8=A3=85=E5=AE=8C=E6=88=90=E4=B9=8B=E5=90=
+=8E=EF=BC=8C=E6=89=93=E5=BC=80=E5=91=BD=E4=BB=A4=E8=A1=8C=E5=B7=A5=E5=85=B7=
+=EF=BC=8C=E8=BE=93=E5=85=A5&nbsp;node -v=EF=BC=8C=E5=A6=82=E4=B8=8B=E5=9B=
+=BE=EF=BC=8C=E5=A6=82=E6=9E=9C=E5=87=BA=E7=8E=B0=E7=9B=B8=E5=BA=94=E7=9A=84=
+=E7=89=88=E6=9C=AC=E5=8F=B7=EF=BC=8C=E5=88=99=E8=AF=B4=E6=98=8E=E5=AE=89=E8=
+=A3=85=E6=88=90=E5=8A=9F=E3=80=82</p>
+<p>npm=E5=8C=85=E7=AE=A1=E7=90=86=E5=99=A8=EF=BC=8C=E6=98=AF=E9=9B=86=E6=88=
+=90=E5=9C=A8node=E4=B8=AD=E7=9A=84=EF=BC=8C=E6=89=80=E4=BB=A5=EF=BC=8C=E7=
+=9B=B4=E6=8E=A5=E8=BE=93=E5=85=A5&nbsp;npm -v=E5=B0=B1=E4=BC=9A=E5=A6=82=E4=
+=B8=8B=E5=9B=BE=E6=89=80=E7=A4=BA=EF=BC=8C=E6=98=BE=E7=A4=BA=E5=87=BAnpm=E7=
+=9A=84=E7=89=88=E6=9C=AC=E4=BF=A1=E6=81=AF=E3=80=82</p>
+<p>=EF=BC=883=EF=BC=89=E7=94=B1=E4=BA=8E=E6=9C=89=E4=BA=9Bnpm=E6=9C=89=E4=
+=BA=9B=E8=B5=84=E6=BA=90=E8=A2=AB=E5=B1=8F=E8=94=BD=E6=88=96=E8=80=85=E6=98=
+=AF=E5=9B=BD=E5=A4=96=E8=B5=84=E6=BA=90=E7=9A=84=E5=8E=9F=E5=9B=A0=EF=BC=8C=
+=E7=BB=8F=E5=B8=B8=E4=BC=9A=E5=AF=BC=E8=87=B4=E7=94=A8npm=E5=AE=89=E8=A3=85=
+=E4=BE=9D=E8=B5=96=E5=8C=85=E7=9A=84=E6=97=B6=E5=80=99=E5=A4=B1=E8=B4=A5=EF=
+=BC=8C=E6=89=80=E6=9C=89=E8=BF=98=E9=9C=80=E8=A6=81npm=E7=9A=84=E5=9B=BD=E5=
+=86=85=E9=95=9C=E5=83=8F---cnpm=E3=80=82</p>
+<p>=E5=AE=89=E8=A3=85cnpm</p>
+<p>=E5=9C=A8=E5=91=BD=E4=BB=A4=E8=A1=8C=E4=B8=AD=E8=BE=93=E5=85=A5&nbsp;npm=
+ install -g cnpm --registry=3D<a href=3D"http://registry.npm.taobao.org" cl=
+ass=3D"external-link" rel=3D"nofollow">http://registry.npm.taobao.org</a>&n=
+bsp;=E7=84=B6=E5=90=8E=E7=AD=89=E5=BE=85=E3=80=82</p>
+<p>=E5=AE=8C=E6=88=90=E4=B9=8B=E5=90=8E=EF=BC=8C=E6=88=91=E4=BB=AC=E5=B0=B1=
+=E5=8F=AF=E4=BB=A5=E7=94=A8cnpm=E4=BB=A3=E6=9B=BFnpm=E6=9D=A5=E5=AE=89=E8=
+=A3=85=E4=BE=9D=E8=B5=96=E5=8C=85=E4=BA=86=E3=80=82</p>
+<p>=EF=BC=884=EF=BC=89=E5=AE=89=E8=A3=85vue-cli=E8=84=9A=E6=89=8B=E6=9E=B6=
+=E6=9E=84=E5=BB=BA=E5=B7=A5=E5=85=B7</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; =E5=9C=A8=E5=91=BD=E4=BB=A4=E8=A1=8C=E4=B8=AD=
+=E8=BF=90=E8=A1=8C=E5=91=BD=E4=BB=A4&nbsp;npm install -g vue-cli&nbsp;=EF=
+=BC=8C=E7=84=B6=E5=90=8E=E7=AD=89=E5=BE=85=E5=AE=89=E8=A3=85=E5=AE=8C=E6=88=
+=90=E3=80=82</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; =E9=80=9A=E8=BF=87=E4=BB=A5=E4=B8=8A=E6=AD=A5=
+=E9=AA=A4=EF=BC=8C=E6=88=91=E4=BB=AC=E9=9C=80=E8=A6=81=E5=87=86=E5=A4=87=E7=
+=9A=84=E7=8E=AF=E5=A2=83=E5=92=8C=E5=B7=A5=E5=85=B7=E9=83=BD=E5=87=86=E5=A4=
+=87=E5=A5=BD=E4=BA=86=EF=BC=8C=E6=8E=A5=E4=B8=8B=E6=9D=A5=E5=B0=B1=E5=BC=80=
+=E5=A7=8B=E4=BD=BF=E7=94=A8vue-cli=E6=9D=A5=E6=9E=84=E5=BB=BA=E9=A1=B9=E7=
+=9B=AE</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; =E5=85=B7=E4=BD=93=E6=AD=A5=E9=AA=A4=E5=92=8C=
+=E6=88=AA=E5=9B=BE=E5=8F=AF=E5=8F=82=E8=80=83=EF=BC=9A<a href=3D"http://www=
+.cnblogs.com/qdrw/articles/6380091.html" class=3D"external-link" rel=3D"nof=
+ollow">http://www.cnblogs.com/qdrw/articles/6380091.html</a>&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=3D"http://www.jb51.net/article/11=
+3890.htm" class=3D"external-link" rel=3D"nofollow">http://www.jb51.net/arti=
+cle/113890.htm</a></p>
+<p>=EF=BC=885=EF=BC=89=E5=9C=A8=E5=AE=98=E7=BD=91 <a href=3D"https://code.v=
+isualstudio.com/Download" class=3D"external-link" rel=3D"nofollow">https://=
+code.visualstudio.com/Download</a> =E4=B8=8B=E8=BD=BDvisual studio code=EF=
+=BC=8C=E4=B8=8B=E8=BD=BD=E5=88=B0=E6=9C=AC=E5=9C=B0=E5=90=8E=E8=A7=A3=E5=8E=
+=8B=E7=82=B9=E5=87=BBCode.exe=E5=8D=B3=E5=8F=AF=E8=BF=90=E8=A1=8C=E3=80=82<=
+/p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; =E7=82=B9=E5=87=BB=E6=89=93=E5=BC=80=E6=96=87=
+=E4=BB=B6=EF=BC=8C=E9=80=89=E6=8B=A9=E9=A1=B9=E7=9B=AE=E6=89=80=E5=9C=A8=E7=
+=9B=AE=E5=BD=95=E3=80=82</p>
+<p>&nbsp;&nbsp;</p>
+<p><strong>3=E3=80=81=E6=90=AD=E5=BB=BA=E6=9C=AC=E5=9C=B0=E5=BC=80=E5=8F=91=
+=E7=8E=AF=E5=A2=83</strong></p>
+<p>&nbsp;</p>
+<p>=EF=BC=881=EF=BC=89=E5=9C=A8=E6=9C=AC=E5=9C=B0=E6=96=B0=E5=BB=BA=E6=96=
+=87=E4=BB=B6=E5=A4=B9=EF=BC=8C=E6=8A=8A=E9=A1=B9=E7=9B=AE=E6=BA=90=E7=A0=81=
+=E6=96=87=E4=BB=B6=E8=A7=A3=E5=8E=8B=E5=90=8E=E6=94=BE=E5=85=A5=E9=A1=B9=E7=
+=9B=AE=E4=BB=A3=E7=A0=81=E5=B7=A5=E4=BD=9C=E5=8C=BA=E3=80=82</p>
+<p>=EF=BC=882=EF=BC=89=E6=89=93=E5=BC=80win7=E5=91=BD=E4=BB=A4cmd=E7=AA=97=
+=E5=8F=A3=EF=BC=8C=E8=BF=9B=E5=85=A5=E9=A1=B9=E7=9B=AE=E6=BA=90=E7=A0=81=E6=
+=89=80=E5=9C=A8=E8=B7=AF=E5=BE=84=EF=BC=8C=E5=A6=82=EF=BC=9A&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; C:\Users\gaoyang&gt;h:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; H:\&gt;cd projcode</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; H:\projcode&gt;cd vuesalary</p>
+<p>=EF=BC=883=EF=BC=89=E5=AE=89=E8=A3=85=E9=A1=B9=E7=9B=AE=E6=89=80=E9=9C=
+=80=E7=9A=84=E4=BE=9D=E8=B5=96=E8=B5=84=E6=BA=90=E5=8C=85</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; =E5=AE=89=E8=A3=85=E5=AE=8C=E6=88=90=E4=B9=8B=
+=E5=90=8E=EF=BC=8C=E4=BC=9A=E5=9C=A8=E6=88=91=E4=BB=AC=E7=9A=84=E9=A1=B9=E7=
+=9B=AE=E7=9B=AE=E5=BD=95=E6=96=87=E4=BB=B6=E5=A4=B9=E4=B8=AD=E5=A4=9A=E5=87=
+=BA=E4=B8=80=E4=B8=AAnode_modules=E6=96=87=E4=BB=B6=E5=A4=B9=EF=BC=8C=E8=BF=
+=99=E9=87=8C=E8=BE=B9=E5=B0=B1=E6=98=AF=E6=88=91=E4=BB=AC=E9=A1=B9=E7=9B=AE=
+=E9=9C=80=E8=A6=81=E7=9A=84=E4=BE=9D=E8=B5=96=E5=8C=85=E8=B5=84=E6=BA=90=E3=
+=80=82</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; =E6=89=A7=E8=A1=8C=E5=91=BD=E4=BB=A4=E5=A6=82=
+=E4=B8=8B=EF=BC=9A</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; H:\projcode\vuesalary&gt;cnpm install</p>
+<p>=EF=BC=884=EF=BC=89=E8=BF=90=E8=A1=8C=E9=A1=B9=E7=9B=AE</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; =E5=9C=A8=E9=A1=B9=E7=9B=AE=E7=9B=AE=E5=BD=95=
+=E4=B8=AD=EF=BC=8C=E8=BF=90=E8=A1=8C=E5=91=BD=E4=BB=A4&nbsp;npm run dev&nbs=
+p;=EF=BC=8C=E4=BC=9A=E7=94=A8=E7=83=AD=E5=8A=A0=E8=BD=BD=E7=9A=84=E6=96=B9=
+=E5=BC=8F=E8=BF=90=E8=A1=8C=E6=88=91=E4=BB=AC=E7=9A=84=E5=BA=94=E7=94=A8=EF=
+=BC=8C=E7=83=AD=E5=8A=A0=E8=BD=BD=E5=8F=AF=E4=BB=A5=E8=AE=A9=E6=88=91=E4=BB=
+=AC=E5=9C=A8=E4=BF=AE=E6=94=B9=E5=AE=8C=E4=BB=A3=E7=A0=81=E5=90=8E=E4=B8=8D=
+=E7=94=A8=E6=89=8B=E5=8A=A8=E5=88=B7=E6=96=B0=E6=B5=8F=E8=A7=88=E5=99=A8=E5=
+=B0=B1=E8=83=BD=E5=AE=9E=E6=97=B6=E7=9C=8B=E5=88=B0=E4=BF=AE=E6=94=B9=E5=90=
+=8E=E7=9A=84=E6=95=88=E6=9E=9C=E3=80=82</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; =E6=89=A7=E8=A1=8C=E5=91=BD=E4=BB=A4=E5=A6=82=
+=E4=B8=8B=EF=BC=9A</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; H:\projcode\vuesalary&gt;npm run dev</p>
+<p>=EF=BC=885=EF=BC=89=E5=81=9C=E6=AD=A2=E6=9C=8D=E5=8A=A1</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; =E9=80=80=E5=87=BA=E7=9B=91=E5=90=AC=EF=BC=8C=
+=E5=8F=AF=E4=BB=A5=E7=9B=B4=E6=8E=A5Ctrl+C=EF=BC=8C=E9=80=89=E6=8B=A9Y=E3=
+=80=82</p>
+<p>&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_10592_316392176.1546418161706--
